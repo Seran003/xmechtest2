@@ -59,14 +59,6 @@ flowchart TD
     I --> J[Invoice Generation]
     J --> K[Payment Tracking]
     
-    style A fill:#ffcccc
-    style B fill:#ffcccc
-    style C fill:#ffcccc
-    style E fill:#ffcccc
-    style F fill:#ffcccc
-    style H fill:#ffcccc
-    style I fill:#ffcccc
-    
     classDef manual fill:#ffcccc,stroke:#ff0000,stroke-width:2px
 ```
 

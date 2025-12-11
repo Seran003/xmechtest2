@@ -29,10 +29,6 @@ flowchart TD
     F --> G[Material Received<br/>Confirmation]
     G --> H[Ready for<br/>Scheduling]
     
-    style B fill:#ccffcc
-    style C fill:#ccffcc
-    style E fill:#ccffcc
-    style F fill:#ccffcc
 ```
 
 ### Phase 2: Intelligent Job Scheduling
@@ -49,10 +45,6 @@ flowchart TD
     G --> H[Calendar Integration]
     H --> I[Mobile Notifications<br/>to Engineers]
     
-    style B fill:#ccffcc
-    style C fill:#ccffcc
-    style H fill:#ccffcc
-    style I fill:#ccffcc
 ```
 
 ### Phase 3: Field Execution & Documentation
@@ -71,10 +63,6 @@ flowchart TD
     I --> J
     J --> K[Mark Phase/Job<br/>Complete]
     
-    style D fill:#ccffcc
-    style F fill:#ccffcc
-    style H fill:#ccffcc
-    style J fill:#ccffcc
 ```
 
 ### Phase 4: Automated Invoicing & Financial Sync
@@ -89,10 +77,6 @@ flowchart TD
     F --> G[Payment Tracking<br/>& Reminders]
     G --> H[Update Project<br/>Status]
     
-    style B fill:#ccffcc
-    style C fill:#ccffcc
-    style E fill:#ccffcc
-    style G fill:#ccffcc
 ```
 
 ## Detailed System Architecture
