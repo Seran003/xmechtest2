@@ -1,0 +1,5724 @@
+1
+00:00:00,000 --> 00:00:02,000
+You
+
+2
+00:00:30,000 --> 00:00:32,000
+You
+
+3
+00:01:00,000 --> 00:01:02,000
+You
+
+4
+00:01:30,000 --> 00:01:32,000
+You
+
+5
+00:02:00,000 --> 00:02:02,000
+You
+
+6
+00:02:08,000 --> 00:02:18,000
+After the drywalls done then we do a trim and so there's a labor phase for that and so then after that there's another page in there is for materials and that's going to be the whole entire job
+
+7
+00:02:18,000 --> 00:02:25,000
+And what that's how we do it and that's how we create the estimate at the estimate time where we're talking up front here
+
+8
+00:02:25,000 --> 00:02:31,000
+We don't need to break all that thing down and to something for later for a job sheet
+
+9
+00:02:31,000 --> 00:02:37,000
+We can and it wouldn't be a hurtful thing. I mean, I think it'd be just easy to just do that
+
+10
+00:02:37,000 --> 00:02:45,000
+But the what's problematic is what happens if they make changes to the job will have to redo all that whole thing again
+
+11
+00:02:45,000 --> 00:02:50,000
+And so I don't know if that's a thing where we press a button and it's okay
+
+12
+00:02:50,000 --> 00:02:52,000
+Turn it to a job
+
+13
+00:02:52,000 --> 00:02:58,000
+I think that's what we do for later, right, but during the S it would be it would pull the same data from both
+
+14
+00:02:58,000 --> 00:03:03,000
+When it becomes a job and when it's an estimate right to be to the two separate things
+
+15
+00:03:03,000 --> 00:03:09,000
+So we can utilize the same thing and that could be in this workflow twice, right? Yes, okay
+
+16
+00:03:10,000 --> 00:03:15,000
+So to double thing, now one thing is your bid face, right?
+
+17
+00:03:15,000 --> 00:03:18,000
+Yeah, but you are estimating so that you can give a code to them
+
+18
+00:03:18,000 --> 00:03:19,000
+Correct
+
+19
+00:03:19,000 --> 00:03:24,000
+And then so the bid needs to close as a task, right? Meaning like they have to approve it
+
+20
+00:03:24,000 --> 00:03:28,000
+Yeah, before you get in, so how do you send out that information to them?
+
+21
+00:03:28,000 --> 00:03:34,000
+So right now what I do is I use my Excel spreadsheet to come up with the price, right?
+
+22
+00:03:34,000 --> 00:03:38,000
+All the labor, I put all this stuff, spits me out of price at the bottom
+
+23
+00:03:38,000 --> 00:03:43,000
+Then I take a word document and I edit that word document
+
+24
+00:03:43,000 --> 00:03:48,000
+Once I put the price in all the materials and whatnot, let's go what we're doing
+
+25
+00:03:48,000 --> 00:03:55,000
+And then I flip that to a PDF and then I take that original email or whatever
+
+26
+00:03:55,000 --> 00:04:01,000
+They set me an email with the plans, I'll return that email for that, so it's the same chain
+
+27
+00:04:01,000 --> 00:04:06,000
+With the bid, with the PDF bid on that, and that's how I send it to them
+
+28
+00:04:06,000 --> 00:04:12,000
+And then what I do right now is I load that into my bid board, I just put data set on such and such date
+
+29
+00:04:12,000 --> 00:04:20,000
+And every time I talk to them or every time that I have communication with them, I'll put a note in there right there
+
+30
+00:04:20,000 --> 00:04:24,000
+And so that's something we can have on this individual workspace
+
+31
+00:04:24,000 --> 00:04:28,000
+Right, so all of that has to come here, right? So this will become your bid board
+
+32
+00:04:28,000 --> 00:04:35,000
+Basically, like you can come in and then like just what if you're submitting a bid, you can just say like you know
+
+33
+00:04:35,000 --> 00:04:41,000
+You're entering some important details and then you say this is my bid, I sent it
+
+34
+00:04:41,000 --> 00:04:44,000
+Yeah, and we can also
+
+35
+00:04:44,000 --> 00:04:50,000
+Like if you have a template of the word document
+
+36
+00:04:50,000 --> 00:04:51,000
+I do
+
+37
+00:04:51,000 --> 00:04:59,000
+We can, so once you enter all the details in the bid, we can even like generate that word document
+
+38
+00:04:59,000 --> 00:05:01,000
+But we need to come up with like a fixed format
+
+39
+00:05:01,000 --> 00:05:06,000
+Yeah, so I mean, so like I put equipment and stuff like there, but we could put a drop down
+
+40
+00:05:06,000 --> 00:05:07,000
+You put like a table in there
+
+41
+00:05:07,000 --> 00:05:15,000
+Yeah, so yeah, so right now again for the other one, like we just say like square brackets, so I get square brackets
+
+42
+00:05:15,000 --> 00:05:17,000
+Equipments for square brackets
+
+43
+00:05:17,000 --> 00:05:22,000
+We think and what our program does is once you fill up this bid sheet
+
+44
+00:05:22,000 --> 00:05:26,000
+You can say once that spreadsheet is ready
+
+45
+00:05:26,000 --> 00:05:34,000
+We can just you can tell this is the cell the equipment comes from this is the cell this one comes from and we can pull that data from there
+
+46
+00:05:34,000 --> 00:05:39,000
+Yeah, you can even display to you on this dashboard and you say generate proposal
+
+47
+00:05:39,000 --> 00:05:43,000
+It takes all that information put it into the word document
+
+48
+00:05:43,000 --> 00:05:45,000
+And then sends it to you in an email
+
+49
+00:05:45,000 --> 00:05:48,000
+Perfect, and all if you want PDF, we can send it to you as a preview
+
+50
+00:05:48,000 --> 00:05:51,000
+Yeah, I'd want on PDF because then that's what I send to you
+
+51
+00:05:51,000 --> 00:05:56,000
+Yeah, so the other thing is we can also integrate it with DocuSign or Pantera doc
+
+52
+00:05:56,000 --> 00:06:00,000
+And send it to them as a signature ready to sign
+
+53
+00:06:00,000 --> 00:06:02,000
+I'd be okay with that later
+
+54
+00:06:02,000 --> 00:06:05,000
+Okay, for now just for now is good. Yeah, just PDF for now
+
+55
+00:06:05,000 --> 00:06:08,000
+DocuSign, so some of my builders would be fine with that
+
+56
+00:06:08,000 --> 00:06:11,000
+Some of our builders would be like absolutely not
+
+57
+00:06:11,000 --> 00:06:16,000
+So I got a couple builders that actually loaded into their builder trend
+
+58
+00:06:16,000 --> 00:06:20,000
+Okay, and I load the bid onto them so that docuSign that wouldn't work in that
+
+59
+00:06:20,000 --> 00:06:25,000
+But I do when I do their builder trend, I do give them the PDF of the bid
+
+60
+00:06:25,000 --> 00:06:27,000
+So I upload that too
+
+61
+00:06:27,000 --> 00:06:36,000
+Okay, so we can just make this workflow like, you know, you come in, you'll put the information in the sheet
+
+62
+00:06:36,000 --> 00:06:42,000
+Or if it's simple enough, we can see what goes into that sheet that you can enter here
+
+63
+00:06:42,000 --> 00:06:45,000
+We populate that into this spreadsheet
+
+64
+00:06:45,000 --> 00:06:48,000
+Yep, and then we pull the information show it to you
+
+65
+00:06:48,000 --> 00:06:51,000
+We're like, you know what this all information looks good
+
+66
+00:06:51,000 --> 00:06:56,000
+Now go generate a proposal for me, and it can generate and send the PDF to you
+
+67
+00:06:56,000 --> 00:06:58,000
+Good
+
+68
+00:06:58,000 --> 00:07:02,000
+But again, we will have a follow up to talk specifics
+
+69
+00:07:02,000 --> 00:07:05,000
+Oh, I'd like, yeah, we're just more high-level right now
+
+70
+00:07:05,000 --> 00:07:09,000
+I get that, yes, I'm ready to turn around and start throwing, but we're not there yet
+
+71
+00:07:09,000 --> 00:07:10,000
+Yeah, and I get that
+
+72
+00:07:10,000 --> 00:07:14,000
+Alright, so workflow, contact builder sends me an email
+
+73
+00:07:14,000 --> 00:07:16,000
+He sends me plans and specs
+
+74
+00:07:16,000 --> 00:07:21,000
+We need to be able to load it up into here for the into our bid board into Google workspace
+
+75
+00:07:21,000 --> 00:07:24,000
+It'll us automatically assign a task to whoever
+
+76
+00:07:24,000 --> 00:07:30,000
+Yeah, and then we'll go outside of that and we'll do our Excel spreadsheet and we're document
+
+77
+00:07:30,000 --> 00:07:34,000
+And then this will be able to go grab it, we'll figure out how to do that
+
+78
+00:07:34,000 --> 00:07:36,000
+It'll grab it, stick it in here
+
+79
+00:07:36,000 --> 00:07:39,000
+Yeah, and so then we can have, for follow up, right?
+
+80
+00:07:39,000 --> 00:07:43,000
+Yeah, so that's always live, and so that it'll set a date to follow up and things like
+
+81
+00:07:43,000 --> 00:07:45,000
+Yeah, automatically populate like that
+
+82
+00:07:45,000 --> 00:07:49,000
+Yes, and that'll be the big face of this particular type of a job
+
+83
+00:07:49,000 --> 00:07:50,000
+Yeah, correct?
+
+84
+00:07:50,000 --> 00:07:54,000
+Right, and so from there it goes to be, you know, they schedule it
+
+85
+00:07:54,000 --> 00:07:56,000
+They said they want to do that, right?
+
+86
+00:07:56,000 --> 00:08:00,000
+So now we go to the scheduling part, and then we go to the job.
+
+87
+00:08:00,000 --> 00:08:02,000
+It becomes a job too, right?
+
+88
+00:08:02,000 --> 00:08:04,000
+And so that's the next part.
+
+89
+00:08:04,000 --> 00:08:07,000
+So scheduling is what I've said I wanted to work on.
+
+90
+00:08:07,000 --> 00:08:10,000
+However, the project is what needs to be created next.
+
+91
+00:08:10,000 --> 00:08:12,000
+Is that, would that make sense?
+
+92
+00:08:12,000 --> 00:08:13,000
+Yeah, right?
+
+93
+00:08:13,000 --> 00:08:15,000
+So the next part is the project.
+
+94
+00:08:15,000 --> 00:08:19,000
+Yeah, so just one thing, the assigning the team member to be a drop don't of the different,
+
+95
+00:08:19,000 --> 00:08:22,000
+Yeah, we can have, if you have a list of team members,
+
+96
+00:08:22,000 --> 00:08:27,000
+We can give the email IDs, so you just pick them from the drop don,
+
+97
+00:08:27,000 --> 00:08:30,000
+And then you can send, you can click send email here.
+
+98
+00:08:30,000 --> 00:08:33,000
+It'll automatically send a email or send a task to ask.
+
+99
+00:08:33,000 --> 00:08:36,000
+Yeah, I mean, yeah, you assign a task here,
+
+100
+00:08:36,000 --> 00:08:39,000
+But you need to still be able to tell them that, right,
+
+101
+00:08:39,000 --> 00:08:42,000
+They have a task that they need to come and take a look at it, right?
+
+102
+00:08:42,000 --> 00:08:47,000
+Yeah, well, I was, I'm envisioning this as a, I don't know if it's all encompassing
+
+103
+00:08:47,000 --> 00:08:51,000
+It's everybody or it's individual based on the individual.
+
+104
+00:08:51,000 --> 00:08:55,000
+And so they pull up their workspace here or whatever it is.
+
+105
+00:08:55,000 --> 00:08:56,000
+Here's my tasks.
+
+106
+00:08:56,000 --> 00:08:58,000
+It's already pre-loaded up there, right?
+
+107
+00:08:58,000 --> 00:09:00,000
+Rather than sending an email like it's cumbersome.
+
+108
+00:09:00,000 --> 00:09:01,000
+Okay, right?
+
+109
+00:09:01,000 --> 00:09:05,000
+I'd rather have it say, okay, you got a bid due on this day, right?
+
+110
+00:09:05,000 --> 00:09:07,000
+You got a bid due on this day and other things.
+
+111
+00:09:07,000 --> 00:09:09,000
+You've got a project that's due.
+
+112
+00:09:09,000 --> 00:09:10,000
+You got materials that need to be ordered.
+
+113
+00:09:10,000 --> 00:09:12,000
+You got equipment and needs to be ordered.
+
+114
+00:09:12,000 --> 00:09:16,000
+I'd rather populate it that way on a task list and Google workspace,
+
+115
+00:09:16,000 --> 00:09:19,000
+So they have to actually load in, so they're looking at it.
+
+116
+00:09:19,000 --> 00:09:22,000
+Rather than sending 75 emails and trying to sort through it.
+
+117
+00:09:22,000 --> 00:09:23,000
+Got it.
+
+118
+00:09:23,000 --> 00:09:26,000
+Yeah, we can have like, if that's possible.
+
+119
+00:09:26,000 --> 00:09:27,000
+Yes, it's possible.
+
+120
+00:09:27,000 --> 00:09:28,000
+Okay, yeah.
+
+121
+00:09:28,000 --> 00:09:31,000
+But we might have to think through to see, like,
+
+122
+00:09:31,000 --> 00:09:37,000
+How do you want to scale it, meaning like, do you want to keep the task separate,
+
+123
+00:09:37,000 --> 00:09:38,000
+job separate?
+
+124
+00:09:38,000 --> 00:09:42,000
+So when they come in, they can have like tabs like this.
+
+125
+00:09:42,000 --> 00:09:44,000
+Yeah, say like bid tasks.
+
+126
+00:09:44,000 --> 00:09:45,000
+I don't think so.
+
+127
+00:09:45,000 --> 00:09:46,000
+I don't think so.
+
+128
+00:09:46,000 --> 00:09:47,000
+I think we can cover code it, right?
+
+129
+00:09:47,000 --> 00:09:49,000
+We can say if it's a bid, it's blue.
+
+130
+00:09:49,000 --> 00:09:52,000
+If it's a job that needs to be created, it's green.
+
+131
+00:09:52,000 --> 00:09:53,000
+Yeah.
+
+132
+00:09:53,000 --> 00:09:55,000
+If it's a task that hasn't been done, it's red, right?
+
+133
+00:09:55,000 --> 00:09:56,000
+Right.
+
+134
+00:09:56,000 --> 00:09:59,000
+Or like, you know, I think if we color it coded that way,
+
+135
+00:09:59,000 --> 00:10:01,000
+then that would be easier to separate.
+
+136
+00:10:01,000 --> 00:10:02,000
+Okay.
+
+137
+00:10:02,000 --> 00:10:03,000
+Okay.
+
+138
+00:10:03,000 --> 00:10:05,000
+We could say what task it is, what type of a task,
+
+139
+00:10:05,000 --> 00:10:07,000
+and so we could sort it by type of task,
+
+140
+00:10:07,000 --> 00:10:10,000
+and then type of tasks can be colors.
+
+141
+00:10:10,000 --> 00:10:11,000
+Yeah.
+
+142
+00:10:11,000 --> 00:10:13,000
+And now my guys respond really well to using colors.
+
+143
+00:10:13,000 --> 00:10:15,000
+I like everything in a different color.
+
+144
+00:10:15,000 --> 00:10:16,000
+Okay.
+
+145
+00:10:16,000 --> 00:10:17,000
+I've adapted to it.
+
+146
+00:10:17,000 --> 00:10:18,000
+That's my people.
+
+147
+00:10:18,000 --> 00:10:19,000
+That's how they work.
+
+148
+00:10:19,000 --> 00:10:20,000
+Okay.
+
+149
+00:10:20,000 --> 00:10:21,000
+I mean, we can definitely build a color code.
+
+150
+00:10:21,000 --> 00:10:22,000
+It's easy for us.
+
+151
+00:10:22,000 --> 00:10:23,000
+Yeah.
+
+152
+00:10:23,000 --> 00:10:24,000
+Yeah.
+
+153
+00:10:24,000 --> 00:10:25,000
+Okay.
+
+154
+00:10:25,000 --> 00:10:26,000
+Okay.
+
+155
+00:10:26,000 --> 00:10:27,000
+So you assign the tasks to them for bid.
+
+156
+00:10:27,000 --> 00:10:28,000
+Someone has to complete it.
+
+157
+00:10:28,000 --> 00:10:31,000
+And then they have to make sure that it is submitted.
+
+158
+00:10:31,000 --> 00:10:32,000
+So the tasks becomes green.
+
+159
+00:10:32,000 --> 00:10:36,000
+And then they can send it back to you or to whoever they want it.
+
+160
+00:10:36,000 --> 00:10:37,000
+Right.
+
+161
+00:10:37,000 --> 00:10:38,000
+And so it sits there for follow up, right?
+
+162
+00:10:38,000 --> 00:10:40,000
+So then follow up, it's probably going to be me.
+
+163
+00:10:40,000 --> 00:10:42,000
+I mean, this whole period is probably going to be me.
+
+164
+00:10:42,000 --> 00:10:43,000
+But for now.
+
+165
+00:10:43,000 --> 00:10:44,000
+Okay.
+
+166
+00:10:44,000 --> 00:10:45,000
+All right.
+
+167
+00:10:45,000 --> 00:10:50,000
+So now the builder calls and says, hey, I want to want to do this job with you.
+
+168
+00:10:50,000 --> 00:10:53,000
+And I need a schedule for April 1st.
+
+169
+00:10:53,000 --> 00:10:54,000
+Okay.
+
+170
+00:10:54,000 --> 00:10:57,000
+So now we go into the next part, which would be we need to.
+
+171
+00:10:57,000 --> 00:11:00,000
+We need to take this bid and make it a project project.
+
+172
+00:11:00,000 --> 00:11:01,000
+Yeah.
+
+173
+00:11:01,000 --> 00:11:02,000
+Right.
+
+174
+00:11:02,000 --> 00:11:04,000
+So we can have like all the active bits.
+
+175
+00:11:04,000 --> 00:11:05,000
+Right.
+
+176
+00:11:05,000 --> 00:11:08,000
+And you can say this status is spending submitted.
+
+177
+00:11:08,000 --> 00:11:09,000
+Right.
+
+178
+00:11:09,000 --> 00:11:10,000
+Yep.
+
+179
+00:11:10,000 --> 00:11:12,000
+And then you can say convert that into a job.
+
+180
+00:11:12,000 --> 00:11:13,000
+Yep.
+
+181
+00:11:13,000 --> 00:11:17,000
+What happened is that bid will then move into the job board.
+
+182
+00:11:17,000 --> 00:11:20,000
+With all the details of what has been submitted.
+
+183
+00:11:20,000 --> 00:11:22,000
+Okay. So here's my first question.
+
+184
+00:11:22,000 --> 00:11:24,000
+So once we take all this right.
+
+185
+00:11:24,000 --> 00:11:25,000
+We've got to work with workspace.
+
+186
+00:11:25,000 --> 00:11:27,000
+We've got to map to everything like that.
+
+187
+00:11:27,000 --> 00:11:29,000
+And now we want to create a project.
+
+188
+00:11:29,000 --> 00:11:31,000
+Will this be able to say.
+
+189
+00:11:31,000 --> 00:11:35,000
+Here's a project uploaded the QuickBooks to QuickBooks project.
+
+190
+00:11:35,000 --> 00:11:39,000
+And it automatically sinks it updates or whatever we decide to do with that.
+
+191
+00:11:39,000 --> 00:11:41,000
+And automatically comes in.
+
+192
+00:11:41,000 --> 00:11:44,000
+And it could prep, prep makes all my stuff for billing and everything like that.
+
+193
+00:11:44,000 --> 00:11:45,000
+Will it do all that?
+
+194
+00:11:45,000 --> 00:11:47,000
+In theory. Yes.
+
+195
+00:11:47,000 --> 00:11:48,000
+But.
+
+196
+00:11:48,000 --> 00:11:53,000
+But the reason I'm saying is QuickBooks has limitations on the APIs.
+
+197
+00:11:53,000 --> 00:11:54,000
+Yes.
+
+198
+00:11:54,000 --> 00:11:55,000
+That it exposes.
+
+199
+00:11:55,000 --> 00:11:56,000
+Yeah.
+
+200
+00:11:56,000 --> 00:11:59,000
+As long as there is an API that's available that we can talk to.
+
+201
+00:11:59,000 --> 00:12:00,000
+Yeah.
+
+202
+00:12:00,000 --> 00:12:01,000
+With your account.
+
+203
+00:12:01,000 --> 00:12:02,000
+We should be able to do it.
+
+204
+00:12:02,000 --> 00:12:03,000
+Okay.
+
+205
+00:12:03,000 --> 00:12:06,000
+So the limitation is not whether we can do it or not.
+
+206
+00:12:07,000 --> 00:12:11,000
+If that is a limitation, it would be like whether they are allowing us to do it or not.
+
+207
+00:12:11,000 --> 00:12:12,000
+The one thing I know.
+
+208
+00:12:12,000 --> 00:12:15,000
+Okay. So if it doesn't do it automatically.
+
+209
+00:12:15,000 --> 00:12:19,000
+I do know that everything has a template for QuickBooks.
+
+210
+00:12:19,000 --> 00:12:20,000
+Okay.
+
+211
+00:12:20,000 --> 00:12:26,000
+And so the worst case scenario is that this would take the template and spit it to that.
+
+212
+00:12:26,000 --> 00:12:28,000
+And then we would be able to, I don't know.
+
+213
+00:12:28,000 --> 00:12:29,000
+Yeah.
+
+214
+00:12:29,000 --> 00:12:31,000
+We can make it out some way to do it.
+
+215
+00:12:31,000 --> 00:12:33,000
+Whether it's manually or automatically.
+
+216
+00:12:33,000 --> 00:12:34,000
+Yes.
+
+217
+00:12:34,000 --> 00:12:35,000
+Okay.
+
+218
+00:12:35,000 --> 00:12:37,000
+I want to be able to say, okay, this is now a job.
+
+219
+00:12:37,000 --> 00:12:38,000
+Yeah.
+
+220
+00:12:38,000 --> 00:12:40,000
+Here is this part of this process where we say.
+
+221
+00:12:40,000 --> 00:12:43,000
+Upload it into QuickBooks, whether I do it manually.
+
+222
+00:12:43,000 --> 00:12:46,000
+By the template or whether it automatically does it.
+
+223
+00:12:46,000 --> 00:12:47,000
+Right.
+
+224
+00:12:47,000 --> 00:12:48,000
+That's that's part of the process.
+
+225
+00:12:48,000 --> 00:12:49,000
+Yes.
+
+226
+00:12:49,000 --> 00:12:50,000
+True.
+
+227
+00:12:50,000 --> 00:12:51,000
+And the other thing.
+
+228
+00:12:51,000 --> 00:12:53,000
+So we can say first we start with bit.
+
+229
+00:12:53,000 --> 00:12:54,000
+Yeah.
+
+230
+00:12:54,000 --> 00:12:56,000
+You create a new bit and then you enter the details.
+
+231
+00:12:56,000 --> 00:12:57,000
+The bit is there.
+
+232
+00:12:57,000 --> 00:13:00,000
+You assign the bit to yourself for someone else in the team.
+
+233
+00:13:00,000 --> 00:13:01,000
+Right.
+
+234
+00:13:01,000 --> 00:13:05,000
+Whoever you assign it to, when they come in, they can see that the task is populated for them.
+
+235
+00:13:05,000 --> 00:13:06,000
+Yep.
+
+236
+00:13:06,000 --> 00:13:07,000
+And they have to act on it.
+
+237
+00:13:07,000 --> 00:13:11,000
+And once that is submitted, it shows up in your dashboard that it has been submitted.
+
+238
+00:13:11,000 --> 00:13:16,000
+And then once they approve it, you would come in and convert that to a job.
+
+239
+00:13:16,000 --> 00:13:17,000
+Yep.
+
+240
+00:13:17,000 --> 00:13:20,000
+Where we will move that bit from this database to the top database.
+
+241
+00:13:20,000 --> 00:13:21,000
+From that database.
+
+242
+00:13:21,000 --> 00:13:22,000
+Yeah.
+
+243
+00:13:22,000 --> 00:13:23,000
+Yeah.
+
+244
+00:13:23,000 --> 00:13:25,000
+And then we assign a project number.
+
+245
+00:13:25,000 --> 00:13:26,000
+Okay.
+
+246
+00:13:26,000 --> 00:13:28,000
+How do you, is that a sequence number that you?
+
+247
+00:13:28,000 --> 00:13:29,000
+Yes.
+
+248
+00:13:29,000 --> 00:13:30,000
+Okay.
+
+249
+00:13:30,000 --> 00:13:31,000
+Yeah.
+
+250
+00:13:31,000 --> 00:13:36,000
+So what we'll do, we'll start with, we'll do it with like, with like a five digit number.
+
+251
+00:13:36,000 --> 00:13:38,000
+It will just, let's make it a six digit.
+
+252
+00:13:38,000 --> 00:13:39,000
+It's just a date.
+
+253
+00:13:39,000 --> 00:13:40,000
+We'll go with the date.
+
+254
+00:13:40,000 --> 00:13:41,000
+Right.
+
+255
+00:13:41,000 --> 00:13:42,000
+So that's exactly what I was going to say.
+
+256
+00:13:42,000 --> 00:13:44,000
+Year, month, month, date.
+
+257
+00:13:44,000 --> 00:13:45,000
+And then 001.
+
+258
+00:13:45,000 --> 00:13:46,000
+Correct.
+
+259
+00:13:46,000 --> 00:13:51,000
+So if you have three projects, six projects, we just, I don't, I mean, unless that's how
+
+260
+00:13:51,000 --> 00:13:52,000
+400 projects.
+
+261
+00:13:52,000 --> 00:13:53,000
+I mean, my day.
+
+262
+00:13:53,000 --> 00:13:54,000
+Not a day, not a day.
+
+263
+00:13:54,000 --> 00:13:55,000
+We'll never have 400.
+
+264
+00:13:55,000 --> 00:13:56,000
+Even with, we get huge.
+
+265
+00:13:56,000 --> 00:13:58,000
+We'll never get that day.
+
+266
+00:13:58,000 --> 00:13:59,000
+All right.
+
+267
+00:13:59,000 --> 00:14:05,000
+So it's the job number, if you will, we'll always be the date, which I'm big on that.
+
+268
+00:14:05,000 --> 00:14:07,000
+Year, month, day.
+
+269
+00:14:07,000 --> 00:14:10,000
+Twenty, today is the 28th of February.
+
+270
+00:14:10,000 --> 00:14:11,000
+Yeah.
+
+271
+00:14:11,000 --> 00:14:13,000
+And then first job, it'd be like that.
+
+272
+00:14:13,000 --> 00:14:14,000
+See, there's, you know, one.
+
+273
+00:14:14,000 --> 00:14:16,000
+Twenty, five, two, two, eight, dash, zero, zero, one.
+
+274
+00:14:16,000 --> 00:14:17,000
+Yeah.
+
+275
+00:14:17,000 --> 00:14:18,000
+Perfect.
+
+276
+00:14:18,000 --> 00:14:19,000
+Yep.
+
+277
+00:14:19,000 --> 00:14:20,000
+So love it.
+
+278
+00:14:20,000 --> 00:14:22,000
+And we could even have a bit for an number.
+
+279
+00:14:22,000 --> 00:14:26,000
+And then we can, you know, either move that to a job or we can create a new one.
+
+280
+00:14:26,000 --> 00:14:27,000
+So that, that is again.
+
+281
+00:14:27,000 --> 00:14:28,000
+Yeah.
+
+282
+00:14:28,000 --> 00:14:29,000
+We can adjust it when we came to that.
+
+283
+00:14:29,000 --> 00:14:30,000
+Yeah.
+
+284
+00:14:30,000 --> 00:14:31,000
+Cool.
+
+285
+00:14:31,000 --> 00:14:32,000
+Yeah.
+
+286
+00:14:32,000 --> 00:14:33,000
+I like that.
+
+287
+00:14:33,000 --> 00:14:34,000
+So that becomes your project.
+
+288
+00:14:34,000 --> 00:14:36,000
+Oh, Brian.
+
+289
+00:14:36,000 --> 00:14:38,000
+He's here.
+
+290
+00:14:38,000 --> 00:14:41,000
+Are you okay to talk about this stuff?
+
+291
+00:14:41,000 --> 00:14:42,000
+Yeah.
+
+292
+00:14:42,000 --> 00:14:43,000
+Are you okay?
+
+293
+00:14:43,000 --> 00:14:44,000
+Grab your chair.
+
+294
+00:14:44,000 --> 00:14:45,000
+Come on in.
+
+295
+00:14:45,000 --> 00:14:47,000
+Brian's in here.
+
+296
+00:14:47,000 --> 00:14:49,000
+We're going to put him right here.
+
+297
+00:14:49,000 --> 00:14:50,000
+Okay.
+
+298
+00:14:50,000 --> 00:14:52,000
+He needs to be able to look right out of this.
+
+299
+00:14:52,000 --> 00:14:53,000
+Sure.
+
+300
+00:14:53,000 --> 00:14:54,000
+Zoom in a bit.
+
+301
+00:14:54,000 --> 00:14:55,000
+No.
+
+302
+00:14:56,000 --> 00:14:58,000
+Just you and your chair.
+
+303
+00:14:58,000 --> 00:14:59,000
+And your brain.
+
+304
+00:15:00,000 --> 00:15:02,000
+Oh, it's a fancy chair.
+
+305
+00:15:02,000 --> 00:15:04,000
+Guys, this is Brian Pratilla.
+
+306
+00:15:04,000 --> 00:15:05,000
+Hey.
+
+307
+00:15:05,000 --> 00:15:06,000
+Brian finish.
+
+308
+00:15:06,000 --> 00:15:07,000
+But that's good.
+
+309
+00:15:07,000 --> 00:15:08,000
+Nice to meet you guys.
+
+310
+00:15:08,000 --> 00:15:10,000
+Brian is our production.
+
+311
+00:15:10,000 --> 00:15:11,000
+Basically, production, the operation.
+
+312
+00:15:11,000 --> 00:15:12,000
+I call him an operation.
+
+313
+00:15:12,000 --> 00:15:13,000
+That's good.
+
+314
+00:15:13,000 --> 00:15:14,000
+Okay.
+
+315
+00:15:14,000 --> 00:15:17,000
+And so he handles scheduling and jobs and stuff like that.
+
+316
+00:15:17,000 --> 00:15:20,000
+He's going to eventually be involved and did, but I do him all right now.
+
+317
+00:15:20,000 --> 00:15:21,000
+Okay.
+
+318
+00:15:21,000 --> 00:15:23,000
+So what's back up a whole bunch of steps?
+
+319
+00:15:23,000 --> 00:15:24,000
+All right.
+
+320
+00:15:24,000 --> 00:15:26,000
+Correct me where I'm wrong.
+
+321
+00:15:26,000 --> 00:15:27,000
+Okay.
+
+322
+00:15:27,000 --> 00:15:29,000
+So we're kicking off.
+
+323
+00:15:29,000 --> 00:15:33,000
+This is the first step of this whole thing.
+
+324
+00:15:33,000 --> 00:15:34,000
+What's going to look like.
+
+325
+00:15:34,000 --> 00:15:35,000
+Okay.
+
+326
+00:15:35,000 --> 00:15:38,000
+So instead of service typing, we're going to use this.
+
+327
+00:15:38,000 --> 00:15:40,000
+What we're talking about.
+
+328
+00:15:40,000 --> 00:15:43,000
+And right now we're looking at Google workspace.
+
+329
+00:15:43,000 --> 00:15:45,000
+But I mean, that's probably we're going to end up.
+
+330
+00:15:45,000 --> 00:15:48,000
+But we're talking about how this is going to look.
+
+331
+00:15:48,000 --> 00:15:49,000
+Right.
+
+332
+00:15:49,000 --> 00:15:51,000
+So we're talking workflow.
+
+333
+00:15:51,000 --> 00:15:52,000
+Life of a job.
+
+334
+00:15:52,000 --> 00:15:53,000
+Right.
+
+335
+00:15:53,000 --> 00:15:54,000
+Example.
+
+336
+00:15:54,000 --> 00:15:55,000
+It's it.
+
+337
+00:15:55,000 --> 00:15:56,000
+We're going to talk in new construction.
+
+338
+00:15:56,000 --> 00:15:58,000
+Now every type of job we'll talk service.
+
+339
+00:15:58,000 --> 00:15:59,000
+We'll talk retail.
+
+340
+00:15:59,000 --> 00:16:00,000
+We'll talk that.
+
+341
+00:16:00,000 --> 00:16:01,000
+We're going to start with new construction first.
+
+342
+00:16:01,000 --> 00:16:02,000
+Okay.
+
+343
+00:16:02,000 --> 00:16:03,000
+Because that's the bread and butter.
+
+344
+00:16:03,000 --> 00:16:04,000
+What we do.
+
+345
+00:16:04,000 --> 00:16:05,000
+Right.
+
+346
+00:16:05,000 --> 00:16:06,000
+So the preface.
+
+347
+00:16:06,000 --> 00:16:07,000
+Right.
+
+348
+00:16:07,000 --> 00:16:08,000
+So you've to want to.
+
+349
+00:16:08,000 --> 00:16:09,000
+They'll be up tab up here.
+
+350
+00:16:09,000 --> 00:16:10,000
+Right.
+
+351
+00:16:10,000 --> 00:16:11,000
+So this.
+
+352
+00:16:11,000 --> 00:16:12,000
+This is a job scheduling board.
+
+353
+00:16:12,000 --> 00:16:13,000
+Right.
+
+354
+00:16:13,000 --> 00:16:15,000
+So here's pretty like a precells tab.
+
+355
+00:16:15,000 --> 00:16:18,000
+So like intake would be like the builder contacts you.
+
+356
+00:16:18,000 --> 00:16:19,000
+Me, George, whatever.
+
+357
+00:16:19,000 --> 00:16:20,000
+Okay.
+
+358
+00:16:20,000 --> 00:16:21,000
+This job on what you did is job.
+
+359
+00:16:21,000 --> 00:16:23,000
+So we did this the part where we did that.
+
+360
+00:16:23,000 --> 00:16:25,000
+We put in their name, their address.
+
+361
+00:16:25,000 --> 00:16:26,000
+Okay.
+
+362
+00:16:26,000 --> 00:16:27,000
+Then you click intake.
+
+363
+00:16:27,000 --> 00:16:28,000
+I want to see how it looks.
+
+364
+00:16:28,000 --> 00:16:30,000
+I mean, this is just a dumb.
+
+365
+00:16:30,000 --> 00:16:31,000
+Yeah.
+
+366
+00:16:31,000 --> 00:16:32,000
+Yeah.
+
+367
+00:16:32,000 --> 00:16:33,000
+Yeah.
+
+368
+00:16:33,000 --> 00:16:34,000
+This is where we will add our builders.
+
+369
+00:16:34,000 --> 00:16:35,000
+Yes.
+
+370
+00:16:35,000 --> 00:16:36,000
+Technically.
+
+371
+00:16:36,000 --> 00:16:37,000
+Right.
+
+372
+00:16:37,000 --> 00:16:38,000
+So like 4G, ABA.
+
+373
+00:16:38,000 --> 00:16:39,000
+Yes.
+
+374
+00:16:39,000 --> 00:16:40,000
+And so the other part of that is we'll have this pre-populated.
+
+375
+00:16:40,000 --> 00:16:41,000
+So be able to click.
+
+376
+00:16:41,000 --> 00:16:43,000
+If it's an over and over a customer.
+
+377
+00:16:43,000 --> 00:16:45,000
+You'll be able to go through there and type in like 4G boom there.
+
+378
+00:16:45,000 --> 00:16:47,000
+And you can click all their info.
+
+379
+00:16:47,000 --> 00:16:48,000
+Okay.
+
+380
+00:16:48,000 --> 00:16:49,000
+Okay.
+
+381
+00:16:49,000 --> 00:16:50,000
+Okay.
+
+382
+00:16:50,000 --> 00:16:51,000
+We can type all that.
+
+383
+00:16:51,000 --> 00:16:52,000
+This is big time.
+
+384
+00:16:52,000 --> 00:16:53,000
+Okay.
+
+385
+00:16:53,000 --> 00:16:54,000
+So most of this is me.
+
+386
+00:16:54,000 --> 00:16:55,000
+But YouTube.
+
+387
+00:16:55,000 --> 00:16:56,000
+Right.
+
+388
+00:16:56,000 --> 00:16:57,000
+So those contact us.
+
+389
+00:16:57,000 --> 00:16:59,000
+And then they'll send plans and specs.
+
+390
+00:16:59,000 --> 00:17:06,000
+And we'll load this whole load everything in here and we'll track everything.
+
+391
+00:17:06,000 --> 00:17:10,000
+We're probably upload the plans and specs into here as well from the email.
+
+392
+00:17:10,000 --> 00:17:12,000
+I don't know if we can automatically extract it.
+
+393
+00:17:12,000 --> 00:17:13,000
+Yeah.
+
+394
+00:17:13,000 --> 00:17:14,000
+We can have it in a drive.
+
+395
+00:17:14,000 --> 00:17:15,000
+Yeah.
+
+396
+00:17:15,000 --> 00:17:16,000
+Are you using a drive now to show the documents?
+
+397
+00:17:16,000 --> 00:17:17,000
+Yeah.
+
+398
+00:17:17,000 --> 00:17:18,000
+I am.
+
+399
+00:17:18,000 --> 00:17:19,000
+Okay.
+
+400
+00:17:19,000 --> 00:17:20,000
+So we'll do that.
+
+401
+00:17:20,000 --> 00:17:21,000
+We'll make sure it's map correctly.
+
+402
+00:17:21,000 --> 00:17:23,000
+And so then it'll automatically assign a task.
+
+403
+00:17:23,000 --> 00:17:24,000
+Okay.
+
+404
+00:17:24,000 --> 00:17:27,000
+To either you or me or towards or whatever.
+
+405
+00:17:27,000 --> 00:17:29,000
+And there'll be a task list.
+
+406
+00:17:29,000 --> 00:17:30,000
+This doesn't look like this yet.
+
+407
+00:17:30,000 --> 00:17:31,000
+Yeah.
+
+408
+00:17:31,000 --> 00:17:32,000
+But there'll be a task list.
+
+409
+00:17:32,000 --> 00:17:33,000
+It'll be by person.
+
+410
+00:17:33,000 --> 00:17:34,000
+Yes.
+
+411
+00:17:34,000 --> 00:17:35,000
+By person.
+
+412
+00:17:35,000 --> 00:17:36,000
+We'll do it by person.
+
+413
+00:17:36,000 --> 00:17:37,000
+We'll do it by person.
+
+414
+00:17:37,000 --> 00:17:38,000
+Okay.
+
+415
+00:17:38,000 --> 00:17:39,000
+I mean, this is, for example, like this.
+
+416
+00:17:39,000 --> 00:17:40,000
+Right.
+
+417
+00:17:40,000 --> 00:17:42,000
+Which is say it can be task one task tool.
+
+418
+00:17:42,000 --> 00:17:43,000
+Right.
+
+419
+00:17:43,000 --> 00:17:44,000
+Now it's a job.
+
+420
+00:17:44,000 --> 00:17:45,000
+And it can client and everyone.
+
+421
+00:17:45,000 --> 00:17:47,000
+It can also say whom it is assigned to.
+
+422
+00:17:47,000 --> 00:17:52,000
+And we can say we can have a drop down which says who is who to start with initially.
+
+423
+00:17:52,000 --> 00:17:54,000
+Everyone wants to see it.
+
+424
+00:17:54,000 --> 00:17:56,000
+Now what's still going to use our exhaust spreadsheet.
+
+425
+00:17:56,000 --> 00:17:57,000
+Right.
+
+426
+00:17:57,000 --> 00:17:58,000
+Right.
+
+427
+00:17:58,000 --> 00:18:00,000
+I may switch us to stack or something like that later.
+
+428
+00:18:00,000 --> 00:18:02,000
+But right now it's, it's already made.
+
+429
+00:18:02,000 --> 00:18:03,000
+Yeah.
+
+430
+00:18:03,000 --> 00:18:04,000
+What's not reinvent the wheel.
+
+431
+00:18:04,000 --> 00:18:05,000
+Yeah.
+
+432
+00:18:05,000 --> 00:18:07,000
+So what you're going to use that will use my word document.
+
+433
+00:18:07,000 --> 00:18:09,000
+We're going to upload the template of it though.
+
+434
+00:18:09,000 --> 00:18:10,000
+And they're sort of easy.
+
+435
+00:18:10,000 --> 00:18:12,000
+So I'll be able to work through this.
+
+436
+00:18:12,000 --> 00:18:13,000
+I'm sure by the time this is over.
+
+437
+00:18:13,000 --> 00:18:16,000
+I'll have the exhaust spreadsheet part of this as well.
+
+438
+00:18:16,000 --> 00:18:17,000
+I mean, we can do that.
+
+439
+00:18:17,000 --> 00:18:18,000
+That's later.
+
+440
+00:18:18,000 --> 00:18:19,000
+Right.
+
+441
+00:18:19,000 --> 00:18:20,000
+Yes.
+
+442
+00:18:20,000 --> 00:18:21,000
+Let's get this up and run.
+
+443
+00:18:21,000 --> 00:18:22,000
+Yes.
+
+444
+00:18:22,000 --> 00:18:23,000
+Right.
+
+445
+00:18:23,000 --> 00:18:25,000
+So then it'll take it to a bid board and we'll get a status.
+
+446
+00:18:25,000 --> 00:18:26,000
+Right.
+
+447
+00:18:26,000 --> 00:18:29,000
+We'll always know if it's in process or it might be this day.
+
+448
+00:18:29,000 --> 00:18:31,000
+Follow up by this day itself.
+
+449
+00:18:31,000 --> 00:18:32,000
+This is really mostly me right now.
+
+450
+00:18:32,000 --> 00:18:33,000
+Okay.
+
+451
+00:18:33,000 --> 00:18:34,000
+Okay.
+
+452
+00:18:34,000 --> 00:18:36,000
+Now part two we're going to become a project.
+
+453
+00:18:36,000 --> 00:18:37,000
+Okay.
+
+454
+00:18:37,000 --> 00:18:38,000
+Well, both of us.
+
+455
+00:18:38,000 --> 00:18:39,000
+Right.
+
+456
+00:18:39,000 --> 00:18:40,000
+So it comes a project.
+
+457
+00:18:40,000 --> 00:18:42,000
+So now we can have this thing.
+
+458
+00:18:42,000 --> 00:18:43,000
+It'll be a drop down.
+
+459
+00:18:43,000 --> 00:18:44,000
+Right.
+
+460
+00:18:44,000 --> 00:18:45,000
+It'll turn it into a project.
+
+461
+00:18:45,000 --> 00:18:48,000
+And so now you're caught up to everything we're at.
+
+462
+00:18:48,000 --> 00:18:49,000
+Okay.
+
+463
+00:18:49,000 --> 00:18:50,000
+We've made it to the project.
+
+464
+00:18:50,000 --> 00:18:51,000
+And I'm asking questions.
+
+465
+00:18:51,000 --> 00:18:52,000
+All right.
+
+466
+00:18:52,000 --> 00:18:58,000
+So if you were to click on that open action, have you got guys got to that?
+
+467
+00:18:58,000 --> 00:18:59,000
+So we're not there yet.
+
+468
+00:18:59,000 --> 00:19:01,000
+So let me back you up for a second.
+
+469
+00:19:01,000 --> 00:19:02,000
+Okay.
+
+470
+00:19:02,000 --> 00:19:05,000
+I know that you're going to want to dive down into the details of that.
+
+471
+00:19:05,000 --> 00:19:06,000
+We're not there yet.
+
+472
+00:19:06,000 --> 00:19:07,000
+Okay.
+
+473
+00:19:07,000 --> 00:19:08,000
+Okay.
+
+474
+00:19:08,000 --> 00:19:09,000
+We're talking high level.
+
+475
+00:19:09,000 --> 00:19:10,000
+Okay.
+
+476
+00:19:10,000 --> 00:19:11,000
+We're mapping the process.
+
+477
+00:19:11,000 --> 00:19:12,000
+Okay.
+
+478
+00:19:12,000 --> 00:19:13,000
+We're mapping it.
+
+479
+00:19:13,000 --> 00:19:14,000
+Right.
+
+480
+00:19:14,000 --> 00:19:15,000
+That's necessarily saying.
+
+481
+00:19:15,000 --> 00:19:16,000
+Okay.
+
+482
+00:19:16,000 --> 00:19:17,000
+If I got to schedule it.
+
+483
+00:19:17,000 --> 00:19:18,000
+How does it?
+
+484
+00:19:18,000 --> 00:19:19,000
+Yeah.
+
+485
+00:19:19,000 --> 00:19:20,000
+Okay.
+
+486
+00:19:20,000 --> 00:19:21,000
+We're not there yet.
+
+487
+00:19:21,000 --> 00:19:22,000
+We'll get there.
+
+488
+00:19:22,000 --> 00:19:23,000
+All right.
+
+489
+00:19:23,000 --> 00:19:24,000
+We're not into that.
+
+490
+00:19:24,000 --> 00:19:25,000
+We're not getting into minutiae yet.
+
+491
+00:19:25,000 --> 00:19:26,000
+Okay.
+
+492
+00:19:26,000 --> 00:19:27,000
+All right.
+
+493
+00:19:27,000 --> 00:19:28,000
+All right.
+
+494
+00:19:28,000 --> 00:19:29,000
+All right.
+
+495
+00:19:29,000 --> 00:19:30,000
+All right.
+
+496
+00:19:30,000 --> 00:19:31,000
+So now the question is, all right.
+
+497
+00:19:31,000 --> 00:19:36,000
+So then once we become a project in here or wherever, it should be able to upload it.
+
+498
+00:19:36,000 --> 00:19:38,000
+And if not, we'll manually upload it.
+
+499
+00:19:38,000 --> 00:19:40,000
+That'll be part of the process.
+
+500
+00:19:40,000 --> 00:19:41,000
+Yes.
+
+501
+00:19:41,000 --> 00:19:42,000
+Right.
+
+502
+00:19:42,000 --> 00:19:43,000
+So we're mapping part of that.
+
+503
+00:19:43,000 --> 00:19:47,000
+So once it becomes a project, then there's multiple things that needs to happen.
+
+504
+00:19:47,000 --> 00:19:52,000
+And this was when it becomes a project, there's a few things that needs to happen.
+
+505
+00:19:52,000 --> 00:19:53,000
+Right.
+
+506
+00:19:53,000 --> 00:19:56,000
+So when it becomes a project, the first thing it needs to be able to do is we need to be able
+
+507
+00:19:56,000 --> 00:19:59,000
+to create something for our job sheet.
+
+508
+00:19:59,000 --> 00:20:04,000
+And if it should be able to pull off of those data, say, this is the equipment for this system.
+
+509
+00:20:04,000 --> 00:20:05,000
+Right.
+
+510
+00:20:05,000 --> 00:20:06,000
+We'll have it all.
+
+511
+00:20:06,000 --> 00:20:08,000
+It should all be mapped already where I will fix it.
+
+512
+00:20:08,000 --> 00:20:09,000
+That's what does that.
+
+513
+00:20:09,000 --> 00:20:10,000
+Okay.
+
+514
+00:20:10,000 --> 00:20:13,000
+This system is this equipment.
+
+515
+00:20:13,000 --> 00:20:18,000
+And this phase, you know, the wood phase or whatever pays this much.
+
+516
+00:20:18,000 --> 00:20:21,000
+And it pulls that from the rough, you know, from the rough sheet.
+
+517
+00:20:21,000 --> 00:20:24,000
+And they sell when we're uploading that.
+
+518
+00:20:24,000 --> 00:20:27,000
+And here's a little checklist that goes with it.
+
+519
+00:20:27,000 --> 00:20:32,000
+We'll have this little job sheet that we can share with our employees.
+
+520
+00:20:32,000 --> 00:20:33,000
+Okay.
+
+521
+00:20:33,000 --> 00:20:34,000
+And that'll be standardized.
+
+522
+00:20:34,000 --> 00:20:36,000
+That'll be a standardized sheet.
+
+523
+00:20:36,000 --> 00:20:39,000
+And then it'll pull data from the from the project.
+
+524
+00:20:39,000 --> 00:20:40,000
+Yeah.
+
+525
+00:20:40,000 --> 00:20:41,000
+Right.
+
+526
+00:20:41,000 --> 00:20:42,000
+And so that'll be part of that.
+
+527
+00:20:42,000 --> 00:20:44,000
+So the first thing that needs to be is job sheet.
+
+528
+00:20:44,000 --> 00:20:46,000
+The next part of that is remember I was talking about the materials thing.
+
+529
+00:20:46,000 --> 00:20:49,000
+So we put the materials and I can change how we do this.
+
+530
+00:20:49,000 --> 00:20:53,000
+We put the materials in there, but we need to be able to say, okay, I need this for
+
+531
+00:20:53,000 --> 00:20:57,000
+rough in and I need this stuff for trim and I need this for equipment.
+
+532
+00:20:57,000 --> 00:20:59,000
+And this for equipment trim.
+
+533
+00:20:59,000 --> 00:21:00,000
+Right.
+
+534
+00:21:00,000 --> 00:21:01,000
+It's going to be several.
+
+535
+00:21:01,000 --> 00:21:04,000
+It's going to break it apart into six different parts out of one big sheet.
+
+536
+00:21:04,000 --> 00:21:07,000
+And so we can put some ideas in there so we can sort it.
+
+537
+00:21:07,000 --> 00:21:11,000
+That's easy to do, but I want to be able to say once it becomes a project,
+
+538
+00:21:11,000 --> 00:21:16,000
+it's going to spit out the job sheet, the polis and all that stuff.
+
+539
+00:21:16,000 --> 00:21:17,000
+The pol sheets.
+
+540
+00:21:17,000 --> 00:21:18,000
+Yeah.
+
+541
+00:21:18,000 --> 00:21:19,000
+If they can.
+
+542
+00:21:19,000 --> 00:21:20,000
+Yeah.
+
+543
+00:21:20,000 --> 00:21:23,000
+So we would have to define how that structure is going to look like for you.
+
+544
+00:21:23,000 --> 00:21:24,000
+Like.
+
+545
+00:21:24,000 --> 00:21:27,000
+So as long as the information is there, we can pull that and show it.
+
+546
+00:21:27,000 --> 00:21:31,000
+But I would need help from you to say, you know what for this job.
+
+547
+00:21:31,000 --> 00:21:33,000
+This is how I wanted to be break.
+
+548
+00:21:34,000 --> 00:21:35,000
+And then.
+
+549
+00:21:35,000 --> 00:21:40,000
+And then the reason probably you're breaking it down is because you want to be able to schedule it one after the other.
+
+550
+00:21:40,000 --> 00:21:41,000
+Right.
+
+551
+00:21:41,000 --> 00:21:42,000
+So we say.
+
+552
+00:21:42,000 --> 00:21:44,000
+Sounds like.
+
+553
+00:21:44,000 --> 00:21:48,000
+One job or one project can have multiple schedules.
+
+554
+00:21:48,000 --> 00:21:49,000
+That is associated to it.
+
+555
+00:21:49,000 --> 00:21:53,000
+And each of the schedule have a specific thing that we are pulling from this spreadsheet.
+
+556
+00:21:53,000 --> 00:21:55,000
+So that you can assign it to the.
+
+557
+00:21:55,000 --> 00:21:56,000
+The engineers.
+
+558
+00:21:56,000 --> 00:21:57,000
+Right.
+
+559
+00:21:57,000 --> 00:21:59,000
+For them to go and install it.
+
+560
+00:21:59,000 --> 00:22:01,000
+And each of that schedule.
+
+561
+00:22:01,000 --> 00:22:02,000
+Sub project.
+
+562
+00:22:02,000 --> 00:22:04,000
+We'll have a life cycle on its own.
+
+563
+00:22:04,000 --> 00:22:05,000
+Correct.
+
+564
+00:22:05,000 --> 00:22:06,000
+You're assigning it to them.
+
+565
+00:22:06,000 --> 00:22:08,000
+They go implemented.
+
+566
+00:22:08,000 --> 00:22:09,000
+And then.
+
+567
+00:22:09,000 --> 00:22:12,000
+They close that.
+
+568
+00:22:12,000 --> 00:22:13,000
+Yes.
+
+569
+00:22:13,000 --> 00:22:14,000
+I'm with you.
+
+570
+00:22:14,000 --> 00:22:15,000
+Yeah.
+
+571
+00:22:15,000 --> 00:22:16,000
+I'm here in here.
+
+572
+00:22:16,000 --> 00:22:17,000
+Okay.
+
+573
+00:22:17,000 --> 00:22:18,000
+So we'll create a.
+
+574
+00:22:18,000 --> 00:22:20,000
+He calls lifecycle what we call face.
+
+575
+00:22:20,000 --> 00:22:21,000
+Okay.
+
+576
+00:22:21,000 --> 00:22:22,000
+Right.
+
+577
+00:22:22,000 --> 00:22:24,000
+So lifecycle, which is also what we call face.
+
+578
+00:22:24,000 --> 00:22:25,000
+Okay.
+
+579
+00:22:25,000 --> 00:22:26,000
+So that would be.
+
+580
+00:22:26,000 --> 00:22:27,000
+That would be trim.
+
+581
+00:22:27,000 --> 00:22:28,000
+That would be startup.
+
+582
+00:22:28,000 --> 00:22:30,000
+That would be all that.
+
+583
+00:22:30,000 --> 00:22:31,000
+Okay.
+
+584
+00:22:31,000 --> 00:22:33,000
+And so poll sheets would be assigned to the life cycle.
+
+585
+00:22:33,000 --> 00:22:35,000
+Say that there's eight poll sheets.
+
+586
+00:22:35,000 --> 00:22:36,000
+Maybe so.
+
+587
+00:22:36,000 --> 00:22:37,000
+Whatever.
+
+588
+00:22:37,000 --> 00:22:40,000
+Two of them go to the rough in phase, rough in life cycle.
+
+589
+00:22:40,000 --> 00:22:42,000
+Two of them go to the trim.
+
+590
+00:22:42,000 --> 00:22:43,000
+Three of them go to trim.
+
+591
+00:22:43,000 --> 00:22:44,000
+One goes to start up.
+
+592
+00:22:44,000 --> 00:22:45,000
+You know, stuff like that.
+
+593
+00:22:45,000 --> 00:22:48,000
+And that becomes that part of the life cycle slash phase.
+
+594
+00:22:48,000 --> 00:22:49,000
+Yeah.
+
+595
+00:22:49,000 --> 00:22:50,000
+We could go under this phase.
+
+596
+00:22:50,000 --> 00:22:51,000
+I was.
+
+597
+00:22:51,000 --> 00:22:52,000
+Yeah.
+
+598
+00:22:52,000 --> 00:22:53,000
+I'm fine.
+
+599
+00:22:53,000 --> 00:22:54,000
+Yeah.
+
+600
+00:22:54,000 --> 00:22:56,000
+And so we'll have a.
+
+601
+00:22:56,000 --> 00:22:59,000
+Labor sheet that we can give it to the guys.
+
+602
+00:22:59,000 --> 00:23:01,000
+And we'll have a.
+
+603
+00:23:01,000 --> 00:23:05,000
+Materials thing that will also be able to.
+
+604
+00:23:05,000 --> 00:23:06,000
+Here's the other part.
+
+605
+00:23:06,000 --> 00:23:09,000
+We want to be able to order that through quick books.
+
+606
+00:23:09,000 --> 00:23:11,000
+It's like a purchase order.
+
+607
+00:23:11,000 --> 00:23:12,000
+Okay.
+
+608
+00:23:12,000 --> 00:23:16,000
+Or we want to pull it from inventory or something like that.
+
+609
+00:23:16,000 --> 00:23:17,000
+Okay.
+
+610
+00:23:17,000 --> 00:23:19,000
+We're not set up for inventory today.
+
+611
+00:23:19,000 --> 00:23:20,000
+Yeah.
+
+612
+00:23:20,000 --> 00:23:23,000
+Today what we're doing is we're just ordering it every job at a time.
+
+613
+00:23:23,000 --> 00:23:25,000
+So this is why I didn't.
+
+614
+00:23:25,000 --> 00:23:26,000
+Yeah.
+
+615
+00:23:26,000 --> 00:23:28,000
+I think we didn't make up that space.
+
+616
+00:23:28,000 --> 00:23:29,000
+Yeah.
+
+617
+00:23:29,000 --> 00:23:30,000
+Yeah.
+
+618
+00:23:30,000 --> 00:23:33,000
+And inventory is something that we kept it out.
+
+619
+00:23:33,000 --> 00:23:34,000
+Yeah.
+
+620
+00:23:34,000 --> 00:23:38,000
+So right now it's more of us.
+
+621
+00:23:38,000 --> 00:23:41,000
+The quick book into the connection.
+
+622
+00:23:41,000 --> 00:23:43,000
+We have to probably make sure that.
+
+623
+00:23:43,000 --> 00:23:44,000
+Yeah.
+
+624
+00:23:44,000 --> 00:23:45,000
+What is that?
+
+625
+00:23:45,000 --> 00:23:47,000
+So are you saying.
+
+626
+00:23:47,000 --> 00:23:50,000
+We have to probably come back to this because I think we need.
+
+627
+00:23:50,000 --> 00:23:51,000
+There's a lot of details in here.
+
+628
+00:23:51,000 --> 00:23:52,000
+Yes.
+
+629
+00:23:52,000 --> 00:23:53,000
+But let's keep going.
+
+630
+00:23:53,000 --> 00:23:54,000
+Yeah.
+
+631
+00:23:54,000 --> 00:23:56,000
+And then what I'm seeing now is you have different phases.
+
+632
+00:23:56,000 --> 00:24:00,000
+Each of the phases needs to be connected to a quick book purchase order.
+
+633
+00:24:00,000 --> 00:24:01,000
+Correct.
+
+634
+00:24:01,000 --> 00:24:02,000
+Okay.
+
+635
+00:24:02,000 --> 00:24:03,000
+Yes it does.
+
+636
+00:24:03,000 --> 00:24:04,000
+All right.
+
+637
+00:24:04,000 --> 00:24:06,000
+So the phases of our jobs is rough.
+
+638
+00:24:06,000 --> 00:24:07,000
+Here's the phase.
+
+639
+00:24:07,000 --> 00:24:08,000
+I'm going to write this down.
+
+640
+00:24:08,000 --> 00:24:10,000
+And I'll just give this to you.
+
+641
+00:24:10,000 --> 00:24:11,000
+Right.
+
+642
+00:24:11,000 --> 00:24:13,000
+And hopefully you can read my chicken scratches.
+
+643
+00:24:13,000 --> 00:24:18,000
+Rough, trim, start up.
+
+644
+00:24:19,000 --> 00:24:20,000
+Is our main three phases.
+
+645
+00:24:20,000 --> 00:24:22,000
+But then we're also going to have a warranty.
+
+646
+00:24:22,000 --> 00:24:23,000
+Okay.
+
+647
+00:24:23,000 --> 00:24:24,000
+Okay.
+
+648
+00:24:24,000 --> 00:24:25,000
+What do they mean?
+
+649
+00:24:25,000 --> 00:24:27,000
+Rough, trim.
+
+650
+00:24:27,000 --> 00:24:29,000
+So we call it a rough phase.
+
+651
+00:24:29,000 --> 00:24:31,000
+That's when the houses in a wood.
+
+652
+00:24:31,000 --> 00:24:32,000
+Okay.
+
+653
+00:24:32,000 --> 00:24:33,000
+There's no drywall.
+
+654
+00:24:33,000 --> 00:24:34,000
+There's nothing.
+
+655
+00:24:34,000 --> 00:24:35,000
+There's nothing.
+
+656
+00:24:35,000 --> 00:24:36,000
+And we go in.
+
+657
+00:24:36,000 --> 00:24:37,000
+We put it in our materials.
+
+658
+00:24:37,000 --> 00:24:38,000
+Okay.
+
+659
+00:24:38,000 --> 00:24:39,000
+And then they put the drywall and put it behind it.
+
+660
+00:24:39,000 --> 00:24:40,000
+Right.
+
+661
+00:24:40,000 --> 00:24:43,000
+Once we're done with the rough phase then they can insulate and do drywall.
+
+662
+00:24:43,000 --> 00:24:45,000
+Once that's done now we're in the trim phase.
+
+663
+00:24:45,000 --> 00:24:47,000
+That's when we put the registers up.
+
+664
+00:24:47,000 --> 00:24:48,000
+The thermostat's on.
+
+665
+00:24:48,000 --> 00:24:49,000
+We set the outdoor unit.
+
+666
+00:24:49,000 --> 00:24:50,000
+That's the finish.
+
+667
+00:24:50,000 --> 00:24:51,000
+That's the trim stage.
+
+668
+00:24:51,000 --> 00:24:52,000
+And the commissioning.
+
+669
+00:24:52,000 --> 00:24:53,000
+And the commissioning.
+
+670
+00:24:53,000 --> 00:24:54,000
+Correct.
+
+671
+00:24:54,000 --> 00:24:55,000
+That's commissioning.
+
+672
+00:24:55,000 --> 00:24:56,000
+We call it startup.
+
+673
+00:24:56,000 --> 00:24:57,000
+But it's commissioning.
+
+674
+00:24:57,000 --> 00:24:58,000
+It's commercial work.
+
+675
+00:24:58,000 --> 00:24:59,000
+Gotcha.
+
+676
+00:24:59,000 --> 00:25:00,000
+And then the warranty phase.
+
+677
+00:25:00,000 --> 00:25:03,000
+That's just we need to leave it open for a year.
+
+678
+00:25:03,000 --> 00:25:04,000
+Right.
+
+679
+00:25:04,000 --> 00:25:05,000
+While it's in warranty phase.
+
+680
+00:25:05,000 --> 00:25:06,000
+Right.
+
+681
+00:25:06,000 --> 00:25:07,000
+So then we can contract.
+
+682
+00:25:07,000 --> 00:25:08,000
+Yeah.
+
+683
+00:25:08,000 --> 00:25:10,000
+If we get a phone call then we can whatever.
+
+684
+00:25:10,000 --> 00:25:11,000
+Yeah.
+
+685
+00:25:11,000 --> 00:25:13,000
+Now in through here the other part of this.
+
+686
+00:25:13,000 --> 00:25:14,000
+Which is what we don't have.
+
+687
+00:25:14,000 --> 00:25:16,000
+Which is what started the whole entire conversation.
+
+688
+00:25:16,000 --> 00:25:21,000
+During each phase life cycle.
+
+689
+00:25:21,000 --> 00:25:22,000
+Here everything.
+
+690
+00:25:22,000 --> 00:25:23,000
+Nothing ever goes away.
+
+691
+00:25:23,000 --> 00:25:24,000
+It's supposed to.
+
+692
+00:25:24,000 --> 00:25:25,000
+Right.
+
+693
+00:25:25,000 --> 00:25:26,000
+If everything went the way it's supposed to.
+
+694
+00:25:26,000 --> 00:25:27,000
+We would need the track and damn thing.
+
+695
+00:25:27,000 --> 00:25:28,000
+Yeah.
+
+696
+00:25:28,000 --> 00:25:30,000
+But nothing goes the way it's supposed to.
+
+697
+00:25:30,000 --> 00:25:32,000
+So we're on the job.
+
+698
+00:25:32,000 --> 00:25:33,000
+And they decided.
+
+699
+00:25:33,000 --> 00:25:34,000
+Hey.
+
+700
+00:25:34,000 --> 00:25:36,000
+I want to change.
+
+701
+00:25:36,000 --> 00:25:39,000
+The unit from the side of the house to that side of the house.
+
+702
+00:25:39,000 --> 00:25:41,000
+That's either billable or not billable.
+
+703
+00:25:41,000 --> 00:25:42,000
+It's up to us to decide.
+
+704
+00:25:42,000 --> 00:25:44,000
+But we need to be able to track it.
+
+705
+00:25:45,000 --> 00:25:47,000
+And so I used to call it change order.
+
+706
+00:25:47,000 --> 00:25:49,000
+Change order work order.
+
+707
+00:25:49,000 --> 00:25:51,000
+Whatever we want to call it.
+
+708
+00:25:51,000 --> 00:25:52,000
+Right.
+
+709
+00:25:52,000 --> 00:25:56,000
+I would call it a work order because a work order can become a change order.
+
+710
+00:25:56,000 --> 00:25:57,000
+And that's the piece.
+
+711
+00:25:57,000 --> 00:26:00,000
+And that's what started my whole conversation with the CRM.
+
+712
+00:26:00,000 --> 00:26:01,000
+As I say.
+
+713
+00:26:01,000 --> 00:26:03,000
+We're not tracking our work.
+
+714
+00:26:03,000 --> 00:26:05,000
+We're tracking in here.
+
+715
+00:26:05,000 --> 00:26:06,000
+Half hours.
+
+716
+00:26:06,000 --> 00:26:07,000
+Right.
+
+717
+00:26:07,000 --> 00:26:09,000
+We're going off of what's here.
+
+718
+00:26:09,000 --> 00:26:11,000
+We're going off what's written down over here.
+
+719
+00:26:11,000 --> 00:26:12,000
+What's written over here.
+
+720
+00:26:12,000 --> 00:26:13,000
+What's on his head.
+
+721
+00:26:13,000 --> 00:26:15,000
+And what's in his text message.
+
+722
+00:26:15,000 --> 00:26:17,000
+We don't have a centralized place for it.
+
+723
+00:26:17,000 --> 00:26:20,000
+So there may be times that we go out and do stuff.
+
+724
+00:26:20,000 --> 00:26:21,000
+That's billable.
+
+725
+00:26:21,000 --> 00:26:24,000
+But they didn't get back to the guy who does the billing.
+
+726
+00:26:24,000 --> 00:26:26,000
+I'm not faulting him at all.
+
+727
+00:26:26,000 --> 00:26:28,000
+There's nine thousand things going on.
+
+728
+00:26:28,000 --> 00:26:31,000
+So here's something that happened that we could have charged.
+
+729
+00:26:31,000 --> 00:26:33,000
+Two hundred dollars for which is not a lot of money.
+
+730
+00:26:33,000 --> 00:26:35,000
+But it does that up.
+
+731
+00:26:35,000 --> 00:26:36,000
+Right.
+
+732
+00:26:36,000 --> 00:26:37,000
+So there's loss revenue.
+
+733
+00:26:37,000 --> 00:26:39,000
+I want to be able to capture that and say.
+
+734
+00:26:39,000 --> 00:26:40,000
+Okay.
+
+735
+00:26:40,000 --> 00:26:41,000
+Here's the life cycle.
+
+736
+00:26:41,000 --> 00:26:42,000
+Here's the phase.
+
+737
+00:26:42,000 --> 00:26:46,000
+Well, during this phase, here's one, two, three, four work orders.
+
+738
+00:26:46,000 --> 00:26:47,000
+Right.
+
+739
+00:26:47,000 --> 00:26:49,000
+And the first work order could be the standard thing.
+
+740
+00:26:49,000 --> 00:26:50,000
+Like, here's the job.
+
+741
+00:26:50,000 --> 00:26:51,000
+And here's the job sheet.
+
+742
+00:26:51,000 --> 00:26:53,000
+Here's work order number one.
+
+743
+00:26:53,000 --> 00:26:55,000
+Here's a whole work order.
+
+744
+00:26:55,000 --> 00:26:57,000
+And then we say, okay, something happened.
+
+745
+00:26:57,000 --> 00:26:58,000
+We can go in here.
+
+746
+00:26:58,000 --> 00:26:59,000
+Right.
+
+747
+00:26:59,000 --> 00:27:00,000
+Go into this.
+
+748
+00:27:00,000 --> 00:27:03,000
+And we could say, oh, they want to move the condenser condenser.
+
+749
+00:27:03,000 --> 00:27:05,000
+We can put a thing in there.
+
+750
+00:27:05,000 --> 00:27:10,000
+And then I should be able to click on each work order and make it a part of billing.
+
+751
+00:27:10,000 --> 00:27:12,000
+Or a separate billing or make it all.
+
+752
+00:27:12,000 --> 00:27:14,000
+When you're composing, I'm not sure how that looks.
+
+753
+00:27:14,000 --> 00:27:18,000
+How I do it today is I go into QuickBooks.
+
+754
+00:27:18,000 --> 00:27:19,000
+I make a bill.
+
+755
+00:27:19,000 --> 00:27:22,000
+And if there's a change order, I just throw it on the invoice.
+
+756
+00:27:22,000 --> 00:27:25,000
+Or if it's our priority bill that I create a new one.
+
+757
+00:27:25,000 --> 00:27:26,000
+Okay.
+
+758
+00:27:26,000 --> 00:27:27,000
+I'll do either one.
+
+759
+00:27:27,000 --> 00:27:28,000
+Right.
+
+760
+00:27:28,000 --> 00:27:32,000
+So, but I can switch that and say, okay, we all these do the main billing on one.
+
+761
+00:27:32,000 --> 00:27:34,000
+And every change order gets priced separately.
+
+762
+00:27:34,000 --> 00:27:35,000
+Separately.
+
+763
+00:27:35,000 --> 00:27:37,000
+I don't have a problem either way.
+
+764
+00:27:37,000 --> 00:27:38,000
+Yeah.
+
+765
+00:27:38,000 --> 00:27:40,000
+Each of this gets assigned to a local automatically.
+
+766
+00:27:40,000 --> 00:27:42,000
+Every part of this would be a work order automatically.
+
+767
+00:27:42,000 --> 00:27:43,000
+Okay.
+
+768
+00:27:43,000 --> 00:27:44,000
+Right.
+
+769
+00:27:44,000 --> 00:27:46,000
+And then, but under each one of these, there should be other ones too.
+
+770
+00:27:46,000 --> 00:27:47,000
+Right.
+
+771
+00:27:47,000 --> 00:27:49,000
+You should be able to add additional work order.
+
+772
+00:27:49,000 --> 00:27:50,000
+Yeah.
+
+773
+00:27:50,000 --> 00:27:51,000
+I want to be able to add those, right.
+
+774
+00:27:51,000 --> 00:27:54,000
+And then we make, we need to make sure that they're in the right order, right?
+
+775
+00:27:54,000 --> 00:27:57,000
+Because all rough work orders need to be with the rough and all trim work orders need to be with trim.
+
+776
+00:27:57,000 --> 00:27:58,000
+Yeah.
+
+777
+00:27:58,000 --> 00:27:59,000
+And warranty.
+
+778
+00:27:59,000 --> 00:28:00,000
+Right.
+
+779
+00:28:00,000 --> 00:28:01,000
+So then we're tracking warranty too.
+
+780
+00:28:01,000 --> 00:28:02,000
+Yeah.
+
+781
+00:28:02,000 --> 00:28:06,000
+And so that's the piece on here that it's not complicated.
+
+782
+00:28:06,000 --> 00:28:07,000
+But that's.
+
+783
+00:28:07,000 --> 00:28:08,000
+But that's the thing.
+
+784
+00:28:08,000 --> 00:28:09,000
+Come more complex.
+
+785
+00:28:09,000 --> 00:28:10,000
+Mm-hmm.
+
+786
+00:28:10,000 --> 00:28:12,000
+And that's the piece that I'm.
+
+787
+00:28:12,000 --> 00:28:17,000
+Again, the whole reason I even started these conversations is this piece right here that's not being done.
+
+788
+00:28:17,000 --> 00:28:18,000
+Sure.
+
+789
+00:28:18,000 --> 00:28:20,000
+And so we need to be able to capture that.
+
+790
+00:28:20,000 --> 00:28:23,000
+Not only for the money part, but just that it gets done.
+
+791
+00:28:23,000 --> 00:28:24,000
+Mm-hmm.
+
+792
+00:28:24,000 --> 00:28:25,000
+Right.
+
+793
+00:28:25,000 --> 00:28:26,000
+It's a lost detail.
+
+794
+00:28:26,000 --> 00:28:31,000
+If it goes to him at 11 o'clock on on a Friday night, he gets a text message from the builder.
+
+795
+00:28:31,000 --> 00:28:32,000
+No problem.
+
+796
+00:28:32,000 --> 00:28:33,000
+We'll handle it next week.
+
+797
+00:28:33,000 --> 00:28:34,000
+Yeah.
+
+798
+00:28:34,000 --> 00:28:35,000
+You know, big deal.
+
+799
+00:28:35,000 --> 00:28:37,000
+And then it just becomes lost.
+
+800
+00:28:37,000 --> 00:28:38,000
+Right.
+
+801
+00:28:38,000 --> 00:28:39,000
+Because then he over the weekend.
+
+802
+00:28:39,000 --> 00:28:41,000
+He got 50 texts from other people.
+
+803
+00:28:41,000 --> 00:28:45,000
+And then he forgot that he talked to Jacob or whoever on Friday night.
+
+804
+00:28:45,000 --> 00:28:46,000
+I do it too.
+
+805
+00:28:46,000 --> 00:28:47,000
+Not blaming you.
+
+806
+00:28:47,000 --> 00:28:48,000
+I do it as well.
+
+807
+00:28:48,000 --> 00:28:51,000
+They'll talk to me and like, hey, we're going to get this done.
+
+808
+00:28:51,000 --> 00:28:53,000
+And then they call mad Friday.
+
+809
+00:28:53,000 --> 00:28:54,000
+Hey, you didn't get this done.
+
+810
+00:28:54,000 --> 00:28:56,000
+Oh, God, I forgot all about that.
+
+811
+00:28:56,000 --> 00:28:57,000
+Mm-hmm.
+
+812
+00:28:57,000 --> 00:28:59,000
+And then it's like, Brian, did you tell him to do this Brad?
+
+813
+00:28:59,000 --> 00:29:00,000
+Did you say that you would say this?
+
+814
+00:29:00,000 --> 00:29:01,000
+Get this?
+
+815
+00:29:01,000 --> 00:29:02,000
+Yes, et cetera.
+
+816
+00:29:02,000 --> 00:29:03,000
+Right.
+
+817
+00:29:03,000 --> 00:29:04,000
+Yeah.
+
+818
+00:29:04,000 --> 00:29:08,000
+And make sure we're getting nothing wrong here.
+
+819
+00:29:08,000 --> 00:29:09,000
+Okay.
+
+820
+00:29:09,000 --> 00:29:11,000
+So it could be not just changed out of it.
+
+821
+00:29:11,000 --> 00:29:13,000
+Anything impromptu that just...
+
+822
+00:29:13,000 --> 00:29:14,000
+Anything that's...
+
+823
+00:29:14,000 --> 00:29:17,000
+I want to be able to track anything that's outside of the norm.
+
+824
+00:29:17,000 --> 00:29:18,000
+Right.
+
+825
+00:29:18,000 --> 00:29:20,000
+And whether I want to charge it or not, doesn't matter.
+
+826
+00:29:20,000 --> 00:29:24,000
+I want to be able to say, hey, we did this and this came up.
+
+827
+00:29:24,000 --> 00:29:30,000
+And this came up so that later on during the warranty phase, hey, this room is...
+
+828
+00:29:30,000 --> 00:29:32,000
+It doesn't fit, you know, whatever.
+
+829
+00:29:32,000 --> 00:29:33,000
+We can use these as tracking.
+
+830
+00:29:33,000 --> 00:29:35,000
+We wanted to put this boot here.
+
+831
+00:29:35,000 --> 00:29:39,000
+They made us put it over here because there's this is construction in the way.
+
+832
+00:29:39,000 --> 00:29:43,000
+And because of that, it's... and I want to be able to attach a picture to it as well.
+
+833
+00:29:43,000 --> 00:29:45,000
+I want to be able to... here's the work order.
+
+834
+00:29:45,000 --> 00:29:47,000
+And here's the picture that goes with it.
+
+835
+00:29:47,000 --> 00:29:50,000
+Brian's real good about getting pictures of everything.
+
+836
+00:29:50,000 --> 00:29:52,000
+But then he's got 5,000 pictures in his phone.
+
+837
+00:29:52,000 --> 00:29:54,000
+He's flipping through, flipping through.
+
+838
+00:29:54,000 --> 00:29:59,000
+If we got a place, we can upload it in a centralized place that goes with that work order.
+
+839
+00:29:59,000 --> 00:30:03,000
+So then a year from now, Bill, the supervisor,
+
+840
+00:30:03,000 --> 00:30:05,000
+calls us and go, man, this room is not working right.
+
+841
+00:30:05,000 --> 00:30:06,000
+And then we can pull this up.
+
+842
+00:30:06,000 --> 00:30:09,000
+We told you it wasn't going to work because you made us do this.
+
+843
+00:30:09,000 --> 00:30:10,000
+And here's the picture.
+
+844
+00:30:10,000 --> 00:30:12,000
+And this is why we did this.
+
+845
+00:30:12,000 --> 00:30:14,000
+So if we need to change it.
+
+846
+00:30:14,000 --> 00:30:15,000
+Yeah.
+
+847
+00:30:15,000 --> 00:30:16,000
+Hey, man.
+
+848
+00:30:16,000 --> 00:30:19,000
+So right now, as it is, we're on our memories here.
+
+849
+00:30:19,000 --> 00:30:21,000
+Bill calls us a year from now.
+
+850
+00:30:21,000 --> 00:30:22,000
+Hey, this room's not working.
+
+851
+00:30:22,000 --> 00:30:23,000
+Oh, shit, sorry.
+
+852
+00:30:23,000 --> 00:30:24,000
+We'll go right on that.
+
+853
+00:30:24,000 --> 00:30:27,000
+Totally forgot about the whole one hour meeting we had to have a job,
+
+854
+00:30:27,000 --> 00:30:29,000
+because there's no way to drive track.
+
+855
+00:30:29,000 --> 00:30:30,000
+Yeah.
+
+856
+00:30:30,000 --> 00:30:32,000
+And so I'm spitballing right now.
+
+857
+00:30:32,000 --> 00:30:34,000
+But I think you get what I'm saying.
+
+858
+00:30:34,000 --> 00:30:35,000
+Yeah.
+
+859
+00:30:35,000 --> 00:30:36,000
+Yeah.
+
+860
+00:30:36,000 --> 00:30:37,000
+So that's the piece right here.
+
+861
+00:30:37,000 --> 00:30:39,000
+So this is like work orders.
+
+862
+00:30:39,000 --> 00:30:40,000
+Yeah.
+
+863
+00:30:40,000 --> 00:30:42,000
+That can become change orders.
+
+864
+00:30:42,000 --> 00:30:43,000
+Yeah.
+
+865
+00:30:43,000 --> 00:30:44,000
+Exactly.
+
+866
+00:30:44,000 --> 00:30:57,000
+And we can say that you, I mean, every, every phase will have at least one work order.
+
+867
+00:30:57,000 --> 00:30:58,000
+Yeah.
+
+868
+00:30:58,000 --> 00:30:59,000
+Right.
+
+869
+00:30:59,000 --> 00:31:01,000
+And then that's the main invoice that we want to do.
+
+870
+00:31:01,000 --> 00:31:06,000
+And we, you could add additional work orders, which you could.
+
+871
+00:31:06,000 --> 00:31:11,000
+We can decide whether we want to combine multiple ones into another invoice.
+
+872
+00:31:12,000 --> 00:31:13,000
+We, we do it one at a time.
+
+873
+00:31:13,000 --> 00:31:14,000
+Yeah.
+
+874
+00:31:14,000 --> 00:31:15,000
+I'm going to say one at a time.
+
+875
+00:31:15,000 --> 00:31:16,000
+One at a time.
+
+876
+00:31:16,000 --> 00:31:21,000
+And then you can also decide whether you want to build it or not, which means you can make a decision
+
+877
+00:31:21,000 --> 00:31:23,000
+whether that sends out a, you are going to send it.
+
+878
+00:31:23,000 --> 00:31:25,000
+I was like, how does an invoice or no?
+
+879
+00:31:25,000 --> 00:31:26,000
+Yeah.
+
+880
+00:31:26,000 --> 00:31:29,000
+So you make that decision and based on that decision, it gets pushed into the QuickBooks.
+
+881
+00:31:29,000 --> 00:31:30,000
+Yeah.
+
+882
+00:31:30,000 --> 00:31:31,000
+So like we got a house that's going right now.
+
+883
+00:31:31,000 --> 00:31:33,000
+And we've been on the rough and now for two weeks on it.
+
+884
+00:31:33,000 --> 00:31:35,000
+And it's a big house, right?
+
+885
+00:31:35,000 --> 00:31:37,000
+We got two crews out there.
+
+886
+00:31:37,000 --> 00:31:39,000
+It's a big house.
+
+887
+00:31:39,000 --> 00:31:41,000
+There's been conversations out there.
+
+888
+00:31:41,000 --> 00:31:43,000
+There's nothing major that's happened.
+
+889
+00:31:43,000 --> 00:31:45,000
+But there's a few things that's happened on that job that more.
+
+890
+00:31:45,000 --> 00:31:50,000
+I really would like to have memorialized that a little better than what we've done.
+
+891
+00:31:50,000 --> 00:31:51,000
+Right.
+
+892
+00:31:51,000 --> 00:31:52,000
+Track it memorialized it.
+
+893
+00:31:52,000 --> 00:31:57,000
+You know, it says, you know, we decided to put the exhaust fan over here rather than over here
+
+894
+00:31:57,000 --> 00:31:59,000
+because of based off of this.
+
+895
+00:31:59,000 --> 00:32:02,000
+It would be really nice to like have that track.
+
+896
+00:32:02,000 --> 00:32:03,000
+Yeah.
+
+897
+00:32:03,000 --> 00:32:04,000
+Right.
+
+898
+00:32:04,000 --> 00:32:05,000
+Again, I keep harping on this.
+
+899
+00:32:05,000 --> 00:32:08,000
+This is the piece of what we're missing today.
+
+900
+00:32:08,000 --> 00:32:09,000
+Right.
+
+901
+00:32:09,000 --> 00:32:12,000
+That's that's the biggest part for me that will help.
+
+902
+00:32:12,000 --> 00:32:13,000
+And then because then we build.
+
+903
+00:32:13,000 --> 00:32:17,000
+Should be able to take these work orders and assign them to the.
+
+904
+00:32:17,000 --> 00:32:18,000
+The installer.
+
+905
+00:32:18,000 --> 00:32:20,000
+Oh, not just that right.
+
+906
+00:32:20,000 --> 00:32:22,000
+So we should be able to say here's this work order.
+
+907
+00:32:22,000 --> 00:32:23,000
+Here's what it is.
+
+908
+00:32:23,000 --> 00:32:25,000
+Send this to the installer.
+
+909
+00:32:25,000 --> 00:32:26,000
+This is what you're doing.
+
+910
+00:32:26,000 --> 00:32:27,000
+Right.
+
+911
+00:32:27,000 --> 00:32:32,000
+And the work order, the initial work order should have the rough sheets and the job sheet.
+
+912
+00:32:32,000 --> 00:32:36,000
+And then they should be able to send back to that work order.
+
+913
+00:32:36,000 --> 00:32:39,000
+Pitchers of the equipment, pitchers of the job.
+
+914
+00:32:39,000 --> 00:32:41,000
+And that's all included in that one thing.
+
+915
+00:32:41,000 --> 00:32:43,000
+That's that's how I'm spitballing.
+
+916
+00:32:43,000 --> 00:32:44,000
+How I'm thinking.
+
+917
+00:32:44,000 --> 00:32:45,000
+Right.
+
+918
+00:32:45,000 --> 00:32:46,000
+They install as a third party.
+
+919
+00:32:46,000 --> 00:32:47,000
+Are you?
+
+920
+00:32:47,000 --> 00:32:48,000
+They work for us.
+
+921
+00:32:48,000 --> 00:32:49,000
+Oh, yeah.
+
+922
+00:32:49,000 --> 00:32:50,000
+So we can send it to the email.
+
+923
+00:32:50,000 --> 00:32:51,000
+Got it.
+
+924
+00:32:51,000 --> 00:32:52,000
+Yeah.
+
+925
+00:32:52,000 --> 00:32:53,000
+Makes sense.
+
+926
+00:32:53,000 --> 00:32:54,000
+And so they'll have.
+
+927
+00:32:54,000 --> 00:32:56,000
+We haven't done this, but we've talked about getting them a tablet.
+
+928
+00:32:56,000 --> 00:32:58,000
+And so they would have the plan on it.
+
+929
+00:32:58,000 --> 00:33:00,000
+I was going to say that because tablet.
+
+930
+00:33:00,000 --> 00:33:03,000
+They can open this up and they can take a picture.
+
+931
+00:33:03,000 --> 00:33:06,000
+And I'll load it right away and just put in the notes.
+
+932
+00:33:06,000 --> 00:33:07,000
+Right.
+
+933
+00:33:07,000 --> 00:33:08,000
+And then it's then in the system.
+
+934
+00:33:08,000 --> 00:33:10,000
+They would be part of this on their tablet.
+
+935
+00:33:10,000 --> 00:33:11,000
+Yes.
+
+936
+00:33:11,000 --> 00:33:12,000
+And they could just upload it right there.
+
+937
+00:33:12,000 --> 00:33:13,000
+The drawings all right there.
+
+938
+00:33:13,000 --> 00:33:15,000
+That's where they have to go to get all their stuff.
+
+939
+00:33:15,000 --> 00:33:16,000
+I'm just curious.
+
+940
+00:33:16,000 --> 00:33:17,000
+What's up.
+
+941
+00:33:17,000 --> 00:33:19,000
+We started having all of the scenarios.
+
+942
+00:33:19,000 --> 00:33:20,000
+They have it all.
+
+943
+00:33:20,000 --> 00:33:22,000
+They have everybody to that.
+
+944
+00:33:22,000 --> 00:33:23,000
+Just expensive.
+
+945
+00:33:23,000 --> 00:33:24,000
+Thank you.
+
+946
+00:33:24,000 --> 00:33:25,000
+You have to.
+
+947
+00:33:25,000 --> 00:33:26,000
+No, it's killer.
+
+948
+00:33:26,000 --> 00:33:27,000
+I'll call him in a big.
+
+949
+00:33:27,000 --> 00:33:28,000
+Okay.
+
+950
+00:33:28,000 --> 00:33:29,000
+Expensive.
+
+951
+00:33:29,000 --> 00:33:30,000
+And you couldn't customize it for your work flows.
+
+952
+00:33:30,000 --> 00:33:31,000
+Right?
+
+953
+00:33:31,000 --> 00:33:32,000
+I could have.
+
+954
+00:33:32,000 --> 00:33:33,000
+That's a long.
+
+955
+00:33:33,000 --> 00:33:36,000
+And just was getting long and drawn out.
+
+956
+00:33:36,000 --> 00:33:37,000
+And expensive.
+
+957
+00:33:37,000 --> 00:33:38,000
+Yeah.
+
+958
+00:33:38,000 --> 00:33:39,000
+I mean, expensive.
+
+959
+00:33:39,000 --> 00:33:40,000
+But I'm.
+
+960
+00:33:40,000 --> 00:33:42,000
+So here's what I was afraid.
+
+961
+00:33:42,000 --> 00:33:43,000
+Here's.
+
+962
+00:33:43,000 --> 00:33:45,000
+Here's the knock on service site.
+
+963
+00:33:45,000 --> 00:33:46,000
+It's really good.
+
+964
+00:33:46,000 --> 00:33:47,000
+It's not.
+
+965
+00:33:47,000 --> 00:33:48,000
+It's not built.
+
+966
+00:33:48,000 --> 00:33:49,000
+It's built for everybody.
+
+967
+00:33:49,000 --> 00:33:50,000
+But you can customize it.
+
+968
+00:33:50,000 --> 00:33:52,000
+Like what we're talking about doing.
+
+969
+00:33:52,000 --> 00:33:53,000
+Right.
+
+970
+00:33:53,000 --> 00:33:56,000
+Well, while they price it is they price it by technician.
+
+971
+00:33:56,000 --> 00:33:59,000
+So every time you add an employee to the.
+
+972
+00:33:59,000 --> 00:34:00,000
+It goes up.
+
+973
+00:34:00,000 --> 00:34:01,000
+Right.
+
+974
+00:34:01,000 --> 00:34:04,000
+So every time you add an employee, it's 500 bucks.
+
+975
+00:34:04,000 --> 00:34:05,000
+Right.
+
+976
+00:34:05,000 --> 00:34:06,000
+It is.
+
+977
+00:34:06,000 --> 00:34:07,000
+400 dollars.
+
+978
+00:34:07,000 --> 00:34:09,000
+So say we got 10 employees today.
+
+979
+00:34:09,000 --> 00:34:10,000
+Right.
+
+980
+00:34:10,000 --> 00:34:11,000
+You see this.
+
+981
+00:34:11,000 --> 00:34:12,000
+That's $4,000.
+
+982
+00:34:12,000 --> 00:34:13,000
+Yeah.
+
+983
+00:34:13,000 --> 00:34:15,000
+Let's scale this a couple years down the road.
+
+984
+00:34:15,000 --> 00:34:16,000
+Right.
+
+985
+00:34:16,000 --> 00:34:19,000
+So we go from from 10 to 40.
+
+986
+00:34:19,000 --> 00:34:21,000
+Well, that pricing model doesn't change.
+
+987
+00:34:21,000 --> 00:34:22,000
+Yeah.
+
+988
+00:34:22,000 --> 00:34:23,000
+And so now we're locked in.
+
+989
+00:34:23,000 --> 00:34:25,000
+I get what I would do this too.
+
+990
+00:34:25,000 --> 00:34:26,000
+We're hooked.
+
+991
+00:34:26,000 --> 00:34:28,000
+We can't leave.
+
+992
+00:34:28,000 --> 00:34:30,000
+And so our price went from $4,000.
+
+993
+00:34:30,000 --> 00:34:33,000
+There's the $16,000 a month.
+
+994
+00:34:33,000 --> 00:34:34,000
+Right.
+
+995
+00:34:34,000 --> 00:34:35,000
+And it happens.
+
+996
+00:34:35,000 --> 00:34:36,000
+Yeah.
+
+997
+00:34:36,000 --> 00:34:38,000
+And that's how they make their money.
+
+998
+00:34:38,000 --> 00:34:39,000
+Yeah.
+
+999
+00:34:39,000 --> 00:34:40,000
+For them, they don't change the damn thing.
+
+1000
+00:34:40,000 --> 00:34:41,000
+Yeah.
+
+1001
+00:34:41,000 --> 00:34:42,000
+They just, it just becomes a revenue stream.
+
+1002
+00:34:42,000 --> 00:34:44,000
+They're banking on you becoming bigger.
+
+1003
+00:34:44,000 --> 00:34:45,000
+Yeah.
+
+1004
+00:34:45,000 --> 00:34:49,000
+So today with one technician and I have everything.
+
+1005
+00:34:49,000 --> 00:34:50,000
+But whatever.
+
+1006
+00:34:50,000 --> 00:34:52,000
+It's 15.48 a month.
+
+1007
+00:34:52,000 --> 00:34:55,000
+That's with one tech.
+
+1008
+00:34:55,000 --> 00:34:56,000
+Right.
+
+1009
+00:34:56,000 --> 00:34:59,000
+And so we start adding people which we will.
+
+1010
+00:34:59,000 --> 00:35:00,000
+We would want to.
+
+1011
+00:35:00,000 --> 00:35:01,000
+Right.
+
+1012
+00:35:01,000 --> 00:35:03,000
+Why would you have one guy can use it.
+
+1013
+00:35:03,000 --> 00:35:04,000
+But one guy can't.
+
+1014
+00:35:04,000 --> 00:35:08,000
+So it goes from 1500 to 1900 to 2300.
+
+1015
+00:35:08,000 --> 00:35:09,000
+Yeah.
+
+1016
+00:35:09,000 --> 00:35:10,000
+It goes real fast.
+
+1017
+00:35:10,000 --> 00:35:11,000
+You don't need all the business that they have.
+
+1018
+00:35:11,000 --> 00:35:12,000
+Right.
+
+1019
+00:35:12,000 --> 00:35:13,000
+That's damn it.
+
+1020
+00:35:13,000 --> 00:35:15,000
+That's the other project that we're dealing with.
+
+1021
+00:35:15,000 --> 00:35:16,000
+So.
+
+1022
+00:35:16,000 --> 00:35:18,000
+And so we could like what we're doing here, which is advantageous.
+
+1023
+00:35:18,000 --> 00:35:19,000
+I pay you.
+
+1024
+00:35:19,000 --> 00:35:21,000
+I pay you guys $400 a month for life.
+
+1025
+00:35:21,000 --> 00:35:22,000
+Right.
+
+1026
+00:35:22,000 --> 00:35:24,000
+Or a life of whatever this is.
+
+1027
+00:35:24,000 --> 00:35:25,000
+Yeah.
+
+1028
+00:35:25,000 --> 00:35:26,000
+And it doesn't matter.
+
+1029
+00:35:26,000 --> 00:35:27,000
+You can add 100 people.
+
+1030
+00:35:27,000 --> 00:35:28,000
+It doesn't matter.
+
+1031
+00:35:28,000 --> 00:35:29,000
+But we're going to own all the data.
+
+1032
+00:35:29,000 --> 00:35:30,000
+And I own it all.
+
+1033
+00:35:30,000 --> 00:35:31,000
+Yes.
+
+1034
+00:35:31,000 --> 00:35:32,000
+Because it's all.
+
+1035
+00:35:32,000 --> 00:35:34,000
+It'll all be sitting in your life.
+
+1036
+00:35:34,000 --> 00:35:35,000
+Right.
+
+1037
+00:35:35,000 --> 00:35:43,000
+So even I'm thinking like we will create like one sheet where you have like a bit table.
+
+1038
+00:35:43,000 --> 00:35:44,000
+Yep.
+
+1039
+00:35:44,000 --> 00:35:45,000
+Right.
+
+1040
+00:35:45,000 --> 00:35:46,000
+And we have all the bits map there.
+
+1041
+00:35:46,000 --> 00:35:48,000
+And then we have a job table.
+
+1042
+00:35:48,000 --> 00:35:51,000
+A job sheet where you have all the jobs map.
+
+1043
+00:35:51,000 --> 00:35:53,000
+What kind of sheet where you have all the work patterns map.
+
+1044
+00:35:53,000 --> 00:35:59,000
+And each of that will reference a live for each of these projects where all your pictures
+
+1045
+00:35:59,000 --> 00:36:00,000
+are sitting.
+
+1046
+00:36:00,000 --> 00:36:05,000
+So anytime you come back, you should be able to go and see your notes, your pictures.
+
+1047
+00:36:05,000 --> 00:36:07,000
+And you don't even have to access that sheet.
+
+1048
+00:36:07,000 --> 00:36:08,000
+It'll all be here.
+
+1049
+00:36:08,000 --> 00:36:10,000
+It'll always be on the dashboard.
+
+1050
+00:36:10,000 --> 00:36:11,000
+Yes.
+
+1051
+00:36:11,000 --> 00:36:13,000
+You like what you hear so far?
+
+1052
+00:36:13,000 --> 00:36:14,000
+Mm-hmm.
+
+1053
+00:36:14,000 --> 00:36:16,000
+It'll make life easy tracking.
+
+1054
+00:36:16,000 --> 00:36:18,000
+Because there's been times like.
+
+1055
+00:36:18,000 --> 00:36:19,000
+Look at those eyes.
+
+1056
+00:36:19,000 --> 00:36:20,000
+So they have tired.
+
+1057
+00:36:20,000 --> 00:36:22,000
+We'll go to the house.
+
+1058
+00:36:22,000 --> 00:36:26,000
+And then we went, we were a month there.
+
+1059
+00:36:26,000 --> 00:36:28,000
+And we had fixed the problem already.
+
+1060
+00:36:28,000 --> 00:36:30,000
+And now we went back again.
+
+1061
+00:36:30,000 --> 00:36:32,000
+And it's like, oh, we were there already.
+
+1062
+00:36:32,000 --> 00:36:33,000
+You should have never gone.
+
+1063
+00:36:33,000 --> 00:36:34,000
+Oh.
+
+1064
+00:36:34,000 --> 00:36:35,000
+And there's an hour.
+
+1065
+00:36:35,000 --> 00:36:36,000
+Yes.
+
+1066
+00:36:36,000 --> 00:36:37,000
+Gas.
+
+1067
+00:36:37,000 --> 00:36:39,000
+Gotta pay the text, though.
+
+1068
+00:36:39,000 --> 00:36:41,000
+So it's not just about sort of a statement.
+
+1069
+00:36:41,000 --> 00:36:42,000
+What are you talking about?
+
+1070
+00:36:42,000 --> 00:36:43,000
+This is also a track.
+
+1071
+00:36:43,000 --> 00:36:45,000
+These tracking things.
+
+1072
+00:36:45,000 --> 00:36:49,000
+Like you say one hour is one hour or person's liberating.
+
+1073
+00:36:49,000 --> 00:36:50,000
+Yeah.
+
+1074
+00:36:50,000 --> 00:36:51,000
+Yeah.
+
+1075
+00:36:51,000 --> 00:36:55,000
+And again, it's back to this piece where I keep talking about tracking this, tracking the job,
+
+1076
+00:36:55,000 --> 00:36:56,000
+tracking the thing.
+
+1077
+00:36:56,000 --> 00:37:00,000
+And then we can't do something, right?
+
+1078
+00:37:00,000 --> 00:37:02,000
+And it's because of the construction, right?
+
+1079
+00:37:02,000 --> 00:37:04,000
+There's something that, oh, this is not built.
+
+1080
+00:37:04,000 --> 00:37:08,000
+Or we can't call inspection in because they don't have their
+
+1081
+00:37:08,000 --> 00:37:10,000
+Chases built, right?
+
+1082
+00:37:10,000 --> 00:37:11,000
+So we can't call our inspection.
+
+1083
+00:37:11,000 --> 00:37:13,000
+So we forget the caller inspection.
+
+1084
+00:37:13,000 --> 00:37:14,000
+This happens all the time.
+
+1085
+00:37:14,000 --> 00:37:16,000
+So we forget the caller inspection.
+
+1086
+00:37:16,000 --> 00:37:17,000
+And because they don't have their Chases.
+
+1087
+00:37:17,000 --> 00:37:20,000
+But we have no way to follow up other than the fact that it's written on a piece
+
+1088
+00:37:20,000 --> 00:37:21,000
+paper.
+
+1089
+00:37:21,000 --> 00:37:22,000
+Or it's in an email.
+
+1090
+00:37:22,000 --> 00:37:24,000
+Or it's in a text.
+
+1091
+00:37:24,000 --> 00:37:26,000
+It needs to be centralized.
+
+1092
+00:37:26,000 --> 00:37:27,000
+Yeah.
+
+1093
+00:37:27,000 --> 00:37:32,000
+And so that way if Brian is get sick or I'll keep picking on him.
+
+1094
+00:37:32,000 --> 00:37:33,000
+Me.
+
+1095
+00:37:33,000 --> 00:37:35,000
+So let's say I get sick.
+
+1096
+00:37:35,000 --> 00:37:37,000
+And I'm out for a couple days, right?
+
+1097
+00:37:37,000 --> 00:37:40,000
+Well, everything I've done that's going on with me.
+
+1098
+00:37:40,000 --> 00:37:43,000
+It's like, it's in a silo, right?
+
+1099
+00:37:43,000 --> 00:37:44,000
+Yeah.
+
+1100
+00:37:44,000 --> 00:37:45,000
+I want no silos.
+
+1101
+00:37:45,000 --> 00:37:47,000
+I want to be able to like, it's all someone else can pick it up and take it.
+
+1102
+00:37:47,000 --> 00:37:48,000
+Right?
+
+1103
+00:37:48,000 --> 00:37:49,000
+Pick it up and run.
+
+1104
+00:37:49,000 --> 00:37:51,000
+We're got for he goes, he goes out of town for a week.
+
+1105
+00:37:51,000 --> 00:37:52,000
+I don't need to call him.
+
+1106
+00:37:52,000 --> 00:37:54,000
+I just, it's all right here.
+
+1107
+00:37:54,000 --> 00:37:55,000
+Right?
+
+1108
+00:37:55,000 --> 00:37:56,000
+Yeah.
+
+1109
+00:37:56,000 --> 00:37:57,000
+Today, fuck, we're calling each other on vacation.
+
+1110
+00:37:57,000 --> 00:37:59,000
+We're calling each other eight, 10, 12, 14 times.
+
+1111
+00:37:59,000 --> 00:38:02,000
+Both of us, because it's like, hey, did you do it?
+
+1112
+00:38:02,000 --> 00:38:03,000
+You know, yeah.
+
+1113
+00:38:03,000 --> 00:38:04,000
+Yeah.
+
+1114
+00:38:04,000 --> 00:38:05,000
+It's a part of growing pain, right?
+
+1115
+00:38:05,000 --> 00:38:06,000
+It's good what you do have.
+
+1116
+00:38:06,000 --> 00:38:08,000
+So what do we need to squash?
+
+1117
+00:38:08,000 --> 00:38:09,000
+Yeah.
+
+1118
+00:38:09,000 --> 00:38:10,000
+Exactly.
+
+1119
+00:38:10,000 --> 00:38:11,000
+Yeah.
+
+1120
+00:38:11,000 --> 00:38:12,000
+Okay.
+
+1121
+00:38:12,000 --> 00:38:13,000
+Moving on.
+
+1122
+00:38:13,000 --> 00:38:14,000
+So we have work harder.
+
+1123
+00:38:14,000 --> 00:38:15,000
+And then change it on a bit.
+
+1124
+00:38:15,000 --> 00:38:16,000
+Get smart to the cookbook in wise.
+
+1125
+00:38:16,000 --> 00:38:17,000
+Yep.
+
+1126
+00:38:17,000 --> 00:38:21,000
+How do you take it to, like, what becomes next stage from here?
+
+1127
+00:38:21,000 --> 00:38:22,000
+Okay.
+
+1128
+00:38:22,000 --> 00:38:25,000
+So now it becomes, for me, that's probably more to it.
+
+1129
+00:38:25,000 --> 00:38:29,000
+But then, or back to here, we finalize the phase, right?
+
+1130
+00:38:29,000 --> 00:38:33,000
+So once we got to close the phase, close the phase,
+
+1131
+00:38:33,000 --> 00:38:35,000
+I'm going to continue here.
+
+1132
+00:38:35,000 --> 00:38:38,000
+So we close that every time we close the phase,
+
+1133
+00:38:38,000 --> 00:38:42,000
+there's a few checkpoints that has to be done.
+
+1134
+00:38:42,000 --> 00:38:45,000
+The inspection has to pass.
+
+1135
+00:38:45,000 --> 00:38:47,000
+That has to be called in.
+
+1136
+00:38:47,000 --> 00:38:52,000
+And then it has to be passed, right?
+
+1137
+00:38:52,000 --> 00:38:56,000
+The job has to be built, invoiced.
+
+1138
+00:38:56,000 --> 00:38:59,000
+The crew, and maybe this is not in a correct order,
+
+1139
+00:38:59,000 --> 00:39:06,000
+the crew has to send in their pictures of the, you know,
+
+1140
+00:39:06,000 --> 00:39:10,000
+we got certain details that will tell them that we want to picture of this and picture of that,
+
+1141
+00:39:10,000 --> 00:39:13,000
+so that we know that the job is complete.
+
+1142
+00:39:13,000 --> 00:39:16,000
+So we want to be able to upload the pictures in one spot,
+
+1143
+00:39:16,000 --> 00:39:17,000
+so we can look at it.
+
+1144
+00:39:17,000 --> 00:39:20,000
+So the crew pictures of that, the equipment.
+
+1145
+00:39:20,000 --> 00:39:21,000
+Yeah, that's so important.
+
+1146
+00:39:21,000 --> 00:39:24,000
+Needs to be documented.
+
+1147
+00:39:24,000 --> 00:39:30,000
+And that by, I say documented, that's going to be the serial number.
+
+1148
+00:39:30,000 --> 00:39:31,000
+Okay.
+
+1149
+00:39:31,000 --> 00:39:34,000
+And that's the model number.
+
+1150
+00:39:34,000 --> 00:39:36,000
+And that's the label number.
+
+1151
+00:39:36,000 --> 00:39:38,000
+And in fact, we can do that too.
+
+1152
+00:39:38,000 --> 00:39:41,000
+But we also need to put this in there because this has to be,
+
+1153
+00:39:41,000 --> 00:39:44,000
+the equipment at the end needs to be registered.
+
+1154
+00:39:44,000 --> 00:39:45,000
+Okay.
+
+1155
+00:39:45,000 --> 00:39:47,000
+So that's, we close the phase, right?
+
+1156
+00:39:47,000 --> 00:39:49,000
+So needs to be invoiced.
+
+1157
+00:39:49,000 --> 00:39:53,000
+And so after it's invoiced,
+
+1158
+00:39:53,000 --> 00:39:57,000
+invoiced needs to be paid.
+
+1159
+00:39:57,000 --> 00:39:59,000
+And that doesn't fucking happen.
+
+1160
+00:39:59,000 --> 00:40:03,000
+So that's going to be so, this is the shitty part.
+
+1161
+00:40:03,000 --> 00:40:04,000
+That's getting paid.
+
+1162
+00:40:04,000 --> 00:40:07,000
+The hardest part of the job is getting paid.
+
+1163
+00:40:07,000 --> 00:40:12,000
+So that needs to be able to go on to go on an aging, right?
+
+1164
+00:40:12,000 --> 00:40:15,000
+Make sure it needs to be able to attach to, to QuickBooks.
+
+1165
+00:40:15,000 --> 00:40:18,000
+And so whether we invoice out of here, probably not,
+
+1166
+00:40:18,000 --> 00:40:20,000
+we invoice out of QuickBooks.
+
+1167
+00:40:20,000 --> 00:40:21,000
+Yeah.
+
+1168
+00:40:21,000 --> 00:40:25,000
+But it needs to be able somehow to say, whether it got paid or not, right?
+
+1169
+00:40:25,000 --> 00:40:27,000
+So the job needs to be, you know,
+
+1170
+00:40:27,000 --> 00:40:29,000
+we need to be able to put on there.
+
+1171
+00:40:29,000 --> 00:40:31,000
+So since we go to the next phase,
+
+1172
+00:40:31,000 --> 00:40:33,000
+Brian doesn't need to know all the details about,
+
+1173
+00:40:33,000 --> 00:40:35,000
+hey, this guy said he paid me on this day,
+
+1174
+00:40:35,000 --> 00:40:36,000
+but he didn't pay this.
+
+1175
+00:40:36,000 --> 00:40:37,000
+He paid partial.
+
+1176
+00:40:37,000 --> 00:40:38,000
+He did this.
+
+1177
+00:40:38,000 --> 00:40:39,000
+He did that.
+
+1178
+00:40:39,000 --> 00:40:41,000
+All Brian needs to know is the job paid or not.
+
+1179
+00:40:41,000 --> 00:40:42,000
+Right?
+
+1180
+00:40:42,000 --> 00:40:45,000
+And so when they call for your scheduling because, you know,
+
+1181
+00:40:45,000 --> 00:40:48,000
+they're talking to me and they'll go around me and go to Brian and say,
+
+1182
+00:40:48,000 --> 00:40:50,000
+hey, I know Brad doesn't.
+
+1183
+00:40:50,000 --> 00:40:51,000
+Brad doesn't want him talking to you.
+
+1184
+00:40:51,000 --> 00:40:52,000
+And he's not going to say this, right?
+
+1185
+00:40:52,000 --> 00:40:53,000
+He's going to skip me.
+
+1186
+00:40:53,000 --> 00:40:55,000
+I haven't paid the bill, but man,
+
+1187
+00:40:55,000 --> 00:40:56,000
+I really need that air conditioner said.
+
+1188
+00:40:56,000 --> 00:40:57,000
+I need my trim down.
+
+1189
+00:40:57,000 --> 00:41:00,000
+Well, we're not doing until they pay the first phase, right?
+
+1190
+00:41:00,000 --> 00:41:04,000
+So we need to be able to say in our workspace,
+
+1191
+00:41:04,000 --> 00:41:07,000
+jobs not paid, do not work, right?
+
+1192
+00:41:07,000 --> 00:41:09,000
+Do, you're not allowed to,
+
+1193
+00:41:09,000 --> 00:41:11,000
+I won't even, I've seen it before,
+
+1194
+00:41:11,000 --> 00:41:13,000
+where you don't even let you click on anything.
+
+1195
+00:41:13,000 --> 00:41:16,000
+We just got it like great out or whatever you want to say it,
+
+1196
+00:41:16,000 --> 00:41:18,000
+where it can't be released.
+
+1197
+00:41:18,000 --> 00:41:20,000
+You can't do shit until this is paid.
+
+1198
+00:41:20,000 --> 00:41:21,000
+Yeah, right?
+
+1199
+00:41:21,000 --> 00:41:22,000
+Okay.
+
+1200
+00:41:22,000 --> 00:41:23,000
+We could do that.
+
+1201
+00:41:23,000 --> 00:41:25,000
+I'm okay with it being scheduled,
+
+1202
+00:41:25,000 --> 00:41:29,000
+but I'm not okay with it being able to be assigned.
+
+1203
+00:41:29,000 --> 00:41:30,000
+Does that make sense?
+
+1204
+00:41:30,000 --> 00:41:31,000
+Yeah.
+
+1205
+00:41:31,000 --> 00:41:32,000
+Yeah.
+
+1206
+00:41:33,000 --> 00:41:34,000
+But not assigned.
+
+1207
+00:41:34,000 --> 00:41:35,000
+Okay.
+
+1208
+00:41:35,000 --> 00:41:37,000
+And that's another piece I'm just going here.
+
+1209
+00:41:37,000 --> 00:41:39,000
+That's concurrently with this project.
+
+1210
+00:41:39,000 --> 00:41:43,000
+It's also on a dispatch board or a schedule or something like that, too.
+
+1211
+00:41:43,000 --> 00:41:44,000
+Okay.
+
+1212
+00:41:44,000 --> 00:41:45,000
+Right?
+
+1213
+00:41:45,000 --> 00:41:46,000
+Yeah.
+
+1214
+00:41:46,000 --> 00:41:47,000
+I'll just write that on top of here.
+
+1215
+00:41:51,000 --> 00:41:53,000
+Because it crue, once it crueys assigned,
+
+1216
+00:41:53,000 --> 00:41:56,000
+then it's always, they're always assigned to that job.
+
+1217
+00:41:56,000 --> 00:41:58,000
+So when you assign, is it like one person,
+
+1218
+00:41:58,000 --> 00:42:00,000
+like a lead that'd be out of sight?
+
+1219
+00:42:00,000 --> 00:42:01,000
+Well, only assign one person.
+
+1220
+00:42:01,000 --> 00:42:02,000
+Okay.
+
+1221
+00:42:02,000 --> 00:42:03,000
+Five fakes.
+
+1222
+00:42:03,000 --> 00:42:04,000
+My face.
+
+1223
+00:42:04,000 --> 00:42:05,000
+Right.
+
+1224
+00:42:05,000 --> 00:42:07,000
+So like, well, it'll have the ability to like,
+
+1225
+00:42:07,000 --> 00:42:10,000
+you know, we'll assign it to Brad, Brad creates the bit.
+
+1226
+00:42:10,000 --> 00:42:12,000
+And then once it comes a project,
+
+1227
+00:42:12,000 --> 00:42:13,000
+I'll probably go ahead.
+
+1228
+00:42:13,000 --> 00:42:14,000
+I'll probably do that myself.
+
+1229
+00:42:14,000 --> 00:42:16,000
+I'll create it as a project,
+
+1230
+00:42:16,000 --> 00:42:17,000
+and I'll assign it to him.
+
+1231
+00:42:17,000 --> 00:42:19,000
+And then he's okay.
+
+1232
+00:42:19,000 --> 00:42:22,000
+It's assigned to me on this date.
+
+1233
+00:42:22,000 --> 00:42:25,000
+And then he knows he needs to assign it to a crew.
+
+1234
+00:42:25,000 --> 00:42:27,000
+For this date.
+
+1235
+00:42:27,000 --> 00:42:28,000
+But that's on a, you know,
+
+1236
+00:42:28,000 --> 00:42:31,000
+we can see that on a dispatch board.
+
+1237
+00:42:31,000 --> 00:42:32,000
+Yeah.
+
+1238
+00:42:32,000 --> 00:42:35,000
+Because, you know, we'll need to have a visual.
+
+1239
+00:42:35,000 --> 00:42:38,000
+We'll need to have the transparency and capability.
+
+1240
+00:42:38,000 --> 00:42:39,000
+I'm looking forward right now.
+
+1241
+00:42:39,000 --> 00:42:40,000
+It doesn't matter.
+
+1242
+00:42:40,000 --> 00:42:41,000
+I need to be able to say,
+
+1243
+00:42:41,000 --> 00:42:42,000
+here's Tuesday,
+
+1244
+00:42:42,000 --> 00:42:44,000
+and here's where everybody's working.
+
+1245
+00:42:44,000 --> 00:42:45,000
+Right?
+
+1246
+00:42:45,000 --> 00:42:47,000
+Because, again, nothing goes perfect.
+
+1247
+00:42:47,000 --> 00:42:48,000
+Oh, crap.
+
+1248
+00:42:48,000 --> 00:42:50,000
+I got a, we need this done right now.
+
+1249
+00:42:50,000 --> 00:42:51,000
+Okay.
+
+1250
+00:42:51,000 --> 00:42:52,000
+Who's by there?
+
+1251
+00:42:52,000 --> 00:42:53,000
+Where's this person working?
+
+1252
+00:42:53,000 --> 00:42:54,000
+You should go back there.
+
+1253
+00:42:54,000 --> 00:42:55,000
+Where's he at?
+
+1254
+00:42:55,000 --> 00:42:56,000
+Okay.
+
+1255
+00:42:56,000 --> 00:42:57,000
+Well, he's 200 miles away.
+
+1256
+00:42:57,000 --> 00:42:58,000
+No, he can't go there.
+
+1257
+00:42:58,000 --> 00:42:59,000
+Right.
+
+1258
+00:42:59,000 --> 00:43:01,000
+And so we can either schedule that piece.
+
+1259
+00:43:01,000 --> 00:43:03,000
+And that would be a work order.
+
+1260
+00:43:03,000 --> 00:43:04,000
+That would give reschedule.
+
+1261
+00:43:04,000 --> 00:43:05,000
+And, you know,
+
+1262
+00:43:05,000 --> 00:43:06,000
+Okay.
+
+1263
+00:43:06,000 --> 00:43:08,000
+We need to go to the dispatch board.
+
+1264
+00:43:08,000 --> 00:43:09,000
+Okay.
+
+1265
+00:43:09,000 --> 00:43:10,000
+Yeah.
+
+1266
+00:43:10,000 --> 00:43:11,000
+That management might be,
+
+1267
+00:43:11,000 --> 00:43:12,000
+as a follow-up,
+
+1268
+00:43:12,000 --> 00:43:14,000
+to once we get through these things.
+
+1269
+00:43:14,000 --> 00:43:15,000
+Totally fine.
+
+1270
+00:43:15,000 --> 00:43:16,000
+Yeah.
+
+1271
+00:43:16,000 --> 00:43:17,000
+And I'm fine with that.
+
+1272
+00:43:17,000 --> 00:43:18,000
+I mean, we're, we're mapping.
+
+1273
+00:43:18,000 --> 00:43:19,000
+Yeah.
+
+1274
+00:43:19,000 --> 00:43:20,000
+Yeah.
+
+1275
+00:43:20,000 --> 00:43:22,000
+Perfect.
+
+1276
+00:43:22,000 --> 00:43:23,000
+Okay.
+
+1277
+00:43:23,000 --> 00:43:25,000
+So now we, we get through all of this.
+
+1278
+00:43:25,000 --> 00:43:26,000
+The face closes.
+
+1279
+00:43:26,000 --> 00:43:28,000
+And then we get through all of the faces.
+
+1280
+00:43:28,000 --> 00:43:29,000
+Okay.
+
+1281
+00:43:29,000 --> 00:43:30,000
+You might get paid.
+
+1282
+00:43:30,000 --> 00:43:31,000
+All right.
+
+1283
+00:43:31,000 --> 00:43:33,000
+And then we go one to the startover faces.
+
+1284
+00:43:33,000 --> 00:43:34,000
+That starts over.
+
+1285
+00:43:34,000 --> 00:43:35,000
+Yeah.
+
+1286
+00:43:35,000 --> 00:43:37,000
+It goes back to, we go back to ready for trim.
+
+1287
+00:43:37,000 --> 00:43:38,000
+Right.
+
+1288
+00:43:38,000 --> 00:43:39,000
+Right.
+
+1289
+00:43:39,000 --> 00:43:40,000
+So it goes back to,
+
+1290
+00:43:40,000 --> 00:43:41,000
+Once that face is closed.
+
+1291
+00:43:41,000 --> 00:43:42,000
+Sorry.
+
+1292
+00:43:42,000 --> 00:43:43,000
+So it goes back to,
+
+1293
+00:43:43,000 --> 00:43:44,000
+Once that face is closed.
+
+1294
+00:43:44,000 --> 00:43:46,000
+So it goes back to,
+
+1295
+00:43:46,000 --> 00:43:47,000
+Once that face is closed.
+
+1296
+00:43:47,000 --> 00:43:48,000
+Then we start with the trim face.
+
+1297
+00:43:48,000 --> 00:43:49,000
+Twin face.
+
+1298
+00:43:49,000 --> 00:43:50,000
+And then we start with a face.
+
+1299
+00:43:50,000 --> 00:43:51,000
+Work harder.
+
+1300
+00:43:51,000 --> 00:43:52,000
+And all of that.
+
+1301
+00:43:52,000 --> 00:43:53,000
+Yeah.
+
+1302
+00:43:53,000 --> 00:43:54,000
+So you move more to that.
+
+1303
+00:43:55,000 --> 00:43:56,000
+Close the job.
+
+1304
+00:43:56,000 --> 00:43:57,000
+When someone is done,
+
+1305
+00:43:57,000 --> 00:43:58,000
+the job is closed.
+
+1306
+00:43:58,000 --> 00:43:59,000
+Of the costering.
+
+1307
+00:43:59,000 --> 00:44:01,000
+That's it, done complete.
+
+1308
+00:44:01,000 --> 00:44:03,000
+This is job closed or the project closed.
+
+1309
+00:44:03,000 --> 00:44:04,000
+Project close to project close.
+
+1310
+00:44:04,000 --> 00:44:05,000
+Yeah.
+
+1311
+00:44:05,000 --> 00:44:08,000
+How do you say what the difference is?
+
+1312
+00:44:08,000 --> 00:44:11,000
+I mean, in my mind, a project has multiple jobs, right?
+
+1313
+00:44:11,000 --> 00:44:13,000
+Job order work, I mean,
+
+1314
+00:44:13,000 --> 00:44:17,000
+I'm interchangeably calling work order and job as, you know,
+
+1315
+00:44:17,000 --> 00:44:18,000
+similar terms.
+
+1316
+00:44:18,000 --> 00:44:21,000
+But the project has encompassing a lot of work.
+
+1317
+00:44:21,000 --> 00:44:22,000
+Right?
+
+1318
+00:44:22,000 --> 00:44:23,000
+So,
+
+1319
+00:44:23,000 --> 00:44:36,000
+So one project has multiple faces, each face has multiple work orders and each work order will be associated to an invoice and an engineer technician who is assigned to it and be able to track that.
+
+1320
+00:44:36,000 --> 00:44:40,000
+We should be able to create additional work orders based on what you find out.
+
+1321
+00:44:40,000 --> 00:44:46,000
+So you can invoice them and once all of that invoice is paid is when you can move on to the next phase.
+
+1322
+00:44:46,000 --> 00:44:49,000
+And then you go through all the phase and you go to the warranting.
+
+1323
+00:44:49,000 --> 00:44:51,000
+So all of that is within the project.
+
+1324
+00:44:51,000 --> 00:44:54,000
+I just want to make sure that when I'm saying project, I'm saying the same thing.
+
+1325
+00:44:54,000 --> 00:44:55,000
+Between four of us.
+
+1326
+00:44:55,000 --> 00:44:56,000
+It's the same thing.
+
+1327
+00:44:56,000 --> 00:44:57,000
+Job and project is the same thing.
+
+1328
+00:44:57,000 --> 00:44:58,000
+Same thing.
+
+1329
+00:44:58,000 --> 00:44:59,000
+QuickBooks calls it a project.
+
+1330
+00:44:59,000 --> 00:45:01,000
+So that's why I'm leaving it as a project.
+
+1331
+00:45:01,000 --> 00:45:02,000
+Okay.
+
+1332
+00:45:02,000 --> 00:45:03,000
+We can just stick to the project.
+
+1333
+00:45:03,000 --> 00:45:05,000
+Project is fine, but it's really just each job.
+
+1334
+00:45:05,000 --> 00:45:06,000
+Right.
+
+1335
+00:45:06,000 --> 00:45:09,000
+So a builder, one builder might have multiple projects.
+
+1336
+00:45:09,000 --> 00:45:10,000
+Jobs.
+
+1337
+00:45:10,000 --> 00:45:11,000
+Right.
+
+1338
+00:45:11,000 --> 00:45:12,000
+All over the place.
+
+1339
+00:45:12,000 --> 00:45:13,000
+Yep.
+
+1340
+00:45:13,000 --> 00:45:16,000
+It's not like a commercial project where you got multiple buildings and multiple sites.
+
+1341
+00:45:16,000 --> 00:45:17,000
+It's like that.
+
+1342
+00:45:17,000 --> 00:45:19,000
+It's one project, it's one job, it's one site.
+
+1343
+00:45:19,000 --> 00:45:20,000
+Got it.
+
+1344
+00:45:20,000 --> 00:45:22,000
+That's how I'm doing it.
+
+1345
+00:45:22,000 --> 00:45:23,000
+Makes sense.
+
+1346
+00:45:23,000 --> 00:45:24,000
+Got it.
+
+1347
+00:45:24,000 --> 00:45:29,000
+And once we get through, I think this, do you have any subsequent phases that then project closes
+
+1348
+00:45:29,000 --> 00:45:30,000
+That's it.
+
+1349
+00:45:30,000 --> 00:45:32,000
+I said that kind of closes the life cycle.
+
+1350
+00:45:32,000 --> 00:45:33,000
+Right.
+
+1351
+00:45:33,000 --> 00:45:34,000
+So I leave it open for the warranty.
+
+1352
+00:45:34,000 --> 00:45:35,000
+Yeah.
+
+1353
+00:45:35,000 --> 00:45:38,000
+We'll capture any warranty on the rich because that's part of the rich.
+
+1354
+00:45:38,000 --> 00:45:41,000
+And so once that's done, then we'll close that out.
+
+1355
+00:45:41,000 --> 00:45:44,000
+That's done, never reopening it again.
+
+1356
+00:45:44,000 --> 00:45:49,000
+And then that same house will now go to a service and retail kind of the thing.
+
+1357
+00:45:49,000 --> 00:45:50,000
+Right.
+
+1358
+00:45:50,000 --> 00:45:52,000
+That's a whole different department.
+
+1359
+00:45:52,000 --> 00:45:58,000
+But we'll still do it the same way, but we'll do it in a different department.
+
+1360
+00:45:58,000 --> 00:45:59,000
+Right.
+
+1361
+00:45:59,000 --> 00:46:00,000
+So divisions.
+
+1362
+00:46:00,000 --> 00:46:01,000
+Right.
+
+1363
+00:46:01,000 --> 00:46:04,000
+So we're talking one division right now, which is their bread and butter.
+
+1364
+00:46:04,000 --> 00:46:07,000
+But then we also are going to be doing commercial, a little bit of commercial work.
+
+1365
+00:46:07,000 --> 00:46:09,000
+We also do service work.
+
+1366
+00:46:09,000 --> 00:46:10,000
+Okay.
+
+1367
+00:46:10,000 --> 00:46:13,000
+And so those three, or maybe even four, will have different divisions.
+
+1368
+00:46:13,000 --> 00:46:14,000
+We'll be all the same.
+
+1369
+00:46:14,000 --> 00:46:16,000
+It'll be basically the same or similar.
+
+1370
+00:46:16,000 --> 00:46:17,000
+But we'll have a different.
+
+1371
+00:46:17,000 --> 00:46:19,000
+But we're going to start with this today.
+
+1372
+00:46:19,000 --> 00:46:20,000
+Yeah.
+
+1373
+00:46:20,000 --> 00:46:21,000
+Yeah.
+
+1374
+00:46:21,000 --> 00:46:22,000
+And then we'll keep evolving the same.
+
+1375
+00:46:22,000 --> 00:46:23,000
+True.
+
+1376
+00:46:23,000 --> 00:46:24,000
+True.
+
+1377
+00:46:24,000 --> 00:46:28,000
+And we can make adjustments because we need to kind of harden this process.
+
+1378
+00:46:28,000 --> 00:46:34,000
+And once people are familiar with it, then it's about just replicating and making subtle changes to correct.
+
+1379
+00:46:34,000 --> 00:46:35,000
+Okay.
+
+1380
+00:46:35,000 --> 00:46:37,000
+And I'm not even saying we attack that now.
+
+1381
+00:46:37,000 --> 00:46:38,000
+I'd say we stay with you.
+
+1382
+00:46:38,000 --> 00:46:39,000
+Yeah.
+
+1383
+00:46:39,000 --> 00:46:40,000
+We stay with this today.
+
+1384
+00:46:40,000 --> 00:46:41,000
+Absolutely.
+
+1385
+00:46:41,000 --> 00:46:44,000
+We'll just fight for a while until with the other parts of it.
+
+1386
+00:46:44,000 --> 00:46:47,000
+And then we'll eventually pull it all together.
+
+1387
+00:46:47,000 --> 00:46:48,000
+Okay.
+
+1388
+00:46:48,000 --> 00:46:49,000
+Are you going with that?
+
+1389
+00:46:49,000 --> 00:46:50,000
+Yeah.
+
+1390
+00:46:50,000 --> 00:46:51,000
+Okay.
+
+1391
+00:46:51,000 --> 00:46:52,000
+All right.
+
+1392
+00:46:52,000 --> 00:46:54,000
+So now I, what's the time to check?
+
+1393
+00:46:54,000 --> 00:46:55,000
+Okay.
+
+1394
+00:46:55,000 --> 00:46:56,000
+Good.
+
+1395
+00:46:56,000 --> 00:46:57,000
+We have time.
+
+1396
+00:46:57,000 --> 00:47:03,000
+So what I want to do is, and this, you could be can tackle it as an ongoing.
+
+1397
+00:47:03,000 --> 00:47:09,000
+I want to be able to map what information are we going to capture in each of those faces.
+
+1398
+00:47:09,000 --> 00:47:10,000
+Meaning.
+
+1399
+00:47:10,000 --> 00:47:12,000
+So we start with a customer.
+
+1400
+00:47:12,000 --> 00:47:13,000
+Okay.
+
+1401
+00:47:13,000 --> 00:47:22,000
+Because what I also want to do as we are building it is that you use the information that you already have to prepopulate as much as possible as you are going through that.
+
+1402
+00:47:22,000 --> 00:47:29,000
+That way like when I have to create a work order, I just have to focus on who my am assigning it to.
+
+1403
+00:47:29,000 --> 00:47:31,000
+What's the schedule of that?
+
+1404
+00:47:31,000 --> 00:47:32,000
+Mm-hmm.
+
+1405
+00:47:32,000 --> 00:47:34,000
+And then like what needs to be done.
+
+1406
+00:47:34,000 --> 00:47:38,000
+And then when it gets assigned as a task through the technical engineering engineer,
+
+1407
+00:47:38,000 --> 00:47:42,000
+all they have to worry about is what notes I need to put in, what images I have to put in.
+
+1408
+00:47:42,000 --> 00:47:46,000
+They don't have to worry about anything else because everything else is backtracked.
+
+1409
+00:47:46,000 --> 00:47:47,000
+That's all right.
+
+1410
+00:47:47,000 --> 00:47:48,000
+Yeah.
+
+1411
+00:47:48,000 --> 00:47:52,000
+So now for us, for that to happen, we have a customer base.
+
+1412
+00:47:52,000 --> 00:47:56,000
+Meaning you list, we list down all the customers that you have with the address details and things.
+
+1413
+00:47:56,000 --> 00:47:59,000
+That's going to be one of the information that we captured.
+
+1414
+00:47:59,000 --> 00:48:00,000
+Mm-hmm.
+
+1415
+00:48:00,000 --> 00:48:02,000
+And then after that we start with a bit.
+
+1416
+00:48:02,000 --> 00:48:03,000
+Right.
+
+1417
+00:48:03,000 --> 00:48:06,000
+The bid will pull customer information from there.
+
+1418
+00:48:06,000 --> 00:48:08,000
+And then you put in some detail.
+
+1419
+00:48:08,000 --> 00:48:09,000
+The site specific detail.
+
+1420
+00:48:09,000 --> 00:48:10,000
+Yeah.
+
+1421
+00:48:10,000 --> 00:48:11,000
+Site specific detail.
+
+1422
+00:48:11,000 --> 00:48:14,000
+So what I need to know is what are those input fields?
+
+1423
+00:48:14,000 --> 00:48:15,000
+Okay.
+
+1424
+00:48:15,000 --> 00:48:16,000
+I have a spreadsheet.
+
+1425
+00:48:16,000 --> 00:48:17,000
+Perfect.
+
+1426
+00:48:17,000 --> 00:48:18,000
+Oh, it's good.
+
+1427
+00:48:18,000 --> 00:48:19,000
+This is where actually we're now.
+
+1428
+00:48:19,000 --> 00:48:21,000
+We're going to get a little bit of the initials.
+
+1429
+00:48:21,000 --> 00:48:22,000
+Yes.
+
+1430
+00:48:24,000 --> 00:48:29,000
+So we have a sheet that we call, the name is wrong on it.
+
+1431
+00:48:29,000 --> 00:48:31,000
+We call it our 2025 schedule.
+

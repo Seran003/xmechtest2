@@ -1,0 +1,440 @@
+1
+00:00:00,000 --> 00:00:05,240
+I love metrics. Yes, so we can build something and we're not using them today. It drives me insane
+
+2
+00:00:05,240 --> 00:00:08,820
+Yeah, yeah, again that would be like things, but we can definitely
+
+3
+00:00:09,020 --> 00:00:14,280
+Bullying towards it. Yeah, because I got my budgets, but I want to be able to say what's my actual versus
+
+4
+00:00:15,120 --> 00:00:18,760
+actual versus estimate. I want to be able to be looking at that and I'm not
+
+5
+00:00:20,560 --> 00:00:22,560
+Because you have everything
+
+6
+00:00:24,480 --> 00:00:29,580
+We don't we're not doing it. I know we're not doing it right which is why we started talking
+
+7
+00:00:30,000 --> 00:00:32,000
+Yeah
+
+8
+00:00:32,000 --> 00:00:36,840
+So the bet is fine. Now we get into the project phase. Yeah, it's a bit gets approved
+
+9
+00:00:36,840 --> 00:00:41,160
+You you would say that bet is approved for job or fun work that to a job
+
+10
+00:00:41,440 --> 00:00:43,440
+So that's most to job
+
+11
+00:00:43,440 --> 00:00:50,120
+Now once we get to the job that is where we have to assign the phases. Yes, right and it gets auto assigned
+
+12
+00:00:50,120 --> 00:00:52,120
+The
+
+13
+00:00:53,240 --> 00:00:59,100
+Ruff up and then trim and start up and one and be right every job will have these four phases
+
+14
+00:00:59,100 --> 00:01:06,000
+Yeah, it default now what information do you think we would want to capture an addition to what we already have there
+
+15
+00:01:06,200 --> 00:01:11,600
+So schedule is one part of it. So I should be for each phases. I should be able to create a new work
+
+16
+00:01:11,600 --> 00:01:14,200
+Order. Yes, right and as part of the work order
+
+17
+00:01:14,200 --> 00:01:21,600
+I should be able to say who is the engineer that I'm assigning it to correct and then install it and then start time and time
+
+18
+00:01:21,600 --> 00:01:24,800
+Of when it should be scheduled. Yep, and then
+
+19
+00:01:26,320 --> 00:01:28,320
+Notes and
+
+20
+00:01:28,320 --> 00:01:35,360
+Images of correct. So those are the that's the things. Okay. That's it right. Yeah, yeah, okay, and then
+
+21
+00:01:35,880 --> 00:01:41,860
+To that then you have invoice pending paid. Yes, which gets since so you say a work order
+
+22
+00:01:41,860 --> 00:01:48,700
+It's complete and when you say complete it triggers the invoice process correct and says you're now ready to send it in voice
+
+23
+00:01:48,700 --> 00:01:52,900
+Correct, and you'll for now you'll tackle that. We'll figure out the I'm doing it manually, right?
+
+24
+00:01:52,900 --> 00:01:59,100
+And so this is a set this is a sad reality. This is another thing. I'm not missing anything. At least I hope not
+
+25
+00:02:02,180 --> 00:02:08,900
+So this is what we did, right? So I'm always on hand to make sure this is updated and the reason why is because that's how I've built right
+
+26
+00:02:08,900 --> 00:02:15,580
+And so if we click on whatever click on one of these right here. Here's one one example right so this is a job
+
+27
+00:02:15,580 --> 00:02:21,340
+It's been assigned material. It's not up. It's not up there, but we've completed the material or the equipment is on site
+
+28
+00:02:21,340 --> 00:02:25,560
+And I have a building that right so we have ready not ready complete right there
+
+29
+00:02:25,860 --> 00:02:29,380
+Right, so it's not it's not so I taught it track it every single job
+
+30
+00:02:29,380 --> 00:02:32,580
+So I just go through here like for example, and I'll say okay
+
+31
+00:02:33,140 --> 00:02:39,580
+Build serves complete build. Yeah, that one's complete and this this is how I I tell myself that yes
+
+32
+00:02:39,580 --> 00:02:43,580
+You've already built it. Yes, you've already attached it right and so like here
+
+33
+00:02:43,580 --> 00:02:47,580
+I know I haven't done anything what I've no I need to look at these because I haven't done anything with them
+
+34
+00:02:47,580 --> 00:02:54,580
+Yeah, so I've only built this one for the week and I know I got to do that something because I haven't done jack shit
+
+35
+00:02:57,580 --> 00:03:01,180
+Yeah, and so this is a work this right here is a work order, right?
+
+36
+00:03:01,180 --> 00:03:06,100
+So this one got on here installed return grill, but we got like no detail on it now
+
+37
+00:03:06,540 --> 00:03:10,780
+We know today that it's a 16 by 25 grill or whatever it is
+
+38
+00:03:10,780 --> 00:03:14,360
+It's we got to go back and install it. We know today, but a year from now
+
+39
+00:03:14,860 --> 00:03:18,920
+Shit, we don't know what that is going on and this is what this is where we're missing the data
+
+40
+00:03:18,920 --> 00:03:23,460
+That's why the centralized spot needs to happen yeah and eventually and not now
+
+41
+00:03:23,620 --> 00:03:30,540
+But eventually I'd like to say we can pick a drop down and we say we need this this is this and that automatically sign it to the work order
+
+42
+00:03:30,540 --> 00:03:34,940
+Material list. Yes, and then I'll have a pole in the screech
+
+43
+00:03:37,540 --> 00:03:43,100
+We can take a screenshot like yes, this one right and I would need a screenshot of this
+
+44
+00:03:45,060 --> 00:03:47,060
+Which which one you are?
+
+45
+00:03:47,060 --> 00:03:54,980
+So this feels now let me ask for every work are every phase do you have this like you need to finish the material
+
+46
+00:03:54,980 --> 00:03:57,500
+Yep, make it on order equipment order
+
+47
+00:03:57,500 --> 00:04:03,060
+So these it so the material needs to be ordered so that needs to be a task that needs to be assigned to someone
+
+48
+00:04:04,580 --> 00:04:09,500
+Order the material order the equipment order the queen city pre-fab
+
+49
+00:04:10,100 --> 00:04:14,220
+We need to be able to have a sign there so they can click it off that needs to be a phase
+
+50
+00:04:14,380 --> 00:04:18,140
+That needs to be a task within the face. So you're not just assigning the leads
+
+51
+00:04:18,140 --> 00:04:19,580
+You're also assigning
+
+52
+00:04:19,660 --> 00:04:29,860
+Some of the tasks there's some other task that are involved with each part of that to so now this if the these things is a the phase load of the work on the level
+
+53
+00:04:31,100 --> 00:04:36,380
+We could be either it could be it could be so it could be at the work let's make it into work order level
+
+54
+00:04:36,380 --> 00:04:39,940
+Because you're creating a work order or we're creating a work order for
+
+55
+00:04:40,380 --> 00:04:47,620
+The first work order is the job, right and so we can assign it certain parts of it. Yeah, yeah, and
+
+56
+00:04:47,620 --> 00:04:56,140
+And okay, so then we work we have to do then is each work order will have sub tasks. Yes, right so that you can say
+
+57
+00:04:56,140 --> 00:05:02,500
+You know what the first one is spending and who is the installer or who is the person who needs to take care of it right
+
+58
+00:05:02,500 --> 00:05:09,380
+So that when you assign them it shows up into their tasks, right and it's now their responsibility to mark that
+
+59
+00:05:09,380 --> 00:05:14,500
+That's complete once that is done. It's a good answer and next one to answer once they mark that is complete
+
+60
+00:05:14,500 --> 00:05:20,080
+Then that gets green here and the next one gets enabled and it tells like when you come there
+
+61
+00:05:20,080 --> 00:05:26,540
+You should be able to see the pending jobs and see which ones are waiting on what so you can base maybe follow up
+
+62
+00:05:26,540 --> 00:05:30,580
+Is it always Syria or parallel task also happened?
+
+63
+00:05:32,140 --> 00:05:37,240
+No, I think this is these are all this all you say this is per phase or is it per work order?
+
+64
+00:05:37,240 --> 00:05:43,420
+What we do this per work order because it might be a change order
+
+65
+00:05:43,420 --> 00:05:48,060
+Then needs to be assigned to somebody take a look at this hey order of this material
+
+66
+00:05:48,060 --> 00:05:52,180
+Hey, go do this right it might because there might be something because a lot of times
+
+67
+00:05:52,180 --> 00:05:57,640
+You know, we're talking about something this got moved in here, but what happens is that you know what I'm gonna finish the whole second floor
+
+68
+00:05:58,240 --> 00:06:02,440
+We weren't gonna do it, right? So now we are it's $12,000 right?
+
+69
+00:06:02,440 --> 00:06:07,140
+So now there's multiple things involved rather than the $20 girl that need to be changed
+
+70
+00:06:07,700 --> 00:06:10,660
+Right, so there's multiple things, but it could be the same format
+
+71
+00:06:11,620 --> 00:06:17,580
+Right, so it could be a task and that could be it could be real simple like that right okay
+
+72
+00:06:19,740 --> 00:06:25,260
+Yeah, so it could be different tasks and this task is it going to be fixed
+
+73
+00:06:25,860 --> 00:06:31,860
+For every job and work every phase every job every work. It'll be the same every time same. So by default
+
+74
+00:06:31,860 --> 00:06:34,780
+We can just set that up yes and keep it open for you
+
+75
+00:06:34,780 --> 00:06:40,620
+You are someone to assign guests installers and assign the task for someone and we say you we need
+
+76
+00:06:41,180 --> 00:06:43,180
+Okay
+
+77
+00:06:43,180 --> 00:06:45,900
+Okay, so we have to then work with Brian on that
+
+78
+00:06:46,620 --> 00:06:54,540
+Are you good with everything yeah, so far from your jump in when there's yeah, yeah, yeah, yeah, I'm collecting as much as details
+
+79
+00:06:54,540 --> 00:07:01,660
+So that we get heavily into it so I'm pretty sure we build some initial thing and then we come back and kind of
+
+80
+00:07:01,660 --> 00:07:03,660
+We get together
+
+81
+00:07:03,660 --> 00:07:08,860
+Yeah, because I'm also trying to see how much you know we need to be able to build yeah
+
+82
+00:07:09,420 --> 00:07:17,900
+On this okay, so this tasks I will be there and then I know we go from one to the other which is the same thing
+
+83
+00:07:19,220 --> 00:07:21,220
+Yeah, I'll take such and whatever you want
+
+84
+00:07:26,380 --> 00:07:33,860
+Okay, and is that anything else you manage here apart from I see that you you have a family
+
+85
+00:07:33,860 --> 00:07:39,060
+You go through this right and right now
+
+86
+00:07:39,060 --> 00:07:44,060
+I don't know if you can get calendar also in but we can add that
+
+87
+00:07:45,260 --> 00:07:51,340
+Okay, yeah, well you have a calendar to be able to see who is working on what who is assigned to what yeah
+
+88
+00:07:51,340 --> 00:07:55,060
+And then that will then bring up the next thing that we're saying like okay
+
+89
+00:07:55,060 --> 00:08:01,860
+I have a job that I need to get done you know, let me see an open slot and could see who is open at that right when in time
+
+90
+00:08:01,860 --> 00:08:06,180
+That's so you know, this is this week, right, so then here's next week
+
+91
+00:08:08,260 --> 00:08:11,980
+So we got stuff already on for next week week after we got all of his files
+
+92
+00:08:12,420 --> 00:08:16,700
+Right, yeah, you guys you know people don't think at that part of it. It's always week the week right
+
+93
+00:08:16,700 --> 00:08:24,300
+So that's next week right there that'll get all changed around stuff like that because there's stuff that's on for this week that it get done
+
+94
+00:08:24,300 --> 00:08:26,700
+Yeah, yeah, he did go do that by the way
+
+95
+00:08:28,700 --> 00:08:30,700
+Yeah, yeah, no, he called me good
+
+96
+00:08:31,860 --> 00:08:34,140
+He's not going to set the year down. He's going to let's do money
+
+97
+00:08:35,580 --> 00:08:37,580
+Okay
+
+98
+00:08:37,780 --> 00:08:44,220
+So I have enough information for us to start measuring the things and you take that old towel by the way
+
+99
+00:08:44,220 --> 00:08:49,940
+Oh, okay, yeah, thanks. I wrote all over but you it helped. Yes, it'll help when you listen to your yes
+
+100
+00:08:49,940 --> 00:08:54,300
+I'll listen to that and then kind of build it because I want to initially
+
+101
+00:08:54,300 --> 00:08:56,300
+I would try to focus on
+
+102
+00:08:56,820 --> 00:09:03,740
+Like a mass of sheep which will have the bit information the dog and financial work on it and I'll take your sheep and just modify it
+
+103
+00:09:04,300 --> 00:09:11,380
+So the bitboard looks like this. Okay, so you know these are all all that if you want to picture of this
+
+104
+00:09:11,660 --> 00:09:13,660
+Yes, we have
+
+105
+00:09:13,660 --> 00:09:15,660
+No, I don't think you
+
+106
+00:09:15,660 --> 00:09:18,140
+I can send this to you. Yeah, if you can send me the
+
+107
+00:09:18,580 --> 00:09:22,340
+So the bitboard and then what what is the job?
+
+108
+00:09:22,940 --> 00:09:25,420
+It's on tracking area. You're all the jobs
+
+109
+00:09:27,260 --> 00:09:30,700
+Okay, he's rolled right here. Yeah, I love
+
+110
+00:09:31,780 --> 00:09:35,140
+So I'll split it up and map it
+

@@ -1,0 +1,1427 @@
+You
+You
+You
+You
+You
+After the drywalls done then we do a trim and so there's a labor phase for that and so then after that there's another page in there is for materials and that's going to be the whole entire job
+And what that's how we do it and that's how we create the estimate at the estimate time where we're talking up front here
+We don't need to break all that thing down and to something for later for a job sheet
+We can and it wouldn't be a hurtful thing. I mean, I think it'd be just easy to just do that
+But the what's problematic is what happens if they make changes to the job will have to redo all that whole thing again
+And so I don't know if that's a thing where we press a button and it's okay
+Turn it to a job
+I think that's what we do for later, right, but during the S it would be it would pull the same data from both
+When it becomes a job and when it's an estimate right to be to the two separate things
+So we can utilize the same thing and that could be in this workflow twice, right? Yes, okay
+So to double thing, now one thing is your bid face, right?
+Yeah, but you are estimating so that you can give a code to them
+Correct
+And then so the bid needs to close as a task, right? Meaning like they have to approve it
+Yeah, before you get in, so how do you send out that information to them?
+So right now what I do is I use my Excel spreadsheet to come up with the price, right?
+All the labor, I put all this stuff, spits me out of price at the bottom
+Then I take a word document and I edit that word document
+Once I put the price in all the materials and whatnot, let's go what we're doing
+And then I flip that to a PDF and then I take that original email or whatever
+They set me an email with the plans, I'll return that email for that, so it's the same chain
+With the bid, with the PDF bid on that, and that's how I send it to them
+And then what I do right now is I load that into my bid board, I just put data set on such and such date
+And every time I talk to them or every time that I have communication with them, I'll put a note in there right there
+And so that's something we can have on this individual workspace
+Right, so all of that has to come here, right? So this will become your bid board
+Basically, like you can come in and then like just what if you're submitting a bid, you can just say like you know
+You're entering some important details and then you say this is my bid, I sent it
+Yeah, and we can also
+Like if you have a template of the word document
+I do
+We can, so once you enter all the details in the bid, we can even like generate that word document
+But we need to come up with like a fixed format
+Yeah, so I mean, so like I put equipment and stuff like there, but we could put a drop down
+You put like a table in there
+Yeah, so yeah, so right now again for the other one, like we just say like square brackets, so I get square brackets
+Equipments for square brackets
+We think and what our program does is once you fill up this bid sheet
+You can say once that spreadsheet is ready
+We can just you can tell this is the cell the equipment comes from this is the cell this one comes from and we can pull that data from there
+Yeah, you can even display to you on this dashboard and you say generate proposal
+It takes all that information put it into the word document
+And then sends it to you in an email
+Perfect, and all if you want PDF, we can send it to you as a preview
+Yeah, I'd want on PDF because then that's what I send to you
+Yeah, so the other thing is we can also integrate it with DocuSign or Pantera doc
+And send it to them as a signature ready to sign
+I'd be okay with that later
+Okay, for now just for now is good. Yeah, just PDF for now
+DocuSign, so some of my builders would be fine with that
+Some of our builders would be like absolutely not
+So I got a couple builders that actually loaded into their builder trend
+Okay, and I load the bid onto them so that docuSign that wouldn't work in that
+But I do when I do their builder trend, I do give them the PDF of the bid
+So I upload that too
+Okay, so we can just make this workflow like, you know, you come in, you'll put the information in the sheet
+Or if it's simple enough, we can see what goes into that sheet that you can enter here
+We populate that into this spreadsheet
+Yep, and then we pull the information show it to you
+We're like, you know what this all information looks good
+Now go generate a proposal for me, and it can generate and send the PDF to you
+Good
+But again, we will have a follow up to talk specifics
+Oh, I'd like, yeah, we're just more high-level right now
+I get that, yes, I'm ready to turn around and start throwing, but we're not there yet
+Yeah, and I get that
+Alright, so workflow, contact builder sends me an email
+He sends me plans and specs
+We need to be able to load it up into here for the into our bid board into Google workspace
+It'll us automatically assign a task to whoever
+Yeah, and then we'll go outside of that and we'll do our Excel spreadsheet and we're document
+And then this will be able to go grab it, we'll figure out how to do that
+It'll grab it, stick it in here
+Yeah, and so then we can have, for follow up, right?
+Yeah, so that's always live, and so that it'll set a date to follow up and things like
+Yeah, automatically populate like that
+Yes, and that'll be the big face of this particular type of a job
+Yeah, correct?
+Right, and so from there it goes to be, you know, they schedule it
+They said they want to do that, right?
+So now we go to the scheduling part, and then we go to the job.
+It becomes a job too, right?
+And so that's the next part.
+So scheduling is what I've said I wanted to work on.
+However, the project is what needs to be created next.
+Is that, would that make sense?
+Yeah, right?
+So the next part is the project.
+Yeah, so just one thing, the assigning the team member to be a drop don't of the different,
+Yeah, we can have, if you have a list of team members,
+We can give the email IDs, so you just pick them from the drop don,
+And then you can send, you can click send email here.
+It'll automatically send a email or send a task to ask.
+Yeah, I mean, yeah, you assign a task here,
+But you need to still be able to tell them that, right,
+They have a task that they need to come and take a look at it, right?
+Yeah, well, I was, I'm envisioning this as a, I don't know if it's all encompassing
+It's everybody or it's individual based on the individual.
+And so they pull up their workspace here or whatever it is.
+Here's my tasks.
+It's already pre-loaded up there, right?
+Rather than sending an email like it's cumbersome.
+Okay, right?
+I'd rather have it say, okay, you got a bid due on this day, right?
+You got a bid due on this day and other things.
+You've got a project that's due.
+You got materials that need to be ordered.
+You got equipment and needs to be ordered.
+I'd rather populate it that way on a task list and Google workspace,
+So they have to actually load in, so they're looking at it.
+Rather than sending 75 emails and trying to sort through it.
+Got it.
+Yeah, we can have like, if that's possible.
+Yes, it's possible.
+Okay, yeah.
+But we might have to think through to see, like,
+How do you want to scale it, meaning like, do you want to keep the task separate,
+job separate?
+So when they come in, they can have like tabs like this.
+Yeah, say like bid tasks.
+I don't think so.
+I don't think so.
+I think we can cover code it, right?
+We can say if it's a bid, it's blue.
+If it's a job that needs to be created, it's green.
+Yeah.
+If it's a task that hasn't been done, it's red, right?
+Right.
+Or like, you know, I think if we color it coded that way,
+then that would be easier to separate.
+Okay.
+Okay.
+We could say what task it is, what type of a task,
+and so we could sort it by type of task,
+and then type of tasks can be colors.
+Yeah.
+And now my guys respond really well to using colors.
+I like everything in a different color.
+Okay.
+I've adapted to it.
+That's my people.
+That's how they work.
+Okay.
+I mean, we can definitely build a color code.
+It's easy for us.
+Yeah.
+Yeah.
+Okay.
+Okay.
+So you assign the tasks to them for bid.
+Someone has to complete it.
+And then they have to make sure that it is submitted.
+So the tasks becomes green.
+And then they can send it back to you or to whoever they want it.
+Right.
+And so it sits there for follow up, right?
+So then follow up, it's probably going to be me.
+I mean, this whole period is probably going to be me.
+But for now.
+Okay.
+All right.
+So now the builder calls and says, hey, I want to want to do this job with you.
+And I need a schedule for April 1st.
+Okay.
+So now we go into the next part, which would be we need to.
+We need to take this bid and make it a project project.
+Yeah.
+Right.
+So we can have like all the active bits.
+Right.
+And you can say this status is spending submitted.
+Right.
+Yep.
+And then you can say convert that into a job.
+Yep.
+What happened is that bid will then move into the job board.
+With all the details of what has been submitted.
+Okay. So here's my first question.
+So once we take all this right.
+We've got to work with workspace.
+We've got to map to everything like that.
+And now we want to create a project.
+Will this be able to say.
+Here's a project uploaded the QuickBooks to QuickBooks project.
+And it automatically sinks it updates or whatever we decide to do with that.
+And automatically comes in.
+And it could prep, prep makes all my stuff for billing and everything like that.
+Will it do all that?
+In theory. Yes.
+But.
+But the reason I'm saying is QuickBooks has limitations on the APIs.
+Yes.
+That it exposes.
+Yeah.
+As long as there is an API that's available that we can talk to.
+Yeah.
+With your account.
+We should be able to do it.
+Okay.
+So the limitation is not whether we can do it or not.
+If that is a limitation, it would be like whether they are allowing us to do it or not.
+The one thing I know.
+Okay. So if it doesn't do it automatically.
+I do know that everything has a template for QuickBooks.
+Okay.
+And so the worst case scenario is that this would take the template and spit it to that.
+And then we would be able to, I don't know.
+Yeah.
+We can make it out some way to do it.
+Whether it's manually or automatically.
+Yes.
+Okay.
+I want to be able to say, okay, this is now a job.
+Yeah.
+Here is this part of this process where we say.
+Upload it into QuickBooks, whether I do it manually.
+By the template or whether it automatically does it.
+Right.
+That's that's part of the process.
+Yes.
+True.
+And the other thing.
+So we can say first we start with bit.
+Yeah.
+You create a new bit and then you enter the details.
+The bit is there.
+You assign the bit to yourself for someone else in the team.
+Right.
+Whoever you assign it to, when they come in, they can see that the task is populated for them.
+Yep.
+And they have to act on it.
+And once that is submitted, it shows up in your dashboard that it has been submitted.
+And then once they approve it, you would come in and convert that to a job.
+Yep.
+Where we will move that bit from this database to the top database.
+From that database.
+Yeah.
+Yeah.
+And then we assign a project number.
+Okay.
+How do you, is that a sequence number that you?
+Yes.
+Okay.
+Yeah.
+So what we'll do, we'll start with, we'll do it with like, with like a five digit number.
+It will just, let's make it a six digit.
+It's just a date.
+We'll go with the date.
+Right.
+So that's exactly what I was going to say.
+Year, month, month, date.
+And then 001.
+Correct.
+So if you have three projects, six projects, we just, I don't, I mean, unless that's how
+400 projects.
+I mean, my day.
+Not a day, not a day.
+We'll never have 400.
+Even with, we get huge.
+We'll never get that day.
+All right.
+So it's the job number, if you will, we'll always be the date, which I'm big on that.
+Year, month, day.
+Twenty, today is the 28th of February.
+Yeah.
+And then first job, it'd be like that.
+See, there's, you know, one.
+Twenty, five, two, two, eight, dash, zero, zero, one.
+Yeah.
+Perfect.
+Yep.
+So love it.
+And we could even have a bit for an number.
+And then we can, you know, either move that to a job or we can create a new one.
+So that, that is again.
+Yeah.
+We can adjust it when we came to that.
+Yeah.
+Cool.
+Yeah.
+I like that.
+So that becomes your project.
+Oh, Brian.
+He's here.
+Are you okay to talk about this stuff?
+Yeah.
+Are you okay?
+Grab your chair.
+Come on in.
+Brian's in here.
+We're going to put him right here.
+Okay.
+He needs to be able to look right out of this.
+Sure.
+Zoom in a bit.
+No.
+Just you and your chair.
+And your brain.
+Oh, it's a fancy chair.
+Guys, this is Brian Pratilla.
+Hey.
+Brian finish.
+But that's good.
+Nice to meet you guys.
+Brian is our production.
+Basically, production, the operation.
+I call him an operation.
+That's good.
+Okay.
+And so he handles scheduling and jobs and stuff like that.
+He's going to eventually be involved and did, but I do him all right now.
+Okay.
+So what's back up a whole bunch of steps?
+All right.
+Correct me where I'm wrong.
+Okay.
+So we're kicking off.
+This is the first step of this whole thing.
+What's going to look like.
+Okay.
+So instead of service typing, we're going to use this.
+What we're talking about.
+And right now we're looking at Google workspace.
+But I mean, that's probably we're going to end up.
+But we're talking about how this is going to look.
+Right.
+So we're talking workflow.
+Life of a job.
+Right.
+Example.
+It's it.
+We're going to talk in new construction.
+Now every type of job we'll talk service.
+We'll talk retail.
+We'll talk that.
+We're going to start with new construction first.
+Okay.
+Because that's the bread and butter.
+What we do.
+Right.
+So the preface.
+Right.
+So you've to want to.
+They'll be up tab up here.
+Right.
+So this.
+This is a job scheduling board.
+Right.
+So here's pretty like a precells tab.
+So like intake would be like the builder contacts you.
+Me, George, whatever.
+Okay.
+This job on what you did is job.
+So we did this the part where we did that.
+We put in their name, their address.
+Okay.
+Then you click intake.
+I want to see how it looks.
+I mean, this is just a dumb.
+Yeah.
+Yeah.
+Yeah.
+This is where we will add our builders.
+Yes.
+Technically.
+Right.
+So like 4G, ABA.
+Yes.
+And so the other part of that is we'll have this pre-populated.
+So be able to click.
+If it's an over and over a customer.
+You'll be able to go through there and type in like 4G boom there.
+And you can click all their info.
+Okay.
+Okay.
+Okay.
+We can type all that.
+This is big time.
+Okay.
+So most of this is me.
+But YouTube.
+Right.
+So those contact us.
+And then they'll send plans and specs.
+And we'll load this whole load everything in here and we'll track everything.
+We're probably upload the plans and specs into here as well from the email.
+I don't know if we can automatically extract it.
+Yeah.
+We can have it in a drive.
+Yeah.
+Are you using a drive now to show the documents?
+Yeah.
+I am.
+Okay.
+So we'll do that.
+We'll make sure it's map correctly.
+And so then it'll automatically assign a task.
+Okay.
+To either you or me or towards or whatever.
+And there'll be a task list.
+This doesn't look like this yet.
+Yeah.
+But there'll be a task list.
+It'll be by person.
+Yes.
+By person.
+We'll do it by person.
+We'll do it by person.
+Okay.
+I mean, this is, for example, like this.
+Right.
+Which is say it can be task one task tool.
+Right.
+Now it's a job.
+And it can client and everyone.
+It can also say whom it is assigned to.
+And we can say we can have a drop down which says who is who to start with initially.
+Everyone wants to see it.
+Now what's still going to use our exhaust spreadsheet.
+Right.
+Right.
+I may switch us to stack or something like that later.
+But right now it's, it's already made.
+Yeah.
+What's not reinvent the wheel.
+Yeah.
+So what you're going to use that will use my word document.
+We're going to upload the template of it though.
+And they're sort of easy.
+So I'll be able to work through this.
+I'm sure by the time this is over.
+I'll have the exhaust spreadsheet part of this as well.
+I mean, we can do that.
+That's later.
+Right.
+Yes.
+Let's get this up and run.
+Yes.
+Right.
+So then it'll take it to a bid board and we'll get a status.
+Right.
+We'll always know if it's in process or it might be this day.
+Follow up by this day itself.
+This is really mostly me right now.
+Okay.
+Okay.
+Now part two we're going to become a project.
+Okay.
+Well, both of us.
+Right.
+So it comes a project.
+So now we can have this thing.
+It'll be a drop down.
+Right.
+It'll turn it into a project.
+And so now you're caught up to everything we're at.
+Okay.
+We've made it to the project.
+And I'm asking questions.
+All right.
+So if you were to click on that open action, have you got guys got to that?
+So we're not there yet.
+So let me back you up for a second.
+Okay.
+I know that you're going to want to dive down into the details of that.
+We're not there yet.
+Okay.
+Okay.
+We're talking high level.
+Okay.
+We're mapping the process.
+Okay.
+We're mapping it.
+Right.
+That's necessarily saying.
+Okay.
+If I got to schedule it.
+How does it?
+Yeah.
+Okay.
+We're not there yet.
+We'll get there.
+All right.
+We're not into that.
+We're not getting into minutiae yet.
+Okay.
+All right.
+All right.
+All right.
+All right.
+So now the question is, all right.
+So then once we become a project in here or wherever, it should be able to upload it.
+And if not, we'll manually upload it.
+That'll be part of the process.
+Yes.
+Right.
+So we're mapping part of that.
+So once it becomes a project, then there's multiple things that needs to happen.
+And this was when it becomes a project, there's a few things that needs to happen.
+Right.
+So when it becomes a project, the first thing it needs to be able to do is we need to be able
+to create something for our job sheet.
+And if it should be able to pull off of those data, say, this is the equipment for this system.
+Right.
+We'll have it all.
+It should all be mapped already where I will fix it.
+That's what does that.
+Okay.
+This system is this equipment.
+And this phase, you know, the wood phase or whatever pays this much.
+And it pulls that from the rough, you know, from the rough sheet.
+And they sell when we're uploading that.
+And here's a little checklist that goes with it.
+We'll have this little job sheet that we can share with our employees.
+Okay.
+And that'll be standardized.
+That'll be a standardized sheet.
+And then it'll pull data from the from the project.
+Yeah.
+Right.
+And so that'll be part of that.
+So the first thing that needs to be is job sheet.
+The next part of that is remember I was talking about the materials thing.
+So we put the materials and I can change how we do this.
+We put the materials in there, but we need to be able to say, okay, I need this for
+rough in and I need this stuff for trim and I need this for equipment.
+And this for equipment trim.
+Right.
+It's going to be several.
+It's going to break it apart into six different parts out of one big sheet.
+And so we can put some ideas in there so we can sort it.
+That's easy to do, but I want to be able to say once it becomes a project,
+it's going to spit out the job sheet, the polis and all that stuff.
+The pol sheets.
+Yeah.
+If they can.
+Yeah.
+So we would have to define how that structure is going to look like for you.
+Like.
+So as long as the information is there, we can pull that and show it.
+But I would need help from you to say, you know what for this job.
+This is how I wanted to be break.
+And then.
+And then the reason probably you're breaking it down is because you want to be able to schedule it one after the other.
+Right.
+So we say.
+Sounds like.
+One job or one project can have multiple schedules.
+That is associated to it.
+And each of the schedule have a specific thing that we are pulling from this spreadsheet.
+So that you can assign it to the.
+The engineers.
+Right.
+For them to go and install it.
+And each of that schedule.
+Sub project.
+We'll have a life cycle on its own.
+Correct.
+You're assigning it to them.
+They go implemented.
+And then.
+They close that.
+Yes.
+I'm with you.
+Yeah.
+I'm here in here.
+Okay.
+So we'll create a.
+He calls lifecycle what we call face.
+Okay.
+Right.
+So lifecycle, which is also what we call face.
+Okay.
+So that would be.
+That would be trim.
+That would be startup.
+That would be all that.
+Okay.
+And so poll sheets would be assigned to the life cycle.
+Say that there's eight poll sheets.
+Maybe so.
+Whatever.
+Two of them go to the rough in phase, rough in life cycle.
+Two of them go to the trim.
+Three of them go to trim.
+One goes to start up.
+You know, stuff like that.
+And that becomes that part of the life cycle slash phase.
+Yeah.
+We could go under this phase.
+I was.
+Yeah.
+I'm fine.
+Yeah.
+And so we'll have a.
+Labor sheet that we can give it to the guys.
+And we'll have a.
+Materials thing that will also be able to.
+Here's the other part.
+We want to be able to order that through quick books.
+It's like a purchase order.
+Okay.
+Or we want to pull it from inventory or something like that.
+Okay.
+We're not set up for inventory today.
+Yeah.
+Today what we're doing is we're just ordering it every job at a time.
+So this is why I didn't.
+Yeah.
+I think we didn't make up that space.
+Yeah.
+Yeah.
+And inventory is something that we kept it out.
+Yeah.
+So right now it's more of us.
+The quick book into the connection.
+We have to probably make sure that.
+Yeah.
+What is that?
+So are you saying.
+We have to probably come back to this because I think we need.
+There's a lot of details in here.
+Yes.
+But let's keep going.
+Yeah.
+And then what I'm seeing now is you have different phases.
+Each of the phases needs to be connected to a quick book purchase order.
+Correct.
+Okay.
+Yes it does.
+All right.
+So the phases of our jobs is rough.
+Here's the phase.
+I'm going to write this down.
+And I'll just give this to you.
+Right.
+And hopefully you can read my chicken scratches.
+Rough, trim, start up.
+Is our main three phases.
+But then we're also going to have a warranty.
+Okay.
+Okay.
+What do they mean?
+Rough, trim.
+So we call it a rough phase.
+That's when the houses in a wood.
+Okay.
+There's no drywall.
+There's nothing.
+There's nothing.
+And we go in.
+We put it in our materials.
+Okay.
+And then they put the drywall and put it behind it.
+Right.
+Once we're done with the rough phase then they can insulate and do drywall.
+Once that's done now we're in the trim phase.
+That's when we put the registers up.
+The thermostat's on.
+We set the outdoor unit.
+That's the finish.
+That's the trim stage.
+And the commissioning.
+And the commissioning.
+Correct.
+That's commissioning.
+We call it startup.
+But it's commissioning.
+It's commercial work.
+Gotcha.
+And then the warranty phase.
+That's just we need to leave it open for a year.
+Right.
+While it's in warranty phase.
+Right.
+So then we can contract.
+Yeah.
+If we get a phone call then we can whatever.
+Yeah.
+Now in through here the other part of this.
+Which is what we don't have.
+Which is what started the whole entire conversation.
+During each phase life cycle.
+Here everything.
+Nothing ever goes away.
+It's supposed to.
+Right.
+If everything went the way it's supposed to.
+We would need the track and damn thing.
+Yeah.
+But nothing goes the way it's supposed to.
+So we're on the job.
+And they decided.
+Hey.
+I want to change.
+The unit from the side of the house to that side of the house.
+That's either billable or not billable.
+It's up to us to decide.
+But we need to be able to track it.
+And so I used to call it change order.
+Change order work order.
+Whatever we want to call it.
+Right.
+I would call it a work order because a work order can become a change order.
+And that's the piece.
+And that's what started my whole conversation with the CRM.
+As I say.
+We're not tracking our work.
+We're tracking in here.
+Half hours.
+Right.
+We're going off of what's here.
+We're going off what's written down over here.
+What's written over here.
+What's on his head.
+And what's in his text message.
+We don't have a centralized place for it.
+So there may be times that we go out and do stuff.
+That's billable.
+But they didn't get back to the guy who does the billing.
+I'm not faulting him at all.
+There's nine thousand things going on.
+So here's something that happened that we could have charged.
+Two hundred dollars for which is not a lot of money.
+But it does that up.
+Right.
+So there's loss revenue.
+I want to be able to capture that and say.
+Okay.
+Here's the life cycle.
+Here's the phase.
+Well, during this phase, here's one, two, three, four work orders.
+Right.
+And the first work order could be the standard thing.
+Like, here's the job.
+And here's the job sheet.
+Here's work order number one.
+Here's a whole work order.
+And then we say, okay, something happened.
+We can go in here.
+Right.
+Go into this.
+And we could say, oh, they want to move the condenser condenser.
+We can put a thing in there.
+And then I should be able to click on each work order and make it a part of billing.
+Or a separate billing or make it all.
+When you're composing, I'm not sure how that looks.
+How I do it today is I go into QuickBooks.
+I make a bill.
+And if there's a change order, I just throw it on the invoice.
+Or if it's our priority bill that I create a new one.
+Okay.
+I'll do either one.
+Right.
+So, but I can switch that and say, okay, we all these do the main billing on one.
+And every change order gets priced separately.
+Separately.
+I don't have a problem either way.
+Yeah.
+Each of this gets assigned to a local automatically.
+Every part of this would be a work order automatically.
+Okay.
+Right.
+And then, but under each one of these, there should be other ones too.
+Right.
+You should be able to add additional work order.
+Yeah.
+I want to be able to add those, right.
+And then we make, we need to make sure that they're in the right order, right?
+Because all rough work orders need to be with the rough and all trim work orders need to be with trim.
+Yeah.
+And warranty.
+Right.
+So then we're tracking warranty too.
+Yeah.
+And so that's the piece on here that it's not complicated.
+But that's.
+But that's the thing.
+Come more complex.
+Mm-hmm.
+And that's the piece that I'm.
+Again, the whole reason I even started these conversations is this piece right here that's not being done.
+Sure.
+And so we need to be able to capture that.
+Not only for the money part, but just that it gets done.
+Mm-hmm.
+Right.
+It's a lost detail.
+If it goes to him at 11 o'clock on on a Friday night, he gets a text message from the builder.
+No problem.
+We'll handle it next week.
+Yeah.
+You know, big deal.
+And then it just becomes lost.
+Right.
+Because then he over the weekend.
+He got 50 texts from other people.
+And then he forgot that he talked to Jacob or whoever on Friday night.
+I do it too.
+Not blaming you.
+I do it as well.
+They'll talk to me and like, hey, we're going to get this done.
+And then they call mad Friday.
+Hey, you didn't get this done.
+Oh, God, I forgot all about that.
+Mm-hmm.
+And then it's like, Brian, did you tell him to do this Brad?
+Did you say that you would say this?
+Get this?
+Yes, et cetera.
+Right.
+Yeah.
+And make sure we're getting nothing wrong here.
+Okay.
+So it could be not just changed out of it.
+Anything impromptu that just...
+Anything that's...
+I want to be able to track anything that's outside of the norm.
+Right.
+And whether I want to charge it or not, doesn't matter.
+I want to be able to say, hey, we did this and this came up.
+And this came up so that later on during the warranty phase, hey, this room is...
+It doesn't fit, you know, whatever.
+We can use these as tracking.
+We wanted to put this boot here.
+They made us put it over here because there's this is construction in the way.
+And because of that, it's... and I want to be able to attach a picture to it as well.
+I want to be able to... here's the work order.
+And here's the picture that goes with it.
+Brian's real good about getting pictures of everything.
+But then he's got 5,000 pictures in his phone.
+He's flipping through, flipping through.
+If we got a place, we can upload it in a centralized place that goes with that work order.
+So then a year from now, Bill, the supervisor,
+calls us and go, man, this room is not working right.
+And then we can pull this up.
+We told you it wasn't going to work because you made us do this.
+And here's the picture.
+And this is why we did this.
+So if we need to change it.
+Yeah.
+Hey, man.
+So right now, as it is, we're on our memories here.
+Bill calls us a year from now.
+Hey, this room's not working.
+Oh, shit, sorry.
+We'll go right on that.
+Totally forgot about the whole one hour meeting we had to have a job,
+because there's no way to drive track.
+Yeah.
+And so I'm spitballing right now.
+But I think you get what I'm saying.
+Yeah.
+Yeah.
+So that's the piece right here.
+So this is like work orders.
+Yeah.
+That can become change orders.
+Yeah.
+Exactly.
+And we can say that you, I mean, every, every phase will have at least one work order.
+Yeah.
+Right.
+And then that's the main invoice that we want to do.
+And we, you could add additional work orders, which you could.
+We can decide whether we want to combine multiple ones into another invoice.
+We, we do it one at a time.
+Yeah.
+I'm going to say one at a time.
+One at a time.
+And then you can also decide whether you want to build it or not, which means you can make a decision
+whether that sends out a, you are going to send it.
+I was like, how does an invoice or no?
+Yeah.
+So you make that decision and based on that decision, it gets pushed into the QuickBooks.
+Yeah.
+So like we got a house that's going right now.
+And we've been on the rough and now for two weeks on it.
+And it's a big house, right?
+We got two crews out there.
+It's a big house.
+There's been conversations out there.
+There's nothing major that's happened.
+But there's a few things that's happened on that job that more.
+I really would like to have memorialized that a little better than what we've done.
+Right.
+Track it memorialized it.
+You know, it says, you know, we decided to put the exhaust fan over here rather than over here
+because of based off of this.
+It would be really nice to like have that track.
+Yeah.
+Right.
+Again, I keep harping on this.
+This is the piece of what we're missing today.
+Right.
+That's that's the biggest part for me that will help.
+And then because then we build.
+Should be able to take these work orders and assign them to the.
+The installer.
+Oh, not just that right.
+So we should be able to say here's this work order.
+Here's what it is.
+Send this to the installer.
+This is what you're doing.
+Right.
+And the work order, the initial work order should have the rough sheets and the job sheet.
+And then they should be able to send back to that work order.
+Pitchers of the equipment, pitchers of the job.
+And that's all included in that one thing.
+That's that's how I'm spitballing.
+How I'm thinking.
+Right.
+They install as a third party.
+Are you?
+They work for us.
+Oh, yeah.
+So we can send it to the email.
+Got it.
+Yeah.
+Makes sense.
+And so they'll have.
+We haven't done this, but we've talked about getting them a tablet.
+And so they would have the plan on it.
+I was going to say that because tablet.
+They can open this up and they can take a picture.
+And I'll load it right away and just put in the notes.
+Right.
+And then it's then in the system.
+They would be part of this on their tablet.
+Yes.
+And they could just upload it right there.
+The drawings all right there.
+That's where they have to go to get all their stuff.
+I'm just curious.
+What's up.
+We started having all of the scenarios.
+They have it all.
+They have everybody to that.
+Just expensive.
+Thank you.
+You have to.
+No, it's killer.
+I'll call him in a big.
+Okay.
+Expensive.
+And you couldn't customize it for your work flows.
+Right?
+I could have.
+That's a long.
+And just was getting long and drawn out.
+And expensive.
+Yeah.
+I mean, expensive.
+But I'm.
+So here's what I was afraid.
+Here's.
+Here's the knock on service site.
+It's really good.
+It's not.
+It's not built.
+It's built for everybody.
+But you can customize it.
+Like what we're talking about doing.
+Right.
+Well, while they price it is they price it by technician.
+So every time you add an employee to the.
+It goes up.
+Right.
+So every time you add an employee, it's 500 bucks.
+Right.
+It is.
+400 dollars.
+So say we got 10 employees today.
+Right.
+You see this.
+That's $4,000.
+Yeah.
+Let's scale this a couple years down the road.
+Right.
+So we go from from 10 to 40.
+Well, that pricing model doesn't change.
+Yeah.
+And so now we're locked in.
+I get what I would do this too.
+We're hooked.
+We can't leave.
+And so our price went from $4,000.
+There's the $16,000 a month.
+Right.
+And it happens.
+Yeah.
+And that's how they make their money.
+Yeah.
+For them, they don't change the damn thing.
+Yeah.
+They just, it just becomes a revenue stream.
+They're banking on you becoming bigger.
+Yeah.
+So today with one technician and I have everything.
+But whatever.
+It's 15.48 a month.
+That's with one tech.
+Right.
+And so we start adding people which we will.
+We would want to.
+Right.
+Why would you have one guy can use it.
+But one guy can't.
+So it goes from 1500 to 1900 to 2300.
+Yeah.
+It goes real fast.
+You don't need all the business that they have.
+Right.
+That's damn it.
+That's the other project that we're dealing with.
+So.
+And so we could like what we're doing here, which is advantageous.
+I pay you.
+I pay you guys $400 a month for life.
+Right.
+Or a life of whatever this is.
+Yeah.
+And it doesn't matter.
+You can add 100 people.
+It doesn't matter.
+But we're going to own all the data.
+And I own it all.
+Yes.
+Because it's all.
+It'll all be sitting in your life.
+Right.
+So even I'm thinking like we will create like one sheet where you have like a bit table.
+Yep.
+Right.
+And we have all the bits map there.
+And then we have a job table.
+A job sheet where you have all the jobs map.
+What kind of sheet where you have all the work patterns map.
+And each of that will reference a live for each of these projects where all your pictures
+are sitting.
+So anytime you come back, you should be able to go and see your notes, your pictures.
+And you don't even have to access that sheet.
+It'll all be here.
+It'll always be on the dashboard.
+Yes.
+You like what you hear so far?
+Mm-hmm.
+It'll make life easy tracking.
+Because there's been times like.
+Look at those eyes.
+So they have tired.
+We'll go to the house.
+And then we went, we were a month there.
+And we had fixed the problem already.
+And now we went back again.
+And it's like, oh, we were there already.
+You should have never gone.
+Oh.
+And there's an hour.
+Yes.
+Gas.
+Gotta pay the text, though.
+So it's not just about sort of a statement.
+What are you talking about?
+This is also a track.
+These tracking things.
+Like you say one hour is one hour or person's liberating.
+Yeah.
+Yeah.
+And again, it's back to this piece where I keep talking about tracking this, tracking the job,
+tracking the thing.
+And then we can't do something, right?
+And it's because of the construction, right?
+There's something that, oh, this is not built.
+Or we can't call inspection in because they don't have their
+Chases built, right?
+So we can't call our inspection.
+So we forget the caller inspection.
+This happens all the time.
+So we forget the caller inspection.
+And because they don't have their Chases.
+But we have no way to follow up other than the fact that it's written on a piece
+paper.
+Or it's in an email.
+Or it's in a text.
+It needs to be centralized.
+Yeah.
+And so that way if Brian is get sick or I'll keep picking on him.
+Me.
+So let's say I get sick.
+And I'm out for a couple days, right?
+Well, everything I've done that's going on with me.
+It's like, it's in a silo, right?
+Yeah.
+I want no silos.
+I want to be able to like, it's all someone else can pick it up and take it.
+Right?
+Pick it up and run.
+We're got for he goes, he goes out of town for a week.
+I don't need to call him.
+I just, it's all right here.
+Right?
+Yeah.
+Today, fuck, we're calling each other on vacation.
+We're calling each other eight, 10, 12, 14 times.
+Both of us, because it's like, hey, did you do it?
+You know, yeah.
+Yeah.
+It's a part of growing pain, right?
+It's good what you do have.
+So what do we need to squash?
+Yeah.
+Exactly.
+Yeah.
+Okay.
+Moving on.
+So we have work harder.
+And then change it on a bit.
+Get smart to the cookbook in wise.
+Yep.
+How do you take it to, like, what becomes next stage from here?
+Okay.
+So now it becomes, for me, that's probably more to it.
+But then, or back to here, we finalize the phase, right?
+So once we got to close the phase, close the phase,
+I'm going to continue here.
+So we close that every time we close the phase,
+there's a few checkpoints that has to be done.
+The inspection has to pass.
+That has to be called in.
+And then it has to be passed, right?
+The job has to be built, invoiced.
+The crew, and maybe this is not in a correct order,
+the crew has to send in their pictures of the, you know,
+we got certain details that will tell them that we want to picture of this and picture of that,
+so that we know that the job is complete.
+So we want to be able to upload the pictures in one spot,
+so we can look at it.
+So the crew pictures of that, the equipment.
+Yeah, that's so important.
+Needs to be documented.
+And that by, I say documented, that's going to be the serial number.
+Okay.
+And that's the model number.
+And that's the label number.
+And in fact, we can do that too.
+But we also need to put this in there because this has to be,
+the equipment at the end needs to be registered.
+Okay.
+So that's, we close the phase, right?
+So needs to be invoiced.
+And so after it's invoiced,
+invoiced needs to be paid.
+And that doesn't fucking happen.
+So that's going to be so, this is the shitty part.
+That's getting paid.
+The hardest part of the job is getting paid.
+So that needs to be able to go on to go on an aging, right?
+Make sure it needs to be able to attach to, to QuickBooks.
+And so whether we invoice out of here, probably not,
+we invoice out of QuickBooks.
+Yeah.
+But it needs to be able somehow to say, whether it got paid or not, right?
+So the job needs to be, you know,
+we need to be able to put on there.
+So since we go to the next phase,
+Brian doesn't need to know all the details about,
+hey, this guy said he paid me on this day,
+but he didn't pay this.
+He paid partial.
+He did this.
+He did that.
+All Brian needs to know is the job paid or not.
+Right?
+And so when they call for your scheduling because, you know,
+they're talking to me and they'll go around me and go to Brian and say,
+hey, I know Brad doesn't.
+Brad doesn't want him talking to you.
+And he's not going to say this, right?
+He's going to skip me.
+I haven't paid the bill, but man,
+I really need that air conditioner said.
+I need my trim down.
+Well, we're not doing until they pay the first phase, right?
+So we need to be able to say in our workspace,
+jobs not paid, do not work, right?
+Do, you're not allowed to,
+I won't even, I've seen it before,
+where you don't even let you click on anything.
+We just got it like great out or whatever you want to say it,
+where it can't be released.
+You can't do shit until this is paid.
+Yeah, right?
+Okay.
+We could do that.
+I'm okay with it being scheduled,
+but I'm not okay with it being able to be assigned.
+Does that make sense?
+Yeah.
+Yeah.
+But not assigned.
+Okay.
+And that's another piece I'm just going here.
+That's concurrently with this project.
+It's also on a dispatch board or a schedule or something like that, too.
+Okay.
+Right?
+Yeah.
+I'll just write that on top of here.
+Because it crue, once it crueys assigned,
+then it's always, they're always assigned to that job.
+So when you assign, is it like one person,
+like a lead that'd be out of sight?
+Well, only assign one person.
+Okay.
+Five fakes.
+My face.
+Right.
+So like, well, it'll have the ability to like,
+you know, we'll assign it to Brad, Brad creates the bit.
+And then once it comes a project,
+I'll probably go ahead.
+I'll probably do that myself.
+I'll create it as a project,
+and I'll assign it to him.
+And then he's okay.
+It's assigned to me on this date.
+And then he knows he needs to assign it to a crew.
+For this date.
+But that's on a, you know,
+we can see that on a dispatch board.
+Yeah.
+Because, you know, we'll need to have a visual.
+We'll need to have the transparency and capability.
+I'm looking forward right now.
+It doesn't matter.
+I need to be able to say,
+here's Tuesday,
+and here's where everybody's working.
+Right?
+Because, again, nothing goes perfect.
+Oh, crap.
+I got a, we need this done right now.
+Okay.
+Who's by there?
+Where's this person working?
+You should go back there.
+Where's he at?
+Okay.
+Well, he's 200 miles away.
+No, he can't go there.
+Right.
+And so we can either schedule that piece.
+And that would be a work order.
+That would give reschedule.
+And, you know,
+Okay.
+We need to go to the dispatch board.
+Okay.
+Yeah.
+That management might be,
+as a follow-up,
+to once we get through these things.
+Totally fine.
+Yeah.
+And I'm fine with that.
+I mean, we're, we're mapping.
+Yeah.
+Yeah.
+Perfect.
+Okay.
+So now we, we get through all of this.
+The face closes.
+And then we get through all of the faces.
+Okay.
+You might get paid.
+All right.
+And then we go one to the startover faces.
+That starts over.
+Yeah.
+It goes back to, we go back to ready for trim.
+Right.
+Right.
+So it goes back to,
+Once that face is closed.
+Sorry.
+So it goes back to,
+Once that face is closed.
+So it goes back to,
+Once that face is closed.
+Then we start with the trim face.
+Twin face.
+And then we start with a face.
+Work harder.
+And all of that.
+Yeah.
+So you move more to that.
+Close job.
+Yes.
+Once the one
+So working in a job closed to the.
+Of course close.
+Of the cost.
+That's it.
+Done complete.
+It's a job post of the project.
+Project close.
+Project close.
+Yeah.
+So one project has multiple faces, each face has multiple work orders and each work order will be associated to an invoice and an engineer technician who is assigned to it and be able to track that.
+We should be able to create additional work orders based on what you find out.
+So you can invoice them and once all of that invoice is paid is when you can move on to the next phase.
+And then you go through all the phase and you go to the warranting.
+So all of that is within the project.
+I just want to make sure that when I'm saying project, I'm saying the same thing.
+Between four of us.
+It's the same thing.
+Job and project is the same thing.
+Same thing.
+QuickBooks calls it a project.
+So that's why I'm leaving it as a project.
+Okay.
+We can just stick to the project.
+Project is fine, but it's really just each job.
+Right.
+So a builder, one builder might have multiple projects.
+Jobs.
+Right.
+All over the place.
+Yep.
+It's not like a commercial project where you got multiple buildings and multiple sites.
+It's like that.
+It's one project, it's one job, it's one site.
+Got it.
+That's how I'm doing it.
+Makes sense.
+Got it.
+And once we get through, I think this, do you have any subsequent phases that then project closes
+That's it.
+I said that kind of closes the life cycle.
+Right.
+So I leave it open for the warranty.
+Yeah.
+We'll capture any warranty on the rich because that's part of the rich.
+And so once that's done, then we'll close that out.
+That's done, never reopening it again.
+And then that same house will now go to a service and retail kind of the thing.
+Right.
+That's a whole different department.
+But we'll still do it the same way, but we'll do it in a different department.
+Right.
+So divisions.
+Right.
+So we're talking one division right now, which is their bread and butter.
+But then we also are going to be doing commercial, a little bit of commercial work.
+We also do service work.
+Okay.
+And so those three, or maybe even four, will have different divisions.
+We'll be all the same.
+It'll be basically the same or similar.
+But we'll have a different.
+But we're going to start with this today.
+Yeah.
+Yeah.
+And then we'll keep evolving the same.
+True.
+True.
+And we can make adjustments because we need to kind of harden this process.
+And once people are familiar with it, then it's about just replicating and making subtle changes to correct.
+Okay.
+And I'm not even saying we attack that now.
+I'd say we stay with you.
+Yeah.
+We stay with this today.
+Absolutely.
+We'll just fight for a while until with the other parts of it.
+And then we'll eventually pull it all together.
+Okay.
+Are you going with that?
+Yeah.
+Okay.
+All right.
+So now I, what's the time to check?
+Okay.
+Good.
+We have time.
+So what I want to do is, and this, you could be can tackle it as an ongoing.
+I want to be able to map what information are we going to capture in each of those faces.
+Meaning.
+So we start with a customer.
+Okay.
+Because what I also want to do as we are building it is that you use the information that you already have to prepopulate as much as possible as you are going through that.
+That way like when I have to create a work order, I just have to focus on who my am assigning it to.
+What's the schedule of that?
+Mm-hmm.
+And then like what needs to be done.
+And then when it gets assigned as a task through the technical engineering engineer,
+all they have to worry about is what notes I need to put in, what images I have to put in.
+They don't have to worry about anything else because everything else is backtracked.
+That's all right.
+Yeah.
+So now for us, for that to happen, we have a customer base.
+Meaning you list, we list down all the customers that you have with the address details and things.
+That's going to be one of the information that we captured.
+Mm-hmm.
+And then after that we start with a bit.
+Right.
+The bid will pull customer information from there.
+And then you put in some detail.
+The site specific detail.
+Yeah.
+Site specific detail.
+So what I need to know is what are those input fields?
+Okay.
+I have a spreadsheet.
+Perfect.
+Oh, it's good.
+This is where actually we're now.
+We're going to get a little bit of the initials.
+Yes.
+So we have a sheet that we call, the name is wrong on it.
+We call it our 2025 schedule.

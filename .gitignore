@@ -41,3 +41,14 @@ node_modules/
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Python virtual environment
+.venv/
+
+# Workspace file
+xmechanicals.code-workspace
+
+# Local model artifacts
+local/whisper-models/
+proposals/local/whisper-models/
+*.pt

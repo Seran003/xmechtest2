@@ -1,0 +1,110 @@
+I love metrics. Yes, so we can build something and we're not using them today. It drives me insane
+Yeah, yeah, again that would be like things, but we can definitely
+Bullying towards it. Yeah, because I got my budgets, but I want to be able to say what's my actual versus
+actual versus estimate. I want to be able to be looking at that and I'm not
+Because you have everything
+We don't we're not doing it. I know we're not doing it right which is why we started talking
+Yeah
+So the bet is fine. Now we get into the project phase. Yeah, it's a bit gets approved
+You you would say that bet is approved for job or fun work that to a job
+So that's most to job
+Now once we get to the job that is where we have to assign the phases. Yes, right and it gets auto assigned
+The
+Ruff up and then trim and start up and one and be right every job will have these four phases
+Yeah, it default now what information do you think we would want to capture an addition to what we already have there
+So schedule is one part of it. So I should be for each phases. I should be able to create a new work
+Order. Yes, right and as part of the work order
+I should be able to say who is the engineer that I'm assigning it to correct and then install it and then start time and time
+Of when it should be scheduled. Yep, and then
+Notes and
+Images of correct. So those are the that's the things. Okay. That's it right. Yeah, yeah, okay, and then
+To that then you have invoice pending paid. Yes, which gets since so you say a work order
+It's complete and when you say complete it triggers the invoice process correct and says you're now ready to send it in voice
+Correct, and you'll for now you'll tackle that. We'll figure out the I'm doing it manually, right?
+And so this is a set this is a sad reality. This is another thing. I'm not missing anything. At least I hope not
+So this is what we did, right? So I'm always on hand to make sure this is updated and the reason why is because that's how I've built right
+And so if we click on whatever click on one of these right here. Here's one one example right so this is a job
+It's been assigned material. It's not up. It's not up there, but we've completed the material or the equipment is on site
+And I have a building that right so we have ready not ready complete right there
+Right, so it's not it's not so I taught it track it every single job
+So I just go through here like for example, and I'll say okay
+Build serves complete build. Yeah, that one's complete and this this is how I I tell myself that yes
+You've already built it. Yes, you've already attached it right and so like here
+I know I haven't done anything what I've no I need to look at these because I haven't done anything with them
+Yeah, so I've only built this one for the week and I know I got to do that something because I haven't done jack shit
+Yeah, and so this is a work this right here is a work order, right?
+So this one got on here installed return grill, but we got like no detail on it now
+We know today that it's a 16 by 25 grill or whatever it is
+It's we got to go back and install it. We know today, but a year from now
+Shit, we don't know what that is going on and this is what this is where we're missing the data
+That's why the centralized spot needs to happen yeah and eventually and not now
+But eventually I'd like to say we can pick a drop down and we say we need this this is this and that automatically sign it to the work order
+Material list. Yes, and then I'll have a pole in the screech
+We can take a screenshot like yes, this one right and I would need a screenshot of this
+Which which one you are?
+So this feels now let me ask for every work are every phase do you have this like you need to finish the material
+Yep, make it on order equipment order
+So these it so the material needs to be ordered so that needs to be a task that needs to be assigned to someone
+Order the material order the equipment order the queen city pre-fab
+We need to be able to have a sign there so they can click it off that needs to be a phase
+That needs to be a task within the face. So you're not just assigning the leads
+You're also assigning
+Some of the tasks there's some other task that are involved with each part of that to so now this if the these things is a the phase load of the work on the level
+We could be either it could be it could be so it could be at the work let's make it into work order level
+Because you're creating a work order or we're creating a work order for
+The first work order is the job, right and so we can assign it certain parts of it. Yeah, yeah, and
+And okay, so then we work we have to do then is each work order will have sub tasks. Yes, right so that you can say
+You know what the first one is spending and who is the installer or who is the person who needs to take care of it right
+So that when you assign them it shows up into their tasks, right and it's now their responsibility to mark that
+That's complete once that is done. It's a good answer and next one to answer once they mark that is complete
+Then that gets green here and the next one gets enabled and it tells like when you come there
+You should be able to see the pending jobs and see which ones are waiting on what so you can base maybe follow up
+Is it always Syria or parallel task also happened?
+No, I think this is these are all this all you say this is per phase or is it per work order?
+What we do this per work order because it might be a change order
+Then needs to be assigned to somebody take a look at this hey order of this material
+Hey, go do this right it might because there might be something because a lot of times
+You know, we're talking about something this got moved in here, but what happens is that you know what I'm gonna finish the whole second floor
+We weren't gonna do it, right? So now we are it's $12,000 right?
+So now there's multiple things involved rather than the $20 girl that need to be changed
+Right, so there's multiple things, but it could be the same format
+Right, so it could be a task and that could be it could be real simple like that right okay
+Yeah, so it could be different tasks and this task is it going to be fixed
+For every job and work every phase every job every work. It'll be the same every time same. So by default
+We can just set that up yes and keep it open for you
+You are someone to assign guests installers and assign the task for someone and we say you we need
+Okay
+Okay, so we have to then work with Brian on that
+Are you good with everything yeah, so far from your jump in when there's yeah, yeah, yeah, yeah, I'm collecting as much as details
+So that we get heavily into it so I'm pretty sure we build some initial thing and then we come back and kind of
+We get together
+Yeah, because I'm also trying to see how much you know we need to be able to build yeah
+On this okay, so this tasks I will be there and then I know we go from one to the other which is the same thing
+Yeah, I'll take such and whatever you want
+Okay, and is that anything else you manage here apart from I see that you you have a family
+You go through this right and right now
+I don't know if you can get calendar also in but we can add that
+Okay, yeah, well you have a calendar to be able to see who is working on what who is assigned to what yeah
+And then that will then bring up the next thing that we're saying like okay
+I have a job that I need to get done you know, let me see an open slot and could see who is open at that right when in time
+That's so you know, this is this week, right, so then here's next week
+So we got stuff already on for next week week after we got all of his files
+Right, yeah, you guys you know people don't think at that part of it. It's always week the week right
+So that's next week right there that'll get all changed around stuff like that because there's stuff that's on for this week that it get done
+Yeah, yeah, he did go do that by the way
+Yeah, yeah, no, he called me good
+He's not going to set the year down. He's going to let's do money
+Okay
+So I have enough information for us to start measuring the things and you take that old towel by the way
+Oh, okay, yeah, thanks. I wrote all over but you it helped. Yes, it'll help when you listen to your yes
+I'll listen to that and then kind of build it because I want to initially
+I would try to focus on
+Like a mass of sheep which will have the bit information the dog and financial work on it and I'll take your sheep and just modify it
+So the bitboard looks like this. Okay, so you know these are all all that if you want to picture of this
+Yes, we have
+No, I don't think you
+I can send this to you. Yeah, if you can send me the
+So the bitboard and then what what is the job?
+It's on tracking area. You're all the jobs
+Okay, he's rolled right here. Yeah, I love
+So I'll split it up and map it

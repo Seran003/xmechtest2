@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Xmechanicals Prototype Hub</title>
+    <style>
+      :root {
+        --bg: #f4f6fa;
+        --panel: #ffffff;
+        --text: #1f2a3d;
+        --muted: #5a667d;
+        --primary: #2d5bff;
+        --primary-soft: #ecf1ff;
+        --border: #d9e1f0;
+        --ok: #0f8f4d;
+        --warn: #c27300;
+        --danger: #b83a3a;
+        --shadow: 0 6px 18px rgba(35, 52, 87, 0.08);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        color: var(--text);
+        background: var(--bg);
+      }
+
+      .app-shell {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 24px;
+      }
+
+      .header-card {
+        background: linear-gradient(135deg, #2d5bff 0%, #4a74ff 100%);
+        border-radius: 16px;
+        color: #fff;
+        padding: 22px;
+        box-shadow: var(--shadow);
+      }
+
+      .header-card h1 {
+        margin: 0;
+        font-size: 24px;
+      }
+
+      .header-card p {
+        margin: 8px 0 0;
+        opacity: 0.95;
+      }
+
+      .card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 14px;
+        margin-top: 18px;
+      }
+
+      .card {
+        background: var(--panel);
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        padding: 16px;
+        box-shadow: var(--shadow);
+      }
+
+      .card h2,
+      .card h3 {
+        margin-top: 0;
+      }
+
+      .muted {
+        color: var(--muted);
+      }
+
+      .btn-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 14px;
+      }
+
+      button {
+        border-radius: 10px;
+        border: 1px solid transparent;
+        padding: 10px 14px;
+        font-weight: 600;
+        cursor: pointer;
+      }
+
+      .btn-primary {
+        background: var(--primary);
+        color: #fff;
+      }
+
+      .btn-outline {
+        background: #fff;
+        color: var(--primary);
+        border-color: var(--primary);
+      }
+
+      .btn-neutral {
+        background: #fff;
+        color: var(--text);
+        border-color: var(--border);
+      }
+
+      .badge {
+        display: inline-block;
+        font-size: 12px;
+        padding: 4px 8px;
+        border-radius: 999px;
+        font-weight: 600;
+      }
+
+      .badge-draft {
+        background: #eef1f6;
+        color: #4e5a71;
+      }
+
+      .badge-review {
+        background: #fff4dd;
+        color: var(--warn);
+      }
+
+      .badge-sent {
+        background: #e8f0ff;
+        color: #2750d6;
+      }
+
+      .badge-signed,
+      .badge-complete {
+        background: #e8f8ef;
+        color: var(--ok);
+      }
+
+      .badge-progress {
+        background: #e7edff;
+        color: #3857c8;
+      }
+
+      .filters {
+        margin-top: 14px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 10px;
+      }
+
+      .field {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+
+      .field label {
+        font-size: 12px;
+        font-weight: 700;
+        color: var(--muted);
+        text-transform: uppercase;
+      }
+
+      .field input,
+      .field select,
+      .field textarea {
+        border: 1px solid var(--border);
+        background: #fff;
+        border-radius: 10px;
+        padding: 10px;
+        font-size: 14px;
+      }
+
+      textarea {
+        min-height: 90px;
+        resize: vertical;
+      }
+
+      .table-wrap {
+        margin-top: 14px;
+        overflow: auto;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        background: #fff;
+      }
+
+      th,
+      td {
+        text-align: left;
+        padding: 10px;
+        border-bottom: 1px solid var(--border);
+        font-size: 14px;
+      }
+
+      th {
+        background: #f9fbff;
+      }
+
+      .timeline {
+        margin-top: 14px;
+        border-left: 2px solid var(--border);
+        padding-left: 14px;
+      }
+
+      .timeline-step {
+        margin-bottom: 12px;
+      }
+
+      .timeline-step strong {
+        display: block;
+      }
+
+      .split {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        gap: 14px;
+      }
+
+      .side-panel {
+        background: #f8faff;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 14px;
+      }
+
+      .chip {
+        background: var(--primary-soft);
+        color: #2244b3;
+        font-size: 12px;
+        padding: 4px 8px;
+        border-radius: 999px;
+        display: inline-block;
+        margin-right: 6px;
+      }
+
+      .view-title {
+        margin-bottom: 0;
+      }
+
+      .view-subtitle {
+        margin-top: 6px;
+      }
+
+      .modal-backdrop {
+        position: fixed;
+        inset: 0;
+        background: rgba(20, 29, 46, 0.55);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        padding: 14px;
+      }
+
+      .modal {
+        width: min(520px, 100%);
+        background: #fff;
+        border-radius: 14px;
+        border: 1px solid var(--border);
+        box-shadow: var(--shadow);
+        padding: 18px;
+      }
+
+      .progress-bar {
+        margin-top: 6px;
+        height: 8px;
+        background: #e8edf8;
+        border-radius: 99px;
+        overflow: hidden;
+      }
+
+      .progress {
+        height: 100%;
+        background: var(--primary);
+      }
+
+      @media (max-width: 900px) {
+        .split {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="app-shell">
+      <section class="header-card">
+        <h1>Xmechanicals Prototype Hub</h1>
+        <p>
+          Click-through prototype for Presales and Job Scheduling journeys.
+          Demo only, no external integrations.
+        </p>
+      </section>
+      <main id="app"></main>
+    </div>
+
+    <div class="modal-backdrop" id="modalBackdrop">
+      <div class="modal" id="modalContent"></div>
+    </div>
+
+    <script>
+      const appState = {
+        view: "landing",
+        presales: {
+          statusIndex: 0,
+          intake: {
+            client: "North Ridge Mall",
+            contact: "Jordan King",
+            scope: "RTU replacement and controls check",
+            urgency: "High"
+          },
+          estimateLines: [
+            { item: "Equipment", amount: 16800 },
+            { item: "Labor", amount: 7200 },
+            { item: "Permits", amount: 950 }
+          ],
+          statusSteps: ["Draft", "Internal Review", "Sent", "Signed"]
+        },
+        scheduling: {
+          selectedJobId: "JOB-102",
+          filterStatus: "All",
+          jobs: [
+            {
+              id: "JOB-101",
+              client: "Cedar Medical",
+              technician: "Mia Harper",
+              window: "Mar 04 08:00-12:00",
+              phase: "Site Prep",
+              progress: 25,
+              status: "Planned"
+            },
+            {
+              id: "JOB-102",
+              client: "North Ridge Mall",
+              technician: "Liam Shaw",
+              window: "Mar 05 09:00-17:00",
+              phase: "Install",
+              progress: 65,
+              status: "In Progress"
+            },
+            {
+              id: "JOB-103",
+              client: "Oak Tower",
+              technician: "Ava Reed",
+              window: "Mar 06 07:30-11:30",
+              phase: "Commissioning",
+              progress: 100,
+              status: "Completed"
+            }
+          ],
+          fieldUpdate: {
+            notes: "Duct tie-in complete. Need client sign-off for controls test.",
+            newStatus: "In Progress"
+          }
+        }
+      };
+
+      const appEl = document.getElementById("app");
+      const modalBackdropEl = document.getElementById("modalBackdrop");
+      const modalContentEl = document.getElementById("modalContent");
+
+      function routeTo(view) {
+        appState.view = view;
+        render();
+      }
+
+      function totalEstimate() {
+        return appState.presales.estimateLines.reduce((sum, row) => sum + row.amount, 0);
+      }
+
+      function money(value) {
+        return "$" + value.toLocaleString("en-CA");
+      }
+
+      function getSelectedJob() {
+        return appState.scheduling.jobs.find((job) => job.id === appState.scheduling.selectedJobId);
+      }
+
+      function applyScheduleFilter(value) {
+        appState.scheduling.filterStatus = value;
+        render();
+      }
+
+      function selectJob(jobId) {
+        appState.scheduling.selectedJobId = jobId;
+        routeTo("schedule-detail");
+      }
+
+      function setPresalesStep(stepDirection) {
+        const maxIndex = appState.presales.statusSteps.length - 1;
+        if (stepDirection === "next" && appState.presales.statusIndex < maxIndex) {
+          appState.presales.statusIndex += 1;
+        }
+        if (stepDirection === "back" && appState.presales.statusIndex > 0) {
+          appState.presales.statusIndex -= 1;
+        }
+        render();
+      }
+
+      function showModal(title, message) {
+        modalContentEl.innerHTML = `
+          <h3>${title}</h3>
+          <p class="muted">${message}</p>
+          <div class="btn-row">
+            <button class="btn-primary" onclick="hideModal()">Close</button>
+          </div>
+        `;
+        modalBackdropEl.style.display = "flex";
+      }
+
+      function hideModal() {
+        modalBackdropEl.style.display = "none";
+      }
+
+      modalBackdropEl.addEventListener("click", function(event) {
+        if (event.target === modalBackdropEl) {
+          hideModal();
+        }
+      });
+
+      function renderLanding() {
+        return `
+          <section class="card-grid">
+            <article class="card">
+              <h2>Presales Prototype</h2>
+              <p class="muted">
+                Intake, estimate, proposal preview, and status timeline to signed.
+              </p>
+              <div class="btn-row">
+                <button class="btn-primary" onclick="routeTo('presales-intake')">Open Presales</button>
+              </div>
+            </article>
+            <article class="card">
+              <h2>Job Scheduling Prototype</h2>
+              <p class="muted">
+                Job board to field update to invoice trigger handoff. Inventory is excluded.
+              </p>
+              <div class="btn-row">
+                <button class="btn-primary" onclick="routeTo('schedule-jobs')">Open Scheduling</button>
+              </div>
+            </article>
+          </section>
+        `;
+      }
+
+      function renderPresalesNav() {
+        return `
+          <div class="btn-row">
+            <button class="btn-neutral" onclick="routeTo('landing')">Back to Hub</button>
+            <button class="btn-outline" onclick="routeTo('presales-intake')">Intake</button>
+            <button class="btn-outline" onclick="routeTo('presales-estimate')">Estimate</button>
+            <button class="btn-outline" onclick="routeTo('presales-proposal')">Proposal</button>
+            <button class="btn-outline" onclick="routeTo('presales-status')">Status</button>
+          </div>
+        `;
+      }
+
+      function renderPresalesIntake() {
+        const form = appState.presales.intake;
+        return `
+          <section class="card">
+            <h2 class="view-title">Presales Intake</h2>
+            <p class="view-subtitle muted">Capture client and scope quickly for estimate kickoff.</p>
+            ${renderPresalesNav()}
+            <div class="filters">
+              <div class="field"><label>Client</label><input value="${form.client}" /></div>
+              <div class="field"><label>Contact</label><input value="${form.contact}" /></div>
+              <div class="field"><label>Urgency</label><select><option selected>${form.urgency}</option><option>Medium</option><option>Low</option></select></div>
+              <div class="field" style="grid-column: 1 / -1;"><label>Scope</label><textarea>${form.scope}</textarea></div>
+            </div>
+            <div class="btn-row">
+              <button class="btn-primary" onclick="routeTo('presales-estimate')">Save Intake and Continue</button>
+            </div>
+          </section>
+        `;
+      }
+
+      function renderPresalesEstimate() {
+        const lines = appState.presales.estimateLines
+          .map((line) => `<tr><td>${line.item}</td><td>${money(line.amount)}</td></tr>`)
+          .join("");
+
+        return `
+          <section class="card">
+            <h2 class="view-title">Estimate Builder</h2>
+            <p class="view-subtitle muted">Mock line items with auto-total for proposal handoff.</p>
+            ${renderPresalesNav()}
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th>Line Item</th><th>Amount</th></tr></thead>
+                <tbody>${lines}</tbody>
+              </table>
+            </div>
+            <div class="card-grid">
+              <article class="card">
+                <h3>Total Estimate</h3>
+                <p><strong>${money(totalEstimate())}</strong></p>
+              </article>
+              <article class="card">
+                <h3>Margin Placeholder</h3>
+                <p class="muted">Estimated gross margin: 27 percent</p>
+              </article>
+            </div>
+            <div class="btn-row">
+              <button class="btn-neutral" onclick="routeTo('presales-intake')">Back</button>
+              <button class="btn-primary" onclick="showModal('Estimate Saved', 'Estimate data was stored in mock state for this prototype.')">Save Estimate</button>
+              <button class="btn-primary" onclick="routeTo('presales-proposal')">Preview Proposal</button>
+            </div>
+          </section>
+        `;
+      }
+
+      function renderPresalesProposal() {
+        const intake = appState.presales.intake;
+        return `
+          <section class="card">
+            <h2 class="view-title">Proposal Preview</h2>
+            <p class="view-subtitle muted">Visual preview before sending for internal review and customer signature.</p>
+            ${renderPresalesNav()}
+            <div class="split">
+              <article class="card">
+                <h3>Client Summary</h3>
+                <p><strong>${intake.client}</strong></p>
+                <p class="muted">Contact: ${intake.contact}</p>
+                <p>${intake.scope}</p>
+                <p><strong>Total:</strong> ${money(totalEstimate())}</p>
+                <div class="btn-row">
+                  <button class="btn-primary" onclick="routeTo('presales-status')">Move to Status Timeline</button>
+                </div>
+              </article>
+              <aside class="side-panel">
+                <h3>Proposal Controls</h3>
+                <p class="muted">These actions are visual placeholders for integration points.</p>
+                <div class="btn-row">
+                  <button class="btn-outline" onclick="showModal('Internal Review', 'A manager approval request would be triggered here.')">Request Internal Review</button>
+                  <button class="btn-outline" onclick="showModal('Send to Client', 'A document signature platform call would run here.')">Send to Client</button>
+                </div>
+              </aside>
+            </div>
+          </section>
+        `;
+      }
+
+      function renderPresalesStatus() {
+        const currentIndex = appState.presales.statusIndex;
+        const timeline = appState.presales.statusSteps
+          .map((step, index) => {
+            const isActive = index === currentIndex;
+            const isPast = index < currentIndex;
+            const badgeClass = isActive ? "badge-sent" : isPast ? "badge-signed" : "badge-draft";
+            const label = isActive ? "Current" : isPast ? "Completed" : "Pending";
+            return `
+              <div class="timeline-step">
+                <strong>${step}</strong>
+                <span class="badge ${badgeClass}">${label}</span>
+              </div>
+            `;
+          })
+          .join("");
+
+        return `
+          <section class="card">
+            <h2 class="view-title">Proposal Status Timeline</h2>
+            <p class="view-subtitle muted">Demonstrates draft to signed lifecycle for presales handoff.</p>
+            ${renderPresalesNav()}
+            <div class="timeline">${timeline}</div>
+            <div class="btn-row">
+              <button class="btn-neutral" onclick="setPresalesStep('back')">Previous Status</button>
+              <button class="btn-primary" onclick="setPresalesStep('next')">Next Status</button>
+              <button class="btn-outline" onclick="routeTo('landing')">Return to Hub</button>
+            </div>
+          </section>
+        `;
+      }
+
+      function renderSchedulingNav() {
+        return `
+          <div class="btn-row">
+            <button class="btn-neutral" onclick="routeTo('landing')">Back to Hub</button>
+            <button class="btn-outline" onclick="routeTo('schedule-jobs')">Jobs Board</button>
+            <button class="btn-outline" onclick="routeTo('schedule-detail')">Job Detail</button>
+            <button class="btn-outline" onclick="routeTo('schedule-field-update')">Field Update</button>
+            <button class="btn-outline" onclick="routeTo('schedule-invoice')">Invoice Trigger</button>
+          </div>
+        `;
+      }
+
+      function renderSchedulingJobs() {
+        const currentFilter = appState.scheduling.filterStatus;
+        const jobs = appState.scheduling.jobs.filter((job) =>
+          currentFilter === "All" ? true : job.status === currentFilter
+        );
+        const rows = jobs
+          .map((job) => {
+            const badge =
+              job.status === "Completed"
+                ? "badge-complete"
+                : job.status === "In Progress"
+                ? "badge-progress"
+                : "badge-draft";
+            return `
+              <tr>
+                <td>${job.id}</td>
+                <td>${job.client}</td>
+                <td>${job.technician}</td>
+                <td>${job.window}</td>
+                <td><span class="badge ${badge}">${job.status}</span></td>
+                <td><button class="btn-outline" onclick="selectJob('${job.id}')">Open</button></td>
+              </tr>
+            `;
+          })
+          .join("");
+
+        return `
+          <section class="card">
+            <h2 class="view-title">Job Scheduling Board</h2>
+            <p class="view-subtitle muted">Jobber-style dispatch board with status filters. Inventory excluded.</p>
+            ${renderSchedulingNav()}
+            <div class="filters">
+              <div class="field">
+                <label>Status Filter</label>
+                <select onchange="applyScheduleFilter(this.value)">
+                  <option ${currentFilter === "All" ? "selected" : ""}>All</option>
+                  <option ${currentFilter === "Planned" ? "selected" : ""}>Planned</option>
+                  <option ${currentFilter === "In Progress" ? "selected" : ""}>In Progress</option>
+                  <option ${currentFilter === "Completed" ? "selected" : ""}>Completed</option>
+                </select>
+              </div>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr><th>Job ID</th><th>Client</th><th>Technician</th><th>Schedule Window</th><th>Status</th><th>Action</th></tr>
+                </thead>
+                <tbody>${rows}</tbody>
+              </table>
+            </div>
+          </section>
+        `;
+      }
+
+      function renderSchedulingDetail() {
+        const job = getSelectedJob();
+        if (!job) {
+          return `
+            <section class="card">
+              <h2>Job Detail</h2>
+              <p class="muted">Select a job from the board first.</p>
+              ${renderSchedulingNav()}
+            </section>
+          `;
+        }
+
+        return `
+          <section class="card">
+            <h2 class="view-title">Job Detail</h2>
+            <p class="view-subtitle muted">Phase and assignment view for PM scheduling decisions.</p>
+            ${renderSchedulingNav()}
+            <div class="split">
+              <article class="card">
+                <h3>${job.id} - ${job.client}</h3>
+                <p><span class="chip">${job.phase}</span><span class="chip">${job.technician}</span></p>
+                <p class="muted">Window: ${job.window}</p>
+                <p><strong>Progress:</strong> ${job.progress}%</p>
+                <div class="progress-bar"><div class="progress" style="width:${job.progress}%"></div></div>
+                <div class="btn-row">
+                  <button class="btn-primary" onclick="routeTo('schedule-field-update')">Open Field Update</button>
+                </div>
+              </article>
+              <aside class="side-panel">
+                <h3>Work Phases</h3>
+                <p class="muted">Task checklist only. Materials and inventory are intentionally omitted.</p>
+                <ul>
+                  <li>Site safety and access confirmation</li>
+                  <li>Equipment install and mounting</li>
+                  <li>Controls and performance test</li>
+                  <li>Client walkthrough and closeout</li>
+                </ul>
+              </aside>
+            </div>
+          </section>
+        `;
+      }
+
+      function renderSchedulingFieldUpdate() {
+        const field = appState.scheduling.fieldUpdate;
+        return `
+          <section class="card">
+            <h2 class="view-title">Field Update Form</h2>
+            <p class="view-subtitle muted">Technician submits progress notes and status updates from site.</p>
+            ${renderSchedulingNav()}
+            <div class="filters">
+              <div class="field">
+                <label>New Status</label>
+                <select onchange="appState.scheduling.fieldUpdate.newStatus=this.value">
+                  <option ${field.newStatus === "Planned" ? "selected" : ""}>Planned</option>
+                  <option ${field.newStatus === "In Progress" ? "selected" : ""}>In Progress</option>
+                  <option ${field.newStatus === "Completed" ? "selected" : ""}>Completed</option>
+                </select>
+              </div>
+              <div class="field" style="grid-column:1 / -1;">
+                <label>Progress Notes</label>
+                <textarea onchange="appState.scheduling.fieldUpdate.notes=this.value">${field.notes}</textarea>
+              </div>
+              <div class="field" style="grid-column:1 / -1;">
+                <label>Photo Placeholder</label>
+                <input value="site-photo-placeholder.jpg" />
+              </div>
+            </div>
+            <div class="btn-row">
+              <button class="btn-primary" onclick="showModal('Field Update Submitted', 'Update saved in prototype state only.')">Submit Update</button>
+              <button class="btn-outline" onclick="routeTo('schedule-invoice')">Continue to Invoice Trigger</button>
+            </div>
+          </section>
+        `;
+      }
+
+      function renderSchedulingInvoice() {
+        const job = getSelectedJob();
+        return `
+          <section class="card">
+            <h2 class="view-title">Invoice Trigger Confirmation</h2>
+            <p class="view-subtitle muted">Visual handoff from completed work to finance workflow.</p>
+            ${renderSchedulingNav()}
+            <div class="card-grid">
+              <article class="card">
+                <h3>Ready for Invoice</h3>
+                <p><strong>Job:</strong> ${job ? job.id : "No job selected"}</p>
+                <p><strong>Client:</strong> ${job ? job.client : "N/A"}</p>
+                <p class="muted">In production, this would call Jobber or accounting integration.</p>
+              </article>
+              <article class="card">
+                <h3>Handoff Status</h3>
+                <p><span class="badge badge-review">Pending Finance Action</span></p>
+                <div class="btn-row">
+                  <button class="btn-primary" onclick="showModal('Invoice Triggered', 'Mock finance trigger completed successfully.')">Trigger Invoice</button>
+                  <button class="btn-outline" onclick="routeTo('landing')">Return to Hub</button>
+                </div>
+              </article>
+            </div>
+          </section>
+        `;
+      }
+
+      function render() {
+        switch (appState.view) {
+          case "presales-intake":
+            appEl.innerHTML = renderPresalesIntake();
+            break;
+          case "presales-estimate":
+            appEl.innerHTML = renderPresalesEstimate();
+            break;
+          case "presales-proposal":
+            appEl.innerHTML = renderPresalesProposal();
+            break;
+          case "presales-status":
+            appEl.innerHTML = renderPresalesStatus();
+            break;
+          case "schedule-jobs":
+            appEl.innerHTML = renderSchedulingJobs();
+            break;
+          case "schedule-detail":
+            appEl.innerHTML = renderSchedulingDetail();
+            break;
+          case "schedule-field-update":
+            appEl.innerHTML = renderSchedulingFieldUpdate();
+            break;
+          case "schedule-invoice":
+            appEl.innerHTML = renderSchedulingInvoice();
+            break;
+          default:
+            appEl.innerHTML = renderLanding();
+        }
+      }
+
+      render();
+    </script>
+  </body>
+</html>
