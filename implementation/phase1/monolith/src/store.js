@@ -1,7 +1,8 @@
 const XLSX = require("xlsx");
 const path = require("path");
 
-const DB_PATH = path.resolve(__dirname, "../../db_files/CRM_Datastore_Quickstart_v1.xlsx");
+// ✅ Correct
+const DB_PATH = path.resolve(__dirname, "../../../db_files/CRM_Datastore_Quickstart_v1.xlsx");
 
 function readWorkbook() {
   return XLSX.readFile(DB_PATH);
