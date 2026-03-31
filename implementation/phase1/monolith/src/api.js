@@ -1,5 +1,6 @@
 const express = require("express");
 const { readWorkbook, writeWorkbook, getSheetRows, replaceSheetRows, nowIso, nextId } = require("./store");
+const { notifyAssignment } = require("./notify");
 
 // ── Date-based ID prefix: BID-YYYYMMDD- / PRJ-YYYYMMDD- ──
 function datePrefix(type) {
@@ -14,6 +15,33 @@ function createApi() {
   const router = express.Router();
 
   router.get("/health", (_req, res) => res.json({ ok: true, at: nowIso() }));
+
+  // ── Auth: Login + OAuth Callback ──
+  const { getAuthUrl, getTokenFromCode } = require('../auth/graphClient');
+
+  router.get('/auth/login', async (_req, res) => {
+    try {
+      const url = await getAuthUrl();
+      res.redirect(url);
+    } catch (err) {
+      res.status(500).json({ error: 'Auth URL failed', details: err.message });
+    }
+  });
+
+  router.get('/auth/callback', async (req, res) => {
+    try {
+      const tokenResponse = await getTokenFromCode(req.query.code);
+      // Send token to frontend via a small HTML page that stores it
+      res.send(`<script>
+        sessionStorage.setItem('accessToken', '${tokenResponse.accessToken}');
+        window.location.href = '/';
+      </script>`);
+    } catch (err) {
+      res.status(500).json({ error: 'Token exchange failed', details: err.message });
+    }
+  });
+
+
 
   // ── Users ──
   router.get("/users", (_req, res) => {
@@ -148,6 +176,7 @@ function createApi() {
     assignments.push(task);
     replaceSheetRows(wb, "Assignments", assignments);
     writeWorkbook(wb);
+    notifyAssignment(req.headers["x-access-token"], task).catch(() => {});
     res.status(201).json(task);
   });
 
@@ -317,6 +346,11 @@ function createApi() {
         Notes:            task.Notes || ""
       });
       replaceSheetRows(wb, "Assignments", assignments);
+      notifyAssignment(req.headers["x-access-token"], {
+        AssignedUserId: task.AssignedUserId, EntityType: "bid_task",
+        EntityId: task.BidTaskId, TaskTitle: task.TaskName,
+        AssignedRole: "general", DueDate: task.DueDate, Priority: task.Priority
+      }).catch(() => {});
     }
 
     writeWorkbook(wb);
@@ -354,7 +388,7 @@ function createApi() {
       }
       replaceSheetRows(wb, "Assignments", assignments);
     } else if (row.AssignedUserId && !isDone) {
-      assignments.push({
+      const newAsg = {
         AssignmentId:     nextId("ASG-", assignments, "AssignmentId"),
         EntityType:       "bid_task",
         EntityId:         row.BidTaskId,
@@ -368,8 +402,10 @@ function createApi() {
         CompletionEffect: "",
         Priority:         row.Priority || "medium",
         Notes:            row.Notes || ""
-      });
+      };
+      assignments.push(newAsg);
       replaceSheetRows(wb, "Assignments", assignments);
+      notifyAssignment(req.headers["x-access-token"], newAsg).catch(() => {});
     }
 
     writeWorkbook(wb);
@@ -450,7 +486,9 @@ function createApi() {
         Priority: "high",
         Notes: wo.Notes || ""
       });
+      const woAsg = assignments[assignments.length - 1];
       replaceSheetRows(wb, "Assignments", assignments);
+      notifyAssignment(req.headers["x-access-token"], woAsg).catch(() => {});
     }
 
     writeWorkbook(wb);
@@ -505,7 +543,7 @@ function createApi() {
       }
       replaceSheetRows(wb, "Assignments", assignments);
     } else if (installer && !isComplete) {
-      assignments.push({
+      const reassignAsg = {
         AssignmentId:     nextId("ASG-", assignments, "AssignmentId"),
         EntityType:       "work_order",
         EntityId:         row.WorkOrderId,
@@ -519,8 +557,10 @@ function createApi() {
         CompletionEffect: "Set WorkOrderStatus=complete",
         Priority:         "high",
         Notes:            row.Notes || ""
-      });
+      };
+      assignments.push(reassignAsg);
       replaceSheetRows(wb, "Assignments", assignments);
+      notifyAssignment(req.headers["x-access-token"], reassignAsg).catch(() => {});
     }
 
     // ── Auto-advance phase on completion ──
