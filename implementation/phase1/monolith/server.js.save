@@ -1,0 +1,81 @@
+
+cat > /home/site/wwwroot/server.js << 'EOF'
+const express = require("express");
+const path = require("path");
+const session = require("express-session");
+const { createApi } = require("./src/api");
+const { getAuthUrl, getTokenFromCode } = require('./auth/graphClient');
+const { Client } = require('@microsoft/microsoft-graph-client');
+
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.use(express.json());
+
+// Session middleware
+app.use(session({
+  secret: process.env.CLIENT_SECRET,
+  resave: false,
+  saveUninitialized: false,
+}));
+
+// Login route
+app.get('/auth/login', async (req, res) => {
+  const authUrl = await getAuthUrl();
+  res.redirect(authUrl);
+});
+
+// Callback route
+app.get('/auth/callback', async (req, res) => {
+  const tokenResponse = await getTokenFromCode(req.query.code);
+  req.session.accessToken = tokenResponse.accessToken;
+  res.redirect('/dashboard');
+});
+
+// Test - fetch emails
+app.get('/my-emails', async (req, res) => {
+  const graphClient = Client.init({
+    authProvider: (done) => done(null, req.session.accessToken),
+  });
+  const messages = await graphClient
+    .api('/me/messages')
+    .select('subject,from,receivedDateTime')
+    .top(5)
+    .get();
+  res.json(messages.value);
+});
+
+// Test - fetch calendar events
+app.get('/my-calendar', async (req, res) => {
+  const graphClient = Client.init({
+    authProvider: (done) => done(null, req.session.accessToken),
+  });
+  const events = await graphClient
+    .api('/me/calendar/events')
+    .select('subject,start,end,location')
+    .top(5)
+    .get();
+  res.json(events.value);
+});
+
+// Test - fetch SharePoint sites
+app.get('/my-sites', async (req, res) => {
+  const graphClient = Client.init({
+    authProvider: (done) => done(null, req.session.accessToken),
+  });
+  const sites = await graphClient
+    .api('/sites?search=*')
+    .get();
+  res.json(sites.value);
+});
+
+app.use("/api", createApi());
+app.use(express.static(path.join(__dirname, "public")));
+app.get("*", (_req, res) => {
+  res.sendFile(path.join(__dirname, "public", "index.html"));
+});
+
+app.listen(PORT, () => {
+  console.log(`MVP monolith running on http://localhost:${PORT}`);
+});
+EOF
